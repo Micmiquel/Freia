@@ -1,0 +1,12 @@
+{
+  "jsonFile": "rewards.json",
+  "templateFile": "rewards.md",
+  "jsonName": "Nom",
+  "jsonNamePath": false,
+  "folderName": "Monstres/Targetes de monstres",
+  "topField": "",
+  "notePrefix": "",
+  "noteSuffix": "",
+  "overwrite": true,
+  "helperFile": ""
+}
