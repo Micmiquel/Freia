@@ -211,8 +211,8 @@ Pots usar aquesta característica un nombre de cops igual al teu modificador de 
 #### Avatar d'Eco
 Començant al 7è nivell, pots transferir temporalment la teva consciència al teu eco. Amb una acció, pots veure a través dels ulls del teu eco, i escoltar a través de les seves orelles. Durant aquest temps, ets ensordit i encegat. Pots sostenir aquest efecte fins a 10 minuts, i pots finalitzar-lo en qualsevol moment (no requereix una acció). Mentre el teu eco sigui usat d'aquesta manera, pot estar a fins a 300 metres de tu sense ser destruït.
 
-#### Martir d'Ombra
-Començant al 10è nivell, pots fer que el teu eco throw itself in front d'un atac directed a una altra criatura que puguis veure. Abans del tir d'atac is fet, pots usar la teva reacció to teletransport l'eco a un espai no ocupat a 5 u. de the targeted criatura. The tir d'atac that triggered the reacció is en comptes fet contra el teu eco.
+#### Màrtir d'Ombra
+Començant al 10è nivell, pots fer que el teu eco es llenci davant d'un atac dirigit a una altra criatura que puguis veure. Abans de que es faci el tir d'atac, pots usar la teva reacció per a teletransportar l'eco a un espai no ocupat a 5 u. de la criatura afectada. El tir d'atac que ha activat la reacció es fa contra el teu eco.
 
 Un cop uses aquesta característica, no pots usar-la una altra vegada fins que acabis un descans curt o llarg.
 
@@ -230,7 +230,7 @@ Addicionalment, quan tires iniciativa i no tens usos restants de la teva caracte
 
 ### Cavaller Màgic
 
-L'arquetípic Cavaller Màgic combina la mestria mastrial comuna en tots els guerrers amb un curós estudi de la màgia. Els Cavallers Màgics usen tècniques màgiques similars a aquelles que practiquen els mags. Centren el seu estudi en dues de les vuit escoles de màgia: l'abjuració i l'evocació. Els encanteris d'abjuració atorguen al Cavaller Màgic protecció addicional en batalla, i els encanteris d'evocació causen dany a molts enemics a la vegada, estenent l'abast del guerrer en combat. Aquests cavallers aprenen un nombre comparativament petit d'encanteris, aprenent-los de memòria en comptes de guardar-los en un llibre d'encanteris.
+L'arquetípic Cavaller Màgic combina la mestria marcial comuna en tots els guerrers amb un curós estudi de la màgia. Els Cavallers Màgics usen tècniques màgiques similars a aquelles que practiquen els mags. Centren el seu estudi en dues de les vuit escoles de màgia: l'abjuració i l'evocació. Els encanteris d'abjuració atorguen al Cavaller Màgic protecció addicional en batalla, i els encanteris d'evocació causen dany a molts enemics a la vegada, estenent l'abast del guerrer en combat. Aquests cavallers aprenen un nombre comparativament petit d'encanteris, aprenent-los de memòria en comptes de guardar-los en un llibre d'encanteris.
 
 ***Font: Eldritch Knight, PHB***
 
@@ -258,10 +258,10 @@ L'arquetípic Cavaller Màgic combina la mestria mastrial comuna en tots els gue
 | 20è | 3 | 13 | 4 | 3 | 3 | 1 |
 
 #### Màgia
-Quan arribes al 3r nivell, you augment la teva proesa marcial amb l'habilitat per conjurar encanteris.
+Quan arribes al 3r nivell, augmentes la teva proesa marcial amb l'habilitat per conjurar encanteris.
 
 ##### Trucs
-Aprens dos trucs escollits per tu de la llista d'encanteris de mag. Aprens an addicional truc de mag escollida per tu al 10è nivell.
+Aprens dos trucs escollits per tu de la llista d'encanteris de mag. Aprens un truc de mag addicional escollit per tu al 10è nivell.
 
 ##### Caselles d'Encanteri
 La taula del Cavaller Màgic mostra quantes caselles d'encanteri tens per conjurar els teus encanteris de mag de 1r nivell i superiors. Per conjurar un d'aquests encanteris, has de gastar una casella del nivell de l'encanteri o major. Recuperes totes les caselles d'encanteri gastades quan acabes un descans llarg.
@@ -381,7 +381,7 @@ Addicionalment, pots invocar la runa amb una acció bonus per incrementar la tev
 Aquesta màgia rúnica canalitza la sensatesa associada amb gegants de roca. Mentre estiguis vestint o portant un objecte inscrit amb aquesta runa, tens avantatge en controls de Saviesa (Intuïció), i tens visió nocturna fins a un rang de 120 u.
 Addicionalment, quan una criatura que puguis veure acaba el seu torn a 30 u. de tu, pots usar la teva reacció per invocar la runa i forçar la criatura a fer un salvament de Saviesa. A no ser que el salvament tingui èxit, la criatura és encantada per tu per 1 minut. Mentre estigui encantat d'aquesta manera, la criatura té una velocitat de 0 i és incapacitada, caient en un estupor de somni. La criatura repeteix el salvament al final de cada un dels seus torns, acabant amb l'efecte en un èxit. Un cop invoques aquesta runa, no pots fer-ho una altra vegada fins que acabis un descans curt o llarg.
 ##### Runa dels Turons (7è Nivell o Major)
-Aquesta màgia rúnica et concedeix una resistència reminiscent d'un gegant dels turons. Mentre estiguis vestint o portant un objecte that bears aquesta runa, tens avantatge en salvaments contra ser enverinat, i tens resistència contra el dany de verí.
+Aquesta màgia rúnica et concedeix una resistència reminiscent d'un gegant dels turons. Mentre estiguis vestint o portant un objecte que porti aquesta runa, tens avantatge en salvaments contra ser enverinat, i tens resistència contra el dany de verí.
 Addicionalment, pots invocar la runa amb una acció bonus, guanyant resistència al dany d'impacte, perforant i tallant per 1 minut. Un cop invoques aquesta runa, no pots fer-ho una altra vegada fins que acabis un descans curt o llarg.
 ##### Runa de la Tempesta (7è Nivell o Major)
 Usant aquesta runa, pots entreveure el futur com un gegant de la tempesta vident. Mentre estiguis vestint o portant un objecte inscrit amb aquesta runa, tens avantatge en controls d'Intel·ligència (Arcana), i no pots ser sorprès sempre que no estiguis incapacitat.
@@ -459,7 +459,7 @@ Un cop has conjurat l'encanteri amb aquesta característica, no pots fer-ho una 
 
 ### Mestre de Batalla
 
-Aquells que emulen l'arquetípic Mestre de Batalla utilitzen tècniques marcials transmeses a través de les generacions. Per a un Mestre de Batalla, el combat és un camp acadèmic, que a vegades inclou matèries més enllà de la batalla, com la ferreria i la caligrafia. No tot guerrer absorbeix les lliçons d'història, teoria, i art que es reflecteixen en l'arquetip del  Mestre de Batalla, però aquells que ho fan són are guerrers complets de gran habilitat i coneixement.
+Aquells que emulen l'arquetípic Mestre de Batalla utilitzen tècniques marcials transmeses a través de les generacions. Per a un Mestre de Batalla, el combat és un camp acadèmic, que a vegades inclou matèries més enllà de la batalla, com la ferreria i la caligrafía. No tot guerrer absorbeix les lliçons d'història, teoria i art que es reflecteixen en l'arquetip del  Mestre de Batalla, però aquells que ho fan són guerrers complets de gran habilitat i coneixement.
 
 ***Font: PHB***
 

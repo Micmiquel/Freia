@@ -10,7 +10,7 @@
 
 **Duració:** 8 hores
 
-Per la duració, amagues un objectiu que toquis de màgia de [[Encanteris/Llista d'Encanteris/Divinació]]. L'objectiu pot ser una criatura voluntària o un lloc o un objecte no major than 10 u. en qualsevol dimensió. L'objectiu no pot ser afectat per cap màgia de [[Encanteris/Llista d'Encanteris/Divinació]] o percebut a través de sensors màgics.
+Per la duració, amagues un objectiu que toquis de màgia de [[Encanteris/Llista d'Encanteris/Divinació]]. L'objectiu pot ser una criatura voluntària o un lloc o un objecte no major a 10 u. en qualsevol dimensió. L'objectiu no pot ser afectat per cap màgia de [[Encanteris/Llista d'Encanteris/Divinació]] o percebut a través de sensors màgics.
 
 
 *Font: Nondetection, PHB*

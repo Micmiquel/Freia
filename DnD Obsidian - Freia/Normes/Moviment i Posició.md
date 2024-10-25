@@ -39,7 +39,7 @@ Per a moure't mentre estàs estirat, t'has d'**arrossegar** o usar màgia, com e
 >- obrir o tancar una porta
 >- treure una poció de la teva motxilla
 >- recollir una destral del terra
->- agadar una galindaina d'una taula
+>- agafar una galindaina d'una taula
 >- treure't un anell del dit
 >- entaforar-te menjar a la boca
 >- plantar un estendard al terra
@@ -47,7 +47,7 @@ Per a moure't mentre estàs estirat, t'has d'**arrossegar** o usar màgia, com e
 >- beure tota la cervesa d'una gerra
 >- activar una palanca o interruptor
 >- agafar una torxa d'una paret
->- take un llibre de a shelf pots abast
+>- agafar un llibre d'un prestatge al teu abast
 >- apagar una flama petita
 >- posar-se una màscara
 >- posar-te la caputxa de la teva capa

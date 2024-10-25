@@ -36,7 +36,7 @@ La criatura és una aliada cap a tu i els teus companys. En combat, la criatura 
 - Resistències Compartides. Quan invoques el drac, escull una de les seves resistències al dany. Tens resistència al dany escollit fins que l'encanteri acabi.
 *Accions*
 - Multi-atac. El drac fa un nombre d'atacs d'Esquinçar igual a la meitat del nivell de l'encanteri (arrodonint a la baixa), i usa l'Arma d'Alè.
-- Esquinçar. Atac d'Arma Cos a Cos: el teu modificador d'habilitat d'encanteri per donar, rang 10 ft., un objectiu. Hit: 1d6 + 4 + el nivell de l'encanteri de dany perforant.
+- Esquinçar. Atac d'Arma Cos a Cos: el teu modificador d'habilitat d'encanteri per donar, rang 10 ft., un objectiu. Dany: 1d6 + 4 + el nivell de l'encanteri de dany perforant.
 - Arma d'Alè. El drac exhala energia destructiva en un con de 30 u. Cada criatura en aquesta àrea ha de fer un salvament de Destresa contra la teva CD de salvament d'encanteri. Una criatura rep 2d6 dany d'un tipus al qual aquest drac tingui resistència (tu esculls) en un salvament fallit, o la meitat en un d'exitós.
 
 

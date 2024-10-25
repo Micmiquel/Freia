@@ -130,18 +130,18 @@ Al 20è nivell, quan tires iniciativa i no et queden usos d'*Inspiració Barda*,
 
 ### Col·legi de la Creació
 
-Els bards creuen que el cosmos és una obra d'art - la creació dels primers dracs i deïtats. Aquesta obra creativa va incloure harmoníes que continuen ressonant a través de l'existència fins avui, un poder conegut com a la Cançó de Creació. Els bards del Col·legi de la Creació canalitzen aquesta cançó primitiva a través de la dansa, la música, i la poesia, i els seus mestre comparteixen aquesta lliçó: "Abans del Sol i la lluna, hi hagué la Cançó, i la seva música desperà la primera alba. Les seves melodies van delectar tant les pedres i arbres que algunes d'elles van guanyar una veu pròpia. I ara també canten. Apreneu la Cançó, estudiants, i vosaltres també podreu ensenyar a les muntanyes a ballar i cantar."
+Els bards creuen que el cosmos és una obra d'art - la creació dels primers dracs i deïtats. Aquesta obra creativa va incloure harmonies que continuen ressonant a través de l'existència fins avui, un poder conegut com a la Cançó de Creació. Els bards del Col·legi de la Creació canalitzen aquesta cançó primitiva a través de la dansa, la música, i la poesia, i els seus mestre comparteixen aquesta lliçó: "Abans del Sol i la lluna, hi hagué la Cançó, i la seva música despertà la primera alba. Les seves melodies van delectar tant les pedres i arbres que algunes d'elles van guanyar una veu pròpia. I ara també canten. Apreneu la Cançó, estudiants, i vosaltres també podreu ensenyar a les muntanyes a ballar i cantar."
 
-Els nans i els gnoms sovint animen als seus bards a tornar-se estudiants de la Cançó de Creació. I entre els dracònics, es revera la Cançó de Creació, doncs les llegendes representen Bahamut i Tiamat -the majors dels dracs- com a dos dels primers cantants de la cançó.
+Els nans i els gnoms sovint animen als seus bards a tornar-se estudiants de la Cançó de Creació. I entre els dracònics, es venera la Cançó de Creació, doncs les llegendes representen Bahamut i Tiamat -els majors dels dracs- com a dos dels primers cantants de la cançó.
 
 ***Font: Tasha's Cauldron of Everything***
 
 #### Nota de Potencial
 Quan t'uneixes al Col·legi de la Creació al 3r nivell, quan dones a una criatura un dau d'[[Inspiració Barda]], pots pronunciar una nota de la Cançó de Creació per crear una mota Diminuta de potencial, que orbita a 5 u. d'aquesta criatura. La mota és intangible i invulnerable, i dura fins que es perd el dau d'*Inspiració Barda*. La mota sembla una nota musical, una estrella, una flor, o un altre símbol d'art o de vida que esculls.
 
-Quan la criatura usa el dau d'*Inspiració Barda*, la mota proveeix an efecte addicional basat en si el dau beneficia un control d'habilitat, un tir d'atac, o un salvament, com es detalla a sota:
+Quan la criatura usa el dau d'*Inspiració Barda*, la mota proveeix un efecte addicional basat en si el dau beneficia un control d'habilitat, un tir d'atac, o un salvament, com es detalla a sota:
 
-- **Control d'Habilitat**. Quan la criatura tiri el dau d'*Inspiració Barda* per afegir-lo a un control d'habilitat, la criatura pot tirar el dau d'*Inspiració Barda* una altra vegada i escollir quina tirada usar, mentre la mota rebenta i emet espurnes colorides inofensives per un moment.
+- **Control d'Habilitat**. Quan la criatura tiri el dau d'*Inspiració Barda* per afegir-lo a un control d'habilitat, la criatura pot tirar el dau d'*Inspiració Barda* una altra vegada i escollir quina tirada usar, mentre la mota rebenta i emet espurnes acolorides inofensives per un moment.
 - **Tir d'Atac**. Immediatament després de que la criatura tiri el dau d'*Inspiració Barda* per afegir-lo a un tir d'atac contra un objectiu, la mota s'esmicola de manera tronadora. L'objectiu i cada criatura escollida per tu que puguis veure a 5 u. d'ell ha de superar un salvament de Constitució contra la teva CD de salvament d'encanteri o rebre dany de so igual al nombre tirat al dau d'*Inspiració Barda*.
 - **Salvament**. Immediatament després de que la criatura tiri el dau d'*Inspiració Barda* i l'afegeixi a un salvament, la mota s'esfuma amb el so de música suau, causant que la criatura guanyi punts vitals temporals iguals al nombre tirat en el dau d'*Inspiració Barda* més el teu modificador de Carisma (mínim de 1 punt vital temporal).
 

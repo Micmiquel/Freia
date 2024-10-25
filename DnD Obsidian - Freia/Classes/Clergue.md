@@ -586,7 +586,7 @@ Començant al 1r nivell, pots forjar un lligam potenciador entre persones que es
 Pots usar aquesta característica un nombre de cops igual al teu bonus de proficiència, i recuperes tots els usos gastats quan acabes un descans llarg.
 
 #### Canalitzar Divinitat: Bàlsam de Pau
-Començant al 2n nivell, pots usar *Canalitzar Divinitat* to make your very presència a soothing bàlsam. Amb una acció, pots moure't fins a la teva velocitat, sense provocar atacs d'oportunitat, i quan you move a 5 u. de any other criatura durant aquesta acció, pots restaurar un nombre de punts vitals a aquesta criatura igual a 2d6 + el teu modificador de Saviesa (mínim de 1 punt vital). Una criatura pot rebre this curació només una vegada quan you take aquesta acció.
+Començant al 2n nivell, pots usar *Canalitzar Divinitat* per a tornar la teva presència mateixa en un bàlsam calmant. Amb una acció, pots moure't fins a la teva velocitat, sense provocar atacs d'oportunitat, i quan et mous a 5 u. de qualsevol altra criatura durant aquesta acció, pots restaurar un nombre de punts vitals a aquesta criatura igual a 2d6 + el teu modificador de Saviesa (mínim de 1 punt vital). Una criatura pot rebre aquesta curació només una vegada quan uses aquesta acció.
 
 #### Lligam Protector
 Començant al 6è nivell, el lligam que forges entre persones les ajuda a protegir-se entre elles. Quan una criatura afectada pel teu *Lligam Encoratjador* és està a punt de rebre dany, un segona criatura lligada a 30 u. de la primera pot usar la seva reacció per teletransportar-se a un espai no ocupat a 5 u. de la primera criatura. La segona criatura llavors rep tot el dany en comptes de la primera.
@@ -685,7 +685,7 @@ Al 17è nivell, pots prendre un bocí de vitalitat d'una ànima que s'acomiada i
 
 ### Domini de la Vida
 
-El domini de la Vida es centra en la vibrant energia positiva -una de les forces fonamentals de l'univers- que sustenta tota  la vida. Les deïtats de la vida promouen la vitalitat i la salut a través de la curació dels malalts i ferits, prenent cura dels necessitats, i foragitant les forces de la mort i no-mort. Gairebé tota deïtat no malvada can reivindicar influència sobre aquest domini, particularment deïtats de l'agricultura (com Chauntea, Arawai, i Demeter), el Sol (com Lathander, Pelor, i Re-Horakhty), la curació o la resistència (com Ilmater, Mishakal, Apollo, i Diancecht), i de la llar i les comunitat (com Hestia, Hathor, i Boldrei).
+El domini de la Vida es centra en la vibrant energia positiva -una de les forces fonamentals de l'univers- que sustenta tota  la vida. Les deïtats de la vida promouen la vitalitat i la salut a través de la curació dels malalts i ferits, prenent cura dels necessitats, i foragitant les forces de la mort i no-mort. Gairebé tota deïtat no malvada pot reivindicar influència sobre aquest domini, particularment deïtats de l'agricultura (com Chauntea, Arawai, i Demeter), el Sol (com Lathander, Pelor, i Re-Horakhty), la curació o la resistència (com Ilmater, Mishakal, Apollo, i Diancecht), i de la llar i les comunitat (com Hestia, Hathor, i Boldrei).
 
 **Taula - Encanteris del Domini de la Vida**
 

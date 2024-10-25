@@ -2,9 +2,9 @@
 
 Nedar a través d'un riu cabalós, esmunyir-se pel corredor d'una masmorra, escalar la perillosa pendent d'una muntanya -tot tipus de moviments juguen un tol clau en les aventures de jocs de fantasia.
 
-El MM pot resumir el moviment dels aventurers sense calcular les distànces o duració del viatge exactes: "Viatges a través del bosc i trobes l'entrada de la masmorra al vespre del tercer dia." Fins i tot en una masmorra, particularment una masmorra gran o un sistema de coves, el MJ pot resumir el moviment entre encontres: "Després de matar el guardà a l'entrada a l'anciana fortalesa nana, consulteu el teu mapa, que us dirigeix you a través de kilòmetres de corredors amb eco fins a un avenc creuat per un estret arc de pedra."
+El MM pot resumir el moviment dels aventurers sense calcular les distàncies o duració del viatge exactes: "Viatges a través del bosc i trobes l'entrada de la masmorra al vespre del tercer dia." Fins i tot en una masmorra, particularment una masmorra gran o un sistema de coves, el MJ pot resumir el moviment entre encontres: "Després de matar el guarda a l'entrada a l'antiga fortalesa nana, consulteu el teu mapa, que us dirigeix a través de kilòmetres de corredors amb eco fins a un avenc creuat per un estret arc de pedra."
 
-Tot i això, a vegades és important quant es tarda en arribar d'un lloc a un altre, si la resposta està en dies, hores, o minuts. Les normes per determinar la duració del viatge depenen de dos factors: la velocitat i el ritme de desplaçament de les criatures que es mouen i el terreny sobre el que s'estan movent.
+Tot i això, a vegades és important quant es tarda en arribar d'un lloc a un altre, i si la resposta és en dies, hores, o minuts. Les normes per determinar la duració del viatge depenen de dos factors: la velocitat i el ritme de desplaçament de les criatures que es mouen i el terreny sobre el que s'estan movent.
 
 ## Velocitat
 

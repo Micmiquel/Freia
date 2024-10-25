@@ -85,7 +85,7 @@ Una foscor màgica i impenetrable omple la boca oberta d'una cara de pedra talla
 
 Un control d'Intel·ligència (Arcana) de CD 20 exitós revela que la boca conté una [[Esfera d'Anihilació]] que no pot ser controlada o moguda. És altrament idèntica a una [[Esfera d'Anihilació]].
 
-Algunes versions d'aquesta trampa inclouen an encantament situat a la cara de pedra, de manera que les criatures especificades sentin un impuls aclaparador d'acostar-s'hi i ficar-se dins de la seva boca. Aquest efecte és altrament igual a l'aspecte *Simpatia* de l'encanteri [[Antipatia/Simpatia]]. Un encanteri de [[Dissipar Màgia]] (CD 18) exitós elimina aquest encantament.
+Algunes versions d'aquesta trampa inclouen un encantament situat a la cara de pedra, de manera que les criatures especificades sentin un impuls aclaparador d'acostar-s'hi i ficar-se dins de la seva boca. Aquest efecte és altrament igual a l'aspecte *Simpatia* de l'encanteri [[Antipatia, Simpatia]]. Un encanteri de [[Dissipar Màgia]] (CD 18) exitós elimina aquest encantament.
 
 #### Esfera Rodoladora
 *Trampa mecànica*
@@ -214,35 +214,35 @@ Un personatge afligida amb **bogeria indefinida** guanya un nou defecte de perso
 
 **Taula - Efectes de Bogeria de Curt Termini**
 
-| d100   | Efecte (dura 1d10 minuts)        |
-|--------|-----------------------------|
-| 01-20  | El personatge es retira dins de la seva ment i queda paralitzat. L'efecte acaba si el personatge rep qualsevol dany.        |
-| 21-30  | El personatge queda incapacitat i passa la duració cridant, rient, o plorant. |
-| 31-40  | El personatge queda espantat i ha d'usar la seva acció i moviment cada ronda per a fugir de la font de la por. |
-| 41-50  | El personatge comença a balbucejar i és incapaç de parlar amb normalitat o conjurar encanteris.    |
-| 51-60  | El personatge ha d'usar la seva acció per atacar a la criatura més propera en cada ronda. |
-| 61-70  | El personatge experimenta al·lucinacions vívides i té desavantatge en controls d'habilitat. |
-| 71-75  | El personatge fa allò que qualsevol li digui que no sigui clarament auto-destructiu.  |
-| 76-80  | El personatge experimenta un impuls aclaparador de menjar quelcom estrany com terra, llim, o immundícia. |
-| 81-90  | El personatge és atordit.  |
-| 91-100 | El personatge cau inconscient.   |
+| d100   | Efecte (dura 1d10 minuts)                                                                                            |
+| ------ | -------------------------------------------------------------------------------------------------------------------- |
+| 01-20  | El personatge es retira dins de la seva ment i queda paralitzat. L'efecte acaba si el personatge rep qualsevol dany. |
+| 21-30  | El personatge queda incapacitat i passa la duració cridant, rient, o plorant.                                        |
+| 31-40  | El personatge queda espantat i ha d'usar la seva acció i moviment cada ronda per a fugir de la font de la por.       |
+| 41-50  | El personatge comença a balbucejar i és incapaç de parlar amb normalitat o conjurar encanteris.                      |
+| 51-60  | El personatge ha d'usar la seva acció per atacar a la criatura més propera en cada ronda.                            |
+| 61-70  | El personatge experimenta al·lucinacions vívides i té desavantatge en controls d'habilitat.                          |
+| 71-75  | El personatge fa allò que qualsevol li digui que no sigui clarament auto-destructiu.                                 |
+| 76-80  | El personatge experimenta un impuls aclaparador de menjar quelcom estrany com terra, llim, o immundícia.             |
+| 81-90  | El personatge és atordit.                                                                                            |
+| 91-100 | El personatge cau inconscient.                                                                                       |
 
 **Taula - Efectes de Bogeria de Llarg Termini**
 
-| d100   | Efecte (dura 1d10 × 10 hores)       |
-|--------|-------------------|
-| 01-10  | El personatge es sent obligat a repetir una activitat específica una vegada i una altra, com rentar-se les mans, tocar coses, resar, o contar monedes.     |
-| 11-20  | El personatge experimenta al·lucinacions vívides i té desavantatge en controls d'habilitat. |
-| 21-30  | El personatge sofreix una paranoia extrema. El personatge té desavantatge en controls de Saviesa i Carisma.         |
-| 31-40  | El personatge veu quelcom (normalment la font de la bogeria) amb una repugnància intensa, com si estigués afectat per l'efecte *antipatia* de l'encanteri [[Antipatia/Simpatia]]. |
-| 41-45  | El personatge experimenta una al·lucinació poderosa. Escull una poció, i el personatge s'imagina que està sota els seus efectes.  |
-| 46-55  | El personatge queda lligat a un "amulet de la sort," com una persona o un objecte, i té desavantatge en tirs d'atac, controls d'habilitat, i salvaments mentre estigui a més de 30 u. d'aquest.  |
-| 56-65  | El personatge és encegat (25%) o ensordit (75%).                            |
-| 66-75  | El personatge experimenta uncontrollable tremors o tics, which imposar desavantatge en tirs d'atac, controls d'habilitat, i salvaments that involucra Força o Destresa. |
+| d100   | Efecte (dura 1d10 × 10 hores)                                                                                                                                                                                                        |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01-10  | El personatge es sent obligat a repetir una activitat específica una vegada i una altra, com rentar-se les mans, tocar coses, resar, o contar monedes.                                                                               |
+| 11-20  | El personatge experimenta al·lucinacions vívides i té desavantatge en controls d'habilitat.                                                                                                                                          |
+| 21-30  | El personatge sofreix una paranoia extrema. El personatge té desavantatge en controls de Saviesa i Carisma.                                                                                                                          |
+| 31-40  | El personatge veu quelcom (normalment la font de la bogeria) amb una repugnància intensa, com si estigués afectat per l'efecte *antipatia* de l'encanteri [[Antipatia/Simpatia]].                                                    |
+| 41-45  | El personatge experimenta una al·lucinació poderosa. Escull una poció, i el personatge s'imagina que està sota els seus efectes.                                                                                                     |
+| 46-55  | El personatge queda lligat a un "amulet de la sort," com una persona o un objecte, i té desavantatge en tirs d'atac, controls d'habilitat, i salvaments mentre estigui a més de 30 u. d'aquest.                                      |
+| 56-65  | El personatge és encegat (25%) o ensordit (75%).                                                                                                                                                                                     |
+| 66-75  | El personatge experimenta tremors o tics incontrolables, que imposen desavantatge en tirs d'atac, controls d'habilitat, i salvaments que involucrin Força o Destresa.                                                                |
 | 76-85  | El personatge sofreix amnèsia parcial. El personatge qui és i retén els seus trets racials i característiques de classe, però no reconeix a altres persones ni recorda res que hagi passat abans de que la bogeria entrés en efecte. |
-| 86-90  | Quan el personatge rep dany, ha de superar un salvament de Saviesa de CD 15 o ser afectat com si hagués fallat un salvament contra l'encanteri [[Confusió]]. L'efecte de la confusió dura per 1 minut.            |
-| 91-95  | El personatge perd l'habilitat de parlar.   |
-| 96-100 | El personatge cau inconscient. Cap sacsejada o dany pot despertar el personatge. |
+| 86-90  | Quan el personatge rep dany, ha de superar un salvament de Saviesa de CD 15 o ser afectat com si hagués fallat un salvament contra l'encanteri [[Confusió]]. L'efecte de la confusió dura per 1 minut.                               |
+| 91-95  | El personatge perd l'habilitat de parlar.                                                                                                                                                                                            |
+| 96-100 | El personatge cau inconscient. Cap sacsejada o dany pot despertar el personatge.                                                                                                                                                     |
 
 **Taula - Defectes de Bogeria Indefinida**
 

@@ -3,7 +3,7 @@ Harmonització: true
 ---
 # Espasa d'Esmolamenta
 
-(Tipus:: Arma (qualsevol espasa that causa dany tallant)) (Raresa:: Molt rar )
+(Tipus:: Arma (qualsevol espasa que causi dany tallant)) (Raresa:: Molt rar )
 
 Quan ataques un objecte amb aquesta espasa màgica i dones, maximitza els daus de dany d'aquesta arma contra l'objectiu.
 

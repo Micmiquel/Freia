@@ -277,12 +277,12 @@ Quan un atacant que puguis veure et dona amb un atac, pots usar la teva reacció
 
 ### Caminant d'Horitzons
 
-Els caminants d'horitzons guarden el món contra amenaces que s'originen en altres plans o que volen devastar el regne mortal amb màgia d'altremón. Busquen portals planars i els vigilen, aventurant-se als Plans Interiors i els Plans Exteriors que és necessari per perseguir els seus enemics. Aquests exploradors són també amics de qualsevols forces del multivers – especialment dracs, fey, i elementals benevolents– que treballen per preservar la vida i l'ordre dels plans.
+Els caminants d'horitzons guarden el món contra amenaces que s'originen en altres plans o que volen devastar el regne mortal amb màgia d'altre món. Busquen portals planars i els vigilen, aventurant-se als Plans Interiors i els Plans Exteriors que és necessari per perseguir els seus enemics. Aquests exploradors són també amics de qualsevols forces del multivers – especialment dracs, fey, i elementals benèvols– que treballen per preservar la vida i l'ordre dels plans.
 
 ***Font: Xanathar's Guide to Everything***
 
 #### Màgia del Caminant d'Horitzons
-Començant al 3r nivell, aprens un encanteri addicional quan arribes a certs nivells en aquesta classe, com es mostra a the Caminant d'Horitzons Encanteris taula. L'encanteri conta com a un encanteri d'explorador per tu, però no conta contra el nombre d'encanteris d'explorador que coneixes.
+Començant al 3r nivell, aprens un encanteri addicional quan arribes a certs nivells en aquesta classe, com es mostra a la taula d'Encanteris del Caminant d'Horitzons. L'encanteri conta com a un encanteri d'explorador per tu, però no conta contra el nombre d'encanteris d'explorador que coneixes.
 
 **Encanteris del Caminant d'Horitzons**
 
@@ -400,11 +400,11 @@ Al 15è nivell, el teu lligam al teu dragó arriba el pinacle del seu poder. Men
 
 ### Guardià d'Eixams
 
-Sentint una profunda connexió amb el medi al seu voltant, alguns exploradors busquen a través de la seva connexió màgica al món, i formen un lligam amb un eixam d'esperits de la natura. The eixam es torna a potent força en batalla, a més de helpful company per l'explorador. Algunes Swarmkeepers are outcasts o hermits, keeping to themselves i their attendant swarms en comptes de dealing amb the discomfort d'altres. Other Swarmkeepers enjoy building vibrant comunitats that work per the mutual benefit de all aquells they consider part dels seus eixam.
+Sentint una profunda connexió amb el medi al seu voltant, alguns exploradors busquen a través de la seva connexió màgica al món, i formen un lligam amb un eixam d'esperits de la natura. L'eixam es torna una força poderosa en la batalla, a més d'un company útil per l'explorador. Alguns Guardians d'Eixams són proscrits o ermitans, mantenint una vida reservada amb els seus eixams ajudants en comptes de tractar amb el malestar d'altres. Altres Guardians d'Eixams gaudeixen construint comunitats vibrants que treballen pel benefici mutu de tots all aquells que consideren part dels seus eixams.
 
 ***Font: Tasha's Cauldron of Everything***
 
-#### Eixat Reunit
+#### Eixam Reunit
 Al 3r nivell, un eixam d'esperits intangibles de la natura s'ha lligat a tu i et pot ajudar en la batalla. Fins que moris, l'eixam roman en el teu espai, arrossegant-se i corrent sobre teu, o volant dins el teu espai. Tu determines la seva aparença, o la generes aleatòriament entre les següents opcions: un eixam d'insectes, branquillons marcits en miniatura, un estol d'ocells o fades juganeres.
 
 Un cop en cada un dels teus torns, pots causar que l'eixam t'ajudi en una de les següents maneres, immediatament després de donar a una criatura amb un atac:

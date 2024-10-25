@@ -108,13 +108,13 @@ Requisit previ: Dracònic
 Et creixen escames i urpes reminiscents dels teus ancestres dracs. Guanyes els beneficis següents:
 - Incrementa la teva puntuació de Força, Constitució, o Carisma per 1, fins a un màxim de 20.
 - Les teves escames s'endureixen. Mentre no estiguis portant armadura, pots calcular la teva CA com a 13 + el teu modificador de Destresa. Pots usar un escut i gaudir igualment d'aquest benefici.
-- Pots créixer urpes retractables de les puntes dels teus dits. Extendre o retreure les urpes no requereix una acció. Les urpes són armes naturals, que pots usar per fer cops desarmats. Si dones amb elles, causes dany tallant igual a 1d4 + el teu modificador de Força, en comptes del dany d'impacte normal per a un cop desarmat.
+- Pots créixer urpes retractables de les puntes dels teus dits. Estendre o retreure les urpes no requereix una acció. Les urpes són armes naturals, que pots usar per fer cops desarmats. Si dones amb elles, causes dany tallant igual a 1d4 + el teu modificador de Força, en comptes del dany d'impacte normal per a un cop desarmat.
 
 ## Precisió Èlfica
 ***Font: Xanathar's Guide to Everything***
 Requisit previ: Elf o Mig-Elf
 
-La precisió dels elfs és llegendària, especialment la dels seus arquers i màgics. You una puntueria extraordinària amb atacs que es basen en precisió en comptes de força bruta. Guanyes els beneficis següents:
+La precisió dels elfs és llegendària, especialment la dels seus arquers i màgics. Tens una punteria extraordinària amb atacs que es basen en precisió en comptes de força bruta. Guanyes els beneficis següents:
 - Incrementa la teva puntuació de Destresa, Intel·ligència, Saviesa, o Carisma per 1, fins a un màxim de 20
 - Quan tens avantatge en un tir d'atac usant Destresa, Intel·ligència, Saviesa, o Carisma, pots tornar a tirar un dels daus una vegada.
 

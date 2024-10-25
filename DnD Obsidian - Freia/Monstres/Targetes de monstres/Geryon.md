@@ -23,7 +23,7 @@ Geryon està en etern conflicte amb Levistus pel control d'Estígia. Juntament a
 
 ### El Cau de Geryon
 
-Geryon ha reclamat recentment la seva antiga fortalesa, Acerfred, un estés complex que s'aixeca del gel i la neu al centre d'Estígia. Geryon vaga pels passadissos d'aquest lloc, escampant els [[Diable de Gel (Gelugon)|diables de gel]] i [[Minotaure|minotaures]] esclaus que va robar a [[Bafomet]], bramant furiós contra la traïció d'Asmodeus mentre escup juraments de venjança i trama plans bojos per a reclamar el seu estatus a Levistus. 
+Geryon ha reclamat recentment la seva antiga fortalesa, Acerfred, un estés complex que s'aixeca del gel i la neu al centre d'Estígia. Geryon vaga pels passadissos d'aquest lloc, escampant els [[Diable de Gel (Gelugon)|diables de gel]] i [[Monstres/Targetes de monstres/Minotaure|minotaures]] esclaus que va robar a [[Bafomet]], bramant furiós contra la traïció d'Asmodeus mentre escup juraments de venjança i trama plans bojos per a reclamar el seu estatus a Levistus. 
 #### Accions de Cau
 
 En la puntuació d'iniciativa 20 (perdent empats d'iniciativa), Geryon pot usar una acció de cau per a causar un dels següents efectes; no pot usar el mateix efecte dues rondes seguides:

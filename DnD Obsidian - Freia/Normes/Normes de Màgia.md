@@ -53,7 +53,7 @@ Conjurar alguns encanteris requereix objectes particulars, especificats entre pa
 
 Si un encanteri declara que un component material és consumit per l'encanteri, el màgic ha de proveir aquest component per cada conjuració de l'encanteri.
 
-Un màgic ha de tenir a mà lliure per a accedir als components materials d'un encanteri -o aguantar un focus d'encanteri- però pot ser la mateixa mà that usa per a executar els components somàtics.
+Un màgic ha de tenir una mà lliure per a accedir als components materials d'un encanteri -o aguantar un focus d'encanteri- però pot ser la mateixa mà que s'usa per a executar els components somàtics.
 
 ## Duració
 La duració d'un encanteri és el període de temps en que l'encanteri persisteix. Una duració pot ser expressada en rondes, minuts, hores, o fins i tot anys. Alguns encanteris especifiquen que els seus efectes duren fins que els encanteris són dissipats o destruïts.
@@ -89,7 +89,7 @@ Encanteris com [[Mans Ardents]] i [[Con de Fred]] cobreixen una àrea, permetent
 
 La descripció d'un encanteri especifica la seva àrea d'efecte, que normalment té una d'aquestes cinc formes diferents: con, cub, cilindre, línia, o esfera. Cada àrea d'efecte té un **punt d'origen**, una ubicació des de la que l'energia de l'encanteri erupciona. Les normes per a cada forma especifiquen com posiciones el seu punt d'origen. Normalment, un punt d'origen és un punt en l'espai, però alguns encanteris tenen una àrea que té origen en una criatura o un objecte.
 
-L'efecte d'un encanteri s'expandeix en línies rectes des del punt d'origen. Si cap línia recta no obstaculitzada s'estén des del punt d'origen fins a una localització dins de l'àrea d'efecte, aquesta localització no s'inclou a l'àrea de l'encanteri. Per a obstaculitzar una d'aquestes línies imaginàries, an obstrucció ha de proveir cobertura total.
+L'efecte d'un encanteri s'expandeix en línies rectes des del punt d'origen. Si cap línia recta no obstaculitzada s'estén des del punt d'origen fins a una localització dins de l'àrea d'efecte, aquesta localització no s'inclou a l'àrea de l'encanteri. Per a obstaculitzar una d'aquestes línies imaginàries, una obstrucció ha de proveir cobertura total.
 
 ### Con
 Un con s'estén en una direcció que esculls des del seu punt d'origen. L'amplada d'un con en un punt donat de la seva llargada és igual a la distància d'aquest punt del punt d'origen. L'àrea d'efecte d'un con especifica la seva llargada màxima.

@@ -1,8 +1,9 @@
 ---
 tags:
   - Monstre
-Nom: L'Empassafoc
-CR: 6
+Nom: La Domadora
+CR:
+  - "6"
 XP: 2300
 Tipus: Monstruositat
 Moral: L

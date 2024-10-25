@@ -6,7 +6,7 @@ Harmonització: true
 (Tipus:: Objecte meravellós) (Raresa:: Rar)
 Requereix harmonització per un fetiller
 
-This crackling crystal contains the essence of an elemental plane. Amb una acció, pots fermar el resquill a un objecte Diminut (com una arma o una joia) o desenganxar-lo. Es cau si la teva harmonització amb ell acaba. Pots usar el resquill com a focus d'encanteri mentre l'aguantes o el vesteixes.
+Aquest cristall crepitant conté l'essència d'un pla elemental. Amb una acció, pots fermar el resquill a un objecte Diminut (com una arma o una joia) o desenganxar-lo. Es cau si la teva harmonització amb ell acaba. Pots usar el resquill com a focus d'encanteri mentre l'aguantes o el vesteixes.
 
 Tira un d4 i consulta la taula de **Resquills d'Essència Elemental** per a determinar la seva essència i propietat. Quan uses una opció de *Metamàgia* en un encanteri mentre estàs aguantant o vestint el resquill, pots usar aquesta propietat.
 

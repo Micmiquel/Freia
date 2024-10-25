@@ -159,7 +159,7 @@ En algunes cultures, només aquells que reivindiquen el poder d'una Ànima Divin
 #### Màgia Divina
 El teu enllaç a allò diví et permet aprendre encanteris normalment associats amb la classe de clergue. Quan la teva característica de *Màgia* et permet aprendre un truc o encanteri de fetiller de 1r nivell o major, pots escollir el nou encanteri de la llista d'encanteris de clergue o la llista d'encanteris de fetiller. Has d'obeir tota la resta de restriccions per a seleccionar l'encanteri, i es torna un encanteri de fetiller per a tu.
 
-Addicionalment, escull an afinitat com a font del teu poder diví: bé, mal, llei, caos, o neutralitat. Aprens un encanteri addicional basat en aquesta afinitat, com es mostra a sota. És un encanteri de fetiller per a tu, però no conta contra el teu nombre d'encanteris de fetiller que coneixes. Si després reemplaces aquest encanteri, has de reemplaçar-lo amb un encanteri de la llista d'encanteris de clergue.
+Addicionalment, escull una afinitat com a font del teu poder diví: bé, mal, llei, caos, o neutralitat. Aprens un encanteri addicional basat en aquesta afinitat, com es mostra a sota. És un encanteri de fetiller per a tu, però no conta contra el teu nombre d'encanteris de fetiller que coneixes. Si després reemplaces aquest encanteri, has de reemplaçar-lo amb un encanteri de la llista d'encanteris de clergue.
 
 | Afinitat    | Encanteri                 |
 | ----------- | ------------------------- |
@@ -304,16 +304,16 @@ Un cop uses una d'aquests beneficis, no pots usar-lo una altra vegada fins que a
 
 ### Fetilleria de la Tempesta
 
-La teva màgia innata ve del poder de l'aire elemental. Molts amb aquest poder poden remuntar la seva màgia a una experiència propera a la mort causada per grans tempestes, però potser vas nèixer durant els udols d'un vendaval tan poderós que la gent encara n'explica històries, o el teu llinatge pot incloure la influència de poderoses criatures de l'aire com vaati o djinn. Sigui qui sigui el cas, la màgia de la tempesta permea el teu ésser.
+La teva màgia innata ve del poder de l'aire elemental. Molts amb aquest poder poden remuntar la seva màgia a una experiència propera a la mort causada per grans tempestes, però potser vas néixer durant els udols d'un vendaval tan poderós que la gent encara n'explica històries, o el teu llinatge pot incloure la influència de poderoses criatures de l'aire com vaati o djinn. Sigui qui sigui el cas, la màgia de la tempesta permea el teu ésser.
 
-Els fetillers de la tempesta són are membres inestimables de la tripulació d'un vaixell. La seva màgia els hi permet exercir control sobre el vent i i el temps en la seva àrea immediata. Les seves habilitats també resulten útils en repel·lir atacs de sahuagin, pirates, i altres amenaces marítimes.
+Els fetillers de la tempesta són membres inestimables de la tripulació d'un vaixell. La seva màgia els hi permet exercir control sobre el vent i i el temps en la seva àrea immediata. Les seves habilitats també resulten útils en repel·lir atacs de sahuagin, pirates, i altres amenaces marítimes.
 
 ***Font: Xanathar's Guide to Everything***
 
 #### Parlant del Vent
-La màgia arcana que comandes està infosa amb aire elemental. Pots parlar, llegir, i escriure Primordial. Conèixer aquesta llengua et permet entendre i ser entés per aquells que parlen els seus dialectes: Aquan, Auran, Ignan, i Terran.
+La màgia arcana que comandes està infosa amb aire elemental. Pots parlar, llegir, i escriure Primordial. Conèixer aquesta llengua et permet entendre i ser entès per aquells que parlen els seus dialectes: Aquan, Auran, Ignan, i Terran.
 
-#### Màgia Tempestuousa
+#### Màgia Tempestuosa
 Començant al 1r nivell, pots usar una acció bonus en el teu torn per a causar que ràfegues d'aire elemental s'arremolinin breument al teu voltant, immediatament abans o després de conjurar un encanteri de 1r nivell o major. Fer-ho et permet volar fins a 10 u. sense provocar atacs d'oportunitat.
 
 #### Cor de la Tempesta
@@ -322,7 +322,7 @@ Al 6è nivell, guanyes resistència al dany elèctric i de so. Addicionalment, q
 #### Guia de la Tempesta
 Al 6è nivell, guanyes l'habilitat de controlar subtilment el clima al teu voltant.
 
-Si està plovent, pots usar una acció per causar que l'apluja s'aturi en una esfera de 20 u. de radi centrada en tu. Pots acabar amb aquest efecte amb una acció bonus.
+Si està plovent, pots usar una acció per causar que la pluja s'aturi en una esfera de 20 u. de radi centrada en tu. Pots acabar amb aquest efecte amb una acció bonus.
 
 Si fa temps ventós, pots usar una acció bonus en cada ronda per escollir la direcció en que bufa el vent en una esfera de 100 u. de radi centrada en tu. El vent bufa en aquesta direcció fins el final del teu proper torn. Aquesta característica no altera la velocitat del vent.
 

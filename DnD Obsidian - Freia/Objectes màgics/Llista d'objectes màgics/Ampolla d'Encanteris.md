@@ -5,7 +5,7 @@ Harmonització: true
 
 (Tipus:: Objecte meravellós) (Raresa:: Llegendari )
 
-Aquesta ampolla de vidre pot emmagatzemar un encanteri de fins a 5è nivell a la vegada. Quan es troba, tira un d6 i resta'n 1: el total determina el nivell de l'encanteri dins de l'ampolla (el DM escull l'encanteri, i 0 significa que l'ampolla està buida). Un vapor blau s'arremolina dins l'ampolla quan conté un encanteri.
+Aquesta ampolla de vidre pot emmagatzemar un encanteri de fins a 5è nivell a la vegada. Quan es troba, tira un d6 i resta'n 1: el total determina el nivell de l'encanteri dins de l'ampolla (el MM escull l'encanteri, i 0 significa que l'ampolla està buida). Un vapor blau s'arremolina dins l'ampolla quan conté un encanteri.
 
 Quan l'ampolla està buida, qualsevol criatura pot conjurar en encanteri de 1r a 5è nivell en ella tocant-la mentre el conjura. L'encanteri no té cap altre efecte a part de ser emmagatzemat en l'ampolla.
 

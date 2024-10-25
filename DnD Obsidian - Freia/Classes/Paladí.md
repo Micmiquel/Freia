@@ -137,7 +137,7 @@ Començant al 6è nivell, quan tu o una criatura amigable a 10 u. de tu ha de fe
 Al 18è nivell, el rang d'aquesta aura incrementa a 30 u.
 
 ### Aura de Coratge
-Començant al 10è nivell, tu i criatures amigables a 10 u. de tu no pots be espantada mentre are conscient.
+Començant al 10è nivell, tu i les criatures amigables a 10 u. de tu no podeu ser espantades mentre estiguis conscient.
 
 Al 18è nivell, el rang d'aquesta aura incrementa a 30 u.
 
@@ -233,7 +233,7 @@ Alguns d'aquests paladins van fins a l'extrem d'associar-se amb els poders dels 
 ***Font: Xanathar's Guide to Everything***
 
 #### Principis de Conquesta
-A paladí who takes aquest jurament has els principis de conquest seared on the upper arm.
+A paladí que presta aquest jurament té els principis de conquesta brandats a la part superior del braç.
 
 - ***Apaga la Flama de l'Esperança***. No és suficient merament derrotar a un enemic en la batalla. La teva victòria ha de ser tan aclaparadora que la voluntat de lluitar dels teus enemics s'esmicoli per sempre. Una fulla pot acabar amb una vida. La por pot acabar amb un imperi.
 - ***Governa amb Mà de Ferro***. Un cop has conquerit, no toleris dissentiment. La teva paraula és la llei. Aquells que la obeeixen seran afavorits. Aquells que la desafien seran castigats com a exemple per a tots els que els puguin seguir.

@@ -165,12 +165,12 @@ Començant al 14è nivell, quan reps dany d'una criatura que estigui a 5 u. de t
 
 ### Camí de la Bèstia
 
-Els bàrbars que fan el Camí de la Bèstia treuen la seva ira d'una espurna bestial que crema en les seves ànimes. That bèstia bursts forth in the throes de ira, físicament transformant el bàrbar.
+Els bàrbars que fan el Camí de la Bèstia treuen la seva ira d'una espurna bestial que crema en les seves ànimes. Aquesta bèstia sorgeix en els dolors de la ira, transformant físicament el bàrbar.
 
-Un d'aquests bàrbars pot ser habitat per un esperit primal o ser descendent de canviaformes. Pots escollir l'origen del teu poder feral o determinar-lo aleatòritament entre els següents exemples:
+Un d'aquests bàrbars pot ser habitat per un esperit primal o ser descendent de canviaformes. Pots escollir l'origen del teu poder feral o determinar-lo aleatòriament entre els següents exemples:
 
-- Un dels teus pares és un licàntrop, i has heredat part de la seva maledicció.
-- Ets descendent d'un arxidruida i has heredat l'habilitat de canviar parcialment de forma.
+- Un dels teus pares és un licàntrop, i has heretat part de la seva maledicció.
+- Ets descendent d'un arxidruida i has heretat l'habilitat de canviar parcialment de forma.
 - Un esperit fey et va obsequiar amb l'habilitat d'adoptar diferents aspectes bestials.
 - Un esperit animal ancià viu dins teu, permetent-te caminar aquest camí.
 

@@ -181,7 +181,7 @@ Pots conjurar [[Conjurar Elemental]] una vegada usant una casella d'encanteri de
 #### Escriba Llunyà
 *Requisit previ: 5è nivell, Pacte del Llibrot*
 Una nova pàgina apareix en el teu Llibre d'Ombres. Amb el teu permís, una criatura pot usar la seva acció per a escriure el seu nom en aquesta pàgina, que pot contenir un nombre de noms igual al teu bonus de proficiència.
-Pots conjurar l'encanteri [[Enviar]], afectant a una criatura que tingui el seu nom a la pàgina, sense usar una casella d'encanteri i sense usar components materials. Per a fer-ho, has d'escriure el missatge a la pàgina. L'objectiu escolta el missatge al seu cap, and si l'objectiu respon, el seu missatge apareix a la pàgina, en comptes de a la teva ment. L'escrit desapareix després de 1 minut.
+Pots conjurar l'encanteri [[Enviar]], afectant a una criatura que tingui el seu nom a la pàgina, sense usar una casella d'encanteri i sense usar components materials. Per a fer-ho, has d'escriure el missatge a la pàgina. L'objectiu escolta el missatge al seu cap, i si l'objectiu respon, el seu missatge apareix a la pàgina, en comptes de a la teva ment. L'escrit desapareix després de 1 minut.
 Amb una acció, pots esborrar màgicament un nom de la pàgina tocant-lo. *Font: Tasha's Cauldron of Everything*
 #### Escultor de Carn
 *Requisit previ: 7è nivell*
@@ -719,7 +719,7 @@ Addicionalment, quan ets reduït a 0 punts vitals, pots usar la teva reacció pe
 #### Projecció d'Esperit
 Al 14è nivell, el teu esperit es pot deslligar de la teva forma física. Amb una acció, pots projectar el teu esperit fora del teu cos. El cos que deixes enrere queda inconscient i en un estat d'animació suspesa.
 
-El teu esperit sembla la teva forma mortal en gairebé tota manera, replicant les teves estadístiques de joc però no les teves possessions. Any dany o altres efectes that apply al teu esperit o física cos afecta l'altra. El teu esperit por romandre fora del teu cos fins a un màxim de 1 hora o fins que es trenqui la teva concentració (com si t'estiguessis concentrant en un encanteri). Quan la teva projecció acaba, el teu esperit retorna al teu cos o el teu cos màgicament es teletransporta a l'espai del teu esperit (tu esculls).
+El teu esperit sembla la teva forma mortal en gairebé tota manera, replicant les teves estadístiques de joc però no les teves possessions. Qualsevol dany o altres efectes que s'apliquin al teu esperit o cos físic afecta a l'altre. El teu esperit por romandre fora del teu cos fins a un màxim de 1 hora o fins que es trenqui la teva concentració (com si t'estiguessis concentrant en un encanteri). Quan la teva projecció acaba, el teu esperit retorna al teu cos o el teu cos màgicament es teletransporta a l'espai del teu esperit (tu esculls).
 
 Mentre projectes el teu esperit, guanyes els beneficis següents:
 

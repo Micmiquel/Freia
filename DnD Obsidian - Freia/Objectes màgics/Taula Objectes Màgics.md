@@ -20,9 +20,9 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 0
     width: -7
-    isSorted: false
+    isSorted: true
     isSortedDesc: false
     config:
       enable_media_view: true
@@ -42,9 +42,9 @@ columns:
     position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: 0
+    sortIndex: -1
     width: 154
-    isSorted: true
+    isSorted: false
     isSortedDesc: false
     config:
       enable_media_view: true

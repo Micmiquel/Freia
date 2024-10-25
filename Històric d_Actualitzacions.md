@@ -20,6 +20,10 @@ A continuació, es detallen les addicions realitzades en cada actualització:
     -   S'han afegit enllaços interns addicionals per a facilitar la navegació entre documents i seccions.
     -   S'han realitzat diverses correccions gramaticals i ortogràfiques
 
-
+- 3.0. 
+    -   S'han afegit totes les races que mancaven (20) del Monster Manual, Volo's Guide to Monsters, Mordenkainen's Tome of Foes i Mordenkainen's: Monsters of the Multiverse: Aasimar, Canviador, Centaure, Eladrin, Elf del Mar, Firbolg, Genasi d'Aigua, Genasi d'Aire, Genasi de Foc, Genasi de Terra, Githyanki, Githzerai, Llebreu, Lluertí, Minotaure, Replicant, Sàtir, Shadar-Kai, Tritó, Yuan-Ti
+    -   S'han afegit les altres versions de les races ja presents, del Monster Manual, Volo's Guide to Monsters, Mordenkainen's Tome of Foes i Mordenkainen's: Monsters of the Multiverse. Aquesta nova informació inclou les subraces de tiefling o l'humà variant, per exemple.
+    -   S'han afegit fotografies i fonts a totes les races
+    -   S'han realitzat diverses correccions gramaticals i ortogràfiques
 
 Si voleu donar suport, podeu fer-ho a través d'un donatiu a través d'aquest enllaç: https://buymeacoffee.com/micmiquel

@@ -71,7 +71,7 @@ Algunes criatures tenen una o més dels següents modes de moviment addicional.
 ### Escalar
 Un monstre que tingui una velocitat d'escalar pot usar tot o part del seu moviment per a moure's per superfícies verticals. El monstre no necessita gastar moviment extra per escalar.
 ### Excavar
-Un monstre que tingui una velocitat d'excavar pot usar aquesta velocitat per a moure's a través de sorra, terra, fang, o gel. Un monstre no pot excavar a través de roca sòlida a no ser que tingui un tret especial li that permeti fer-ho.
+Un monstre que tingui una velocitat d'excavar pot usar aquesta velocitat per a moure's a través de sorra, terra, fang, o gel. Un monstre no pot excavar a través de roca sòlida a no ser que tingui un tret especial li permeti fer-ho.
 ### Nedar
 Un monstre que tingui una velocitat de nedar no necessita gastar moviment extra per a nedar.
 ### Volar

@@ -329,9 +329,9 @@ Cada contrabandista té una història que els diferencia dels criminals comuns. 
 ## Cortesà
 
 En els teus primers dies, eres un personatge de certa importància en una cort noble o organització burocràtica. Pots venir (o no) d'una família de classe alta; els teus talents, en comptes de les circumstàncies del teu naixement, podrien haver-te assegurat aquesta posició.
-Pots haver sigut un dels molts funcionaris, aompanyants o paràsits de certes corts, o potser has navegat el despietat conglomerat de gremis, nobles, aventurers i societats secretes d'altres governs. Potser has sigut un dels protectors de la llei rere les cortines d'un palau o simplement has crescut en un castell. 
+Pots haver sigut un dels molts funcionaris, acompanyants o paràsits de certes corts, o potser has navegat el despietat conglomerat de gremis, nobles, aventurers i societats secretes d'altres governs. Potser has sigut un dels protectors de la llei rere les cortines d'un palau o simplement has crescut en un castell. 
 
-Fins i tot si you ja no ets un membre de ple dret del grup que et va donar el teu inici a la vida, les teves relacions amb els teus antics companys pot ser un avantatge per a tu i els teus camarades d'aventures. Podries emprendre missions amb els teus nous companys facin avançar l'interès de la teva antiga organització. En tot cas, les habilitats que vas adquirir mentre servies com a cortesà et seran útils com a aventurer.
+Fins i tot si ja no ets un membre de ple dret del grup que et va donar el teu inici a la vida, les teves relacions amb els teus antics companys pot ser un avantatge per a tu i els teus camarades d'aventures. Podries emprendre missions amb els teus nous companys facin avançar l'interès de la teva antiga organització. En tot cas, les habilitats que vas adquirir mentre servies com a cortesà et seran útils com a aventurer.
 La cort noble o organització burocràtica on vas començar està directament o indirectament associada amb el teu lligam (que pot pertànyer a certs individus en el grup, com pot ser el teu patrocinador o mentor). El teu ideal pot estar relacionat amb la filosofia prevalent de la teva cort o organització.
 
 ***Font: Courtier - Sword Coast Adventurer's Guide***
@@ -579,7 +579,7 @@ Tens experiència en assgurar-te accés a gent i llocs per aconseguir la informa
 
 ## Marine
 
-Has sigut entrenat per a la batalla en platges de sorra i costes rocoses. You have emprès incursions a mitjanit amb vaixes veloços, els noms dels quals evoquen terror en els cors dels teus adversaris. L'aigua és la teva segona llar, la pluja el teu refugi, i les onades que trenquen el teu crit de batalla.
+Has sigut entrenat per a la batalla en platges de sorra i costes rocoses. Has emprès incursions a mitjanit en vaixells veloços, els noms dels quals evoquen terror en els cors dels teus adversaris. L'aigua és la teva segona llar, la pluja el teu refugi, i les onades que trenquen el teu crit de batalla.
 
 Les trifulgues en el teu passat t'han convertit en una arma viva imparable. Aquesta trifulga és essencial per a tu i és al cor d'una filosofia o moral personal que sovint guia les teves accions. 
 
