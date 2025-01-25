@@ -43,7 +43,7 @@ Si Yeenoghu mor, aquests efectes s'esvaeixen en el transcurs de 1d10 dies.
 
 #### Bogeria de Yeenoghu
 
-Si una criatura embogeix al cau de Yeenoghu o a la vista del senyor demoníac, tira a la taula de Bogeria de Yeenoghu per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Normes Situacionals#Bogeria|Bogeria]].
+Si una criatura embogeix al cau de Yeenoghu o a la vista del senyor demoníac, tira a la taula de Bogeria de Yeenoghu per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Objectes#Bogeria|Bogeria]].
 
 **Taula - Bogeria de Yeenoghu**
 

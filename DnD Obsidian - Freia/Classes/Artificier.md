@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Artificier
 
 Mestres de la invenció, els artificiers usen enginy i màgia per desbloquejar capacitats extraordinàries en objectes. Veuen la màgia com un sistema complex, que espera ser desxifrada i aprofitada en els seus encanteris i invencions.
@@ -33,7 +34,7 @@ Comences amb el següent equipament, a més de l'equipament atorgat pel teu pass
 | Nivell | Bonus de Proficiència | Característiques                                      | Infusions Conegudes | Objectes Imbuïts | Trucs Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  |
 | ------ | --------------------- | --------------- | ------------------- | ---------------- | -------------- | --- | --- | --- | --- | --- |
 | 1r     | +2                    | Màgia de Manetes, Màgia                               | -                   | -                | 2              | 2   | -   | -   | -   | -   |
-| 2n     | +2                    | Infusionar Objecte                                    | 4                   | 2                | 2              | 2   | -   | -   | -   | -   |
+| 2n     | +2                    | Infondre Objecte                                      | 4                   | 2                | 2              | 2   | -   | -   | -   | -   |
 | 3r     | +2                    | Artificier Especialista, L'eina Adequada per la Feina | 4                   | 2                | 2              | 3   | -   | -   | -   | -   |
 | 4t     | +2                    | Millora de Puntuació d'Habilitat                      | 4                   | 2                | 2              | 3   | -   | -   | -   | -   |
 | 5è     | +3                    | Característica d'Artificier Especialista              | 4                   | 2                | 2              | 4   | 2   | -   | -   | -   |
@@ -69,7 +70,7 @@ Has estudiant els funcionaments de la màgia i com conjurar encanteris, canalitz
 
 #### Eines Requerides
 Produeixes els teus efectes d'encanteri d'artificier a través de les teves eines. Has de tenir un focus d'encanteri - específicament eines de lladre o algun tipus d'eina d'artesà - a mà quan conjures qualsevol encanteri amb components materials. Has de ser proficient amb l'eina per usar-la d'aquesta manera.
-Després de guanyar la característica *Infusionar Objecte* al 2n nivell, també pots usar qualsevol objecte que porti una de les teves infusions com a focus d'encanteri.
+Després de guanyar la característica *Infondre Objecte* al 2n nivell, també pots usar qualsevol objecte que porti una de les teves infusions com a focus d'encanteri.
 
 #### Trucs
 Al 1r nivell, coneixes dos trucs de la teva elecció de la llista d'encanteris d'artificier. A nivells superiors, aprens trucs d'artificier addicionals de la teva elecció, com es mostra a la columna de Trucs Coneguts de la taula de l'Artificier.
@@ -86,7 +87,7 @@ Per exemple, si ets un artificier de 5è nivell, tens quatre caselles d'encanter
 Pots canviar la teva llista d'encanteris preparats quan acabes un descans llarg. Preparar una nova llista d'encanteris d'artificier requereix temps gastat feinejant amb els teus focus d'encanteri: almenys 1 minut per nivell d'encanteri per cada encanteri de la teva llista.
 
 ##### Habilitat de Màgia
-La Intel·ligència és la teva habilitat d'encanteri pels teus encanteris d'artificier; la teva comprensió de la teoria rere la màgia et permet brandar aquests encanteris amb una habilitat superior. Uses la teva Intel·ligència quan un encanteri d'artificier referencia la teva habilitat d'encanteri. A més, uses el teu modificador d'Intel·ligència quan fixes La CD de salvament per un encanteri d'artificier que conjures i quan fas un tir d'atac amb un.
+La Intel·ligència és la teva habilitat d'encanteri pels teus encanteris d'artificier; la teva comprensió de la teoria rere la màgia et permet brandar aquests encanteris amb una habilitat superior. Uses la teva Intel·ligència quan un encanteri d'artificier referencia la teva habilitat d'encanteri. A més, uses el teu modificador d'Intel·ligència quan fixes la CD de salvament per un encanteri d'artificier que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador d'Intel·ligència
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador d'Intel·ligència
@@ -94,20 +95,20 @@ La Intel·ligència és la teva habilitat d'encanteri pels teus encanteris d'art
 #### Conjuració ritual
 Pots conjurar un encanteri d'artificier com a ritual si aquest encanteri té l'etiqueta *ritual* i tens l'encanteri preparat.
 
-### Infusionar Objecte
+### Infondre Objecte
 Al 2n nivell, has guanyat l'habilitat d'imbuir objectes mundans amb certes infusions màgiques, tornant-los en objectes màgics.
 
 #### Infusions Conegudes
 Quan guanyes aquesta característica, escull quatre infusions d'artificier per aprendre-les, detallades a [[Artificier#Infusions d'Artificier|Infusions d'Artificier]] al final d'aquesta classe. Aprens infusions addicionals de la teva elecció quan arribes a certs nivells en aquesta classe, com es mostra a la columna d'*Infusions Conegudes* de la taula de l'Artificier.
 Cada cop que guanyes un nivell en aquesta classe, pots reemplaçar una de les infusions d'artificier que has après amb una de nova.
-#### Infusionant un Objecte
-Cada cop que acabes un descans llarg, pots tocar un objecte no màgic i imbuir-lo amb una de les teves infusions d'artificier, tornant-lo en un objecte màgic. Una infusió funciona en només certs tipus d'objectes, com s'especifica en la seva descripció. Si l'objecte requereix harmonització, pots harmonitzar-t'hi en l'instant que l'infusiones. Si decideixes armonitzar-t'hi més tard, ho has de fer usant el procés normal d'harmonització.
+#### Infonent un Objecte
+Cada cop que acabes un descans llarg, pots tocar un objecte no màgic i imbuir-lo amb una de les teves infusions d'artificier, tornant-lo en un objecte màgic. Una infusió funciona en només certs tipus d'objectes, com s'especifica en la seva descripció. Si l'objecte requereix harmonització, pots harmonitzar-t'hi en l'instant que l'infons. Si decideixes harmonitzar-t'hi més tard, ho has de fer usant el procés normal d'harmonització.
 La teva infusió roman en un objecte indefinidament, però quan mors, la infusió s'esfuma després d'un nombre de dies igual al teu modificador d'Intel·ligència (mínim de 1 dia). La infusió també s'esfuma si reemplaces el teu coneixement de la infusió.
-Pots infusionar més d'un objecte no màgic al final d'un descans llarg; el nombre màxim d'objectes apareix a la columna d'*Objectes Infusionats* de la taula de l'Artificier. Has de tocar cada un dels objectes, i cada una de les teves infusions pot estar en només un objecte a la vegada. A més a més, cap objecte pot suportar més d'una de les teves infusions a la vegada. Si intentes excedir el teu nombre màxim d'infusions, la infusió més vella s'acaba, i després la nova infusió s'aplica.
+Pots infondre més d'un objecte no màgic al final d'un descans llarg; el nombre màxim d'objectes apareix a la columna d'*Objectes Infoses de la taula de l'Artificier. Has de tocar cada un dels objectes, i cada una de les teves infusions pot estar en només un objecte a la vegada. A més a més, cap objecte pot suportar més d'una de les teves infusions a la vegada. Si intentes excedir el teu nombre màxim d'infusions, la infusió més vella s'acaba, i després la nova infusió s'aplica.
 Si una infusió acaba en un objecte que conté altres coses, com una [[Bossa de Tinença]], els seus continguts apareixen inofensivament en el seu espai i al seu voltant.
 
 ### Artificer Especialista
-Al 3r nivell, esculls el tipus d'especialista que ets. La teva elecció t'atorga característiques al 5è nivell, i altra vegada al 9è i 15è nivell. Pots escollit entre [[Classes/Artificier#Alquimista|Alquimista]], [[Classes/Artificier#Armer|Armer]], [[Classes/Artificier#Artiller|Artiller]] i [[Classes/Artificier#Ferrer de Batalla|Ferrer de Batalla]].
+Al 3r nivell, esculls el tipus d'especialista que ets. La teva elecció t'atorga característiques al 5è nivell, i altra vegada al 9è i 15è nivell. Pots escollir entre [[Classes/Artificier#Alquimista|Alquimista]], [[Classes/Artificier#Armer|Armer]], [[Classes/Artificier#Artiller|Artiller]] i [[Classes/Artificier#Ferrer de Batalla|Ferrer de Batalla]].
 
 ### L'eina Adequada per la Feina
 Al 3r nivell, has après a produir exactament l'eina que necessites: amb eines de lladre o eines d'artesà a mà, pots crear màgicament un set d'eines d'artesà en un espai no ocupat a 5 u. de tu. Aquesta creació requereix 1 hora de treball ininterromput, que pot coincidir amb un descans curt o llarg. Tot i que siguin un producte de la teva màgia, les eines són no màgiques, i s'esfumen quan uses aquesta característica un altre cop.
@@ -150,7 +151,7 @@ Al 20è nivell, desenvolupes una connexió mística amb els teus objectes màgic
 ### Infusions d'Artificier
 Les infusions d'artificier són processos extraordinaris que ràpidament tornen un objecte no màgic en un de màgic. La descripció de cada una de les següents infusions detalla el tipus d'objecte que la pot rebre, i si l'objecte màgic resultant requereix harmonització.
 Algunes infusions especifiquen un nivell d'artificier mínim. No pots aprendre una d'aquestes infusions fins que siguis almenys d'aquell nivell.
-A no ser que la dscripció d'una infusió ho especifiqui, no pots aprendre una infusió més d'una vegada.
+A no ser que la descripció d'una infusió ho especifiqui, no pots aprendre una infusió més d'una vegada.
 
 #### Anell Alimenta-Encanteris
 *Requisit previ: 6è nivell d'artificier*
@@ -185,7 +186,7 @@ El portador d'aquesta armadura guanya aquests beneficis:
 #### Armadura Resistent
 *Requisit previ: 6è nivell d'artificier*
 *Objecte: Una armadura (requereix harmonització)*
-Mentre portis aquesta armadura, tens resistència a un dels següents tipus de dany, que esculls al infusionar l'objecte: àcid, fred, foc, força, elèctric, necròtic, verí, psíquic, radiant, o so.#### Botes del Camí Sinuós
+Mentre portis aquesta armadura, tens resistència a un dels següents tipus de dany, que esculls al infondre l'objecte: àcid, fred, foc, força, elèctric, necròtic, verí, psíquic, radiant, o so.#### Botes del Camí Sinuós
 *Requisit previ: 6è nivell d'artificier*
 *Objecte: Un parell de botes (requereix harmonització)*
 Mentre vesteixis aquestes botes, et pots teletransportar fins a 14 u. amb una acció bonus, a un espai no ocupat que puguis veure. Has d'haver ocupat aquest espai en algun moment durant el torn actual.
@@ -204,7 +205,7 @@ Una criatura guanya un +1 de bonus a la seva CA mentre brandi aquest escut.
 L'escut té 4 càrregues. Mentre l'aguantis, pots usar una reacció immediatament després de ser donat pre un atac cos a cos per a gastar 1 de les càrregues de l'escut i empènyer l'atacant fins a 15 u. enrere. L'escut recupera 1d4 càrregues gastades diàriament a l'alba.
 #### Esmolaments
 *Objecte: Una armadura o túnica*
-L'objecte infusionat pot enviar una descàrrega al portador per re-centrar la seva ment. L'objecte té 4 càrregues. Quan el portador falla un salvament de Constitució per mantenir la concentració en un encanteri, aquest pot usar la seva reacció per gastar 1 de les càrregues de l'objecte per superar-lo. L'objecte recupera 1d4 càrregues gastades diàriament a l'alba.
+L'objecte infós pot enviar una descàrrega al portador per re-centrar la seva ment. L'objecte té 4 càrregues. Quan el portador falla un salvament de Constitució per mantenir la concentració en un encanteri, aquest pot usar la seva reacció per gastar 1 de les càrregues de l'objecte per superar-lo. L'objecte recupera 1d4 càrregues gastades diàriament a l'alba.
 #### Focus Arcà Bonificat
 *Objecte: una vara, bastó o vareta (requereix harmonització)*
 Mentre aguantis aquest objecte, guanyes un +1 de bonus a tirs d'atac d'encanteri. A més a més, ignores mitja cobertura quan facis un atac d'encanteri.
@@ -241,7 +242,7 @@ A la descripció de l'objecte s'ofereix més informació, incloent el tipus d'ob
 - [[Botes Alades]]
 - [[Botes de Gambades i Gambirols]]
 - [[Botes de les Terres Hivernals]]
-- [[Braçals d'Arquería]]
+- [[Braçals de Tir amb Arc]]
 - [[Bufacanyes de les Clavegueres]]
 - [[Capa de Protecció]]
 - [[Carcaix Eficient]]
@@ -298,7 +299,7 @@ L'homuncle recupera 2d6 punts vitals si s'usa l'encanteri [[Reparació]] sobre s
 
 
 
-## Especilitats d'Artificier
+## Especialitats d'Artificier
 
 ### Alquimista
 
@@ -412,7 +413,7 @@ Personalitzes la teva armadura per a empreses subtils. Té les característiques
 Començant al 5è nivell, pots atacar dues vegades, en comptes d'una, quan uses l'acció d'Atacar en el teu torn.
 
 #### Modificacions d'Armadura
-Al 9è nivell, aprens com usar les teves infusions d'artificier per modificar especialment la teva *Armadura Arcana*. Aquesta armadura ara conta com a objectes separats pels propòsits de la teva característica d'*Infusionar Objecte*: armadura (peça del pit), botes, casc, i l'arma especial de l'armadura. Cada un d'aquests objectes pot suportar una de les teves infusions, i les infusions es transfereixen si canvies el model de la teva armadura la característica *Model d'Armadura*. A més, el nombre màxim d'objectes que pots infusionar a la vegada incrementa per 2, però aquests objectes extra han de formar part de la teva *Armadura Arcana*.
+Al 9è nivell, aprens com usar les teves infusions d'artificier per modificar especialment la teva *Armadura Arcana*. Aquesta armadura ara conta com a objectes separats pels propòsits de la teva característica d'*Infondre Objecte*: armadura (peça del pit), botes, casc, i l'arma especial de l'armadura. Cada un d'aquests objectes pot suportar una de les teves infusions, i les infusions es transfereixen si canvies el model de la teva armadura la característica *Model d'Armadura*. A més, el nombre màxim d'objectes que pots infondre a la vegada incrementa per 2, però aquests objectes extra han de formar part de la teva *Armadura Arcana*.
 
 #### Armadura Perfeccionada
 Al 15è nivell, la teva *Armadura Arcana* guanya beneficis addicionals basats en el seu model, com es mostra a sota.

@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Explorador
 
 Lluny del bullici de les ciutats i els pobles, passades les tanques que protegeixen les granges més llunyanes dels terrors de les regions salvatges, enmig dels densos arbres de boscos impenetrables i a través d'amples i buides planures, els exploradors mantenen la seva interminable vigilància.
@@ -80,14 +81,14 @@ Esculls un tipus de terreny favorit addicional al 6è i 10è nivell.
 ### Estil de Lluita
 A 2n nivell, adoptes un estil particular de lluita com a la teva especialitat. Escull una de les opcions següents. No pots prendre una opció d'Estil de Lluita més d'un cop, fins i tot si més tard pots escollir una altra vegada.
 
-#### Arquería
-Guanyes un +2 de bonus a tirs d'atac que facis amb armes de rang.
 #### Defensa
 Mentre estiguis portant armadura, guanyes un +1 de bonus a la teva CA.
 #### Duel
 Quan estàs brandant una arma cos a cos en una mà i cap altra arma, guanyes un +2 de bonus a tirs de dany amb aquesta arma.
 #### Lluita de Dues Armes
 Quan lluites amb dues armes, pots afegir el teu modificador d'habilitat al dany del segon atac.
+#### Tir amb Arc
+Guanyes un +2 de bonus a tirs d'atac que facis amb armes de rang.
 
 ### Màgia
 Quan arribes a 2n nivell, has après a usar l'essència màgica de la natura per conjurar encanteris, de manera semblant a com ho fa un druida.
@@ -104,7 +105,7 @@ La columna d'Encanteris Coneguts de la taula de l'Explorador mostra quan aprens 
 Addicionalment, quan guanyes un nivell en aquesta classe, pots escollir un dels encanteris d'explorador que coneixes i reemplaçar-lo amb un altre encanteri de la llista d'encanteris d'explorador, que també ha de ser d'un nivell pel qual tinguis caselles d'encanteri.
 
 #### Habilitat d'Encanteri
-La Saviesa és la teva habilitat d'encanteri pels teus encanteris d'explorador, ja que la teva màgia fa ús de la teva harmonització amb la natura. Uses la teva Saviesa quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Saviesa quan fixes La CD de salvament per un encanteri d'explorador que conjures i quan fas un tir d'atac amb un.
+La Saviesa és la teva habilitat d'encanteri pels teus encanteris d'explorador, ja que la teva màgia fa ús de la teva harmonització amb la natura. Uses la teva Saviesa quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Saviesa quan fixes la CD de salvament per un encanteri d'explorador que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Saviesa
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Saviesa

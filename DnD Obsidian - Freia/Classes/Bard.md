@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Bard
 
 Sigui un erudit, un escald, o un facinerós, un bard teixeix màgia a través de paraules i música per inspirar aliats, desmoralitzar enemics, manipular ments, crear il·lusions, i fins i tot curar ferides. El bard és un mestre de la cançó, la parla, i la màgia que contenen.
@@ -72,7 +73,7 @@ La columna d'Encanteris Coneguts de la taula d'El Bard mostra quan aprens més e
 Addicionalment, quan guanyes un nivell en aquesta classe, pots escollir un dels encanteris de bard que coneixes i reemplaçar-lo amb un altre encanteri de la llista d'encanteris de bard, que també ha de ser d'un nivell pel qual tinguis caselles d'encanteri.
 
 #### Habilitat de Màgia
-El Carisma és la teva habilitat d'encanteri pels teus encanteris de bard. La teva màgia prové del cor i l'ànima que aboques en la interpretació de la teva música o oració. Uses el teu Carisma quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Carisma quan fixes La CD de salvament per un encanteri de bard que conjures i quan fas un tir d'atac amb un.
+El Carisma és la teva habilitat d'encanteri pels teus encanteris de bard. La teva màgia prové del cor i l'ànima que aboques en la interpretació de la teva música o oració. Uses el teu Carisma quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Carisma quan fixes la CD de salvament per un encanteri de bard que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Carisma
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Carisma

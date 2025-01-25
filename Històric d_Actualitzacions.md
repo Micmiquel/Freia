@@ -3,10 +3,10 @@
 A continuació, es detallen les addicions realitzades en cada actualització:
 
 - 1.0. Primera publicació
-    - 1.1.
+     1.1.
         - S'han afegit els objectes màgics *Poció d'Invulnerabilitat* (DMG) i *Cristall Mental* (Phandelver and Below - The Shattered Obelisk)
         - S'han realitzat diverses correccions gramaticals i ortogràfiques
-    - 1.2.
+    1.2.
         - S'ha afegit l'objecte màgic *Baralla de Meravelles* (The Book of Many Things)
         - S'han reparat enllaços interns
         - S'han reorganitzat les normes de Multi-classe
@@ -24,6 +24,15 @@ A continuació, es detallen les addicions realitzades en cada actualització:
     -   S'han afegit totes les races que mancaven (20) del Monster Manual, Volo's Guide to Monsters, Mordenkainen's Tome of Foes i Mordenkainen's: Monsters of the Multiverse: Aasimar, Canviador, Centaure, Eladrin, Elf del Mar, Firbolg, Genasi d'Aigua, Genasi d'Aire, Genasi de Foc, Genasi de Terra, Githyanki, Githzerai, Llebreu, Lluertí, Minotaure, Replicant, Sàtir, Shadar-Kai, Tritó, Yuan-Ti
     -   S'han afegit les altres versions de les races ja presents, del Monster Manual, Volo's Guide to Monsters, Mordenkainen's Tome of Foes i Mordenkainen's: Monsters of the Multiverse. Aquesta nova informació inclou les subraces de tiefling o l'humà variant, per exemple.
     -   S'han afegit fotografies i fonts a totes les races
+    -   S'han realitzat diverses correccions gramaticals i ortogràfiques
+
+- 4.0.
+    -   S'ha afegit la classe de **Caçador de Sang**, juntament amb les seves quatre subclasses. 
+    -   S'ha afegit un nou plugin a Obsidian per a remarcar les diferències entre els títols d'un document.
+    -   L'apartat de Normes Situacionals s'ha dividit en tres: Trampes i Perills de Masmorra, Malalties i Bogeria, Objectes.
+    -   S'ha afegit informació sobre els Perills de Masmorra (DMG, pàg.105)
+    -   S'ha afegit l'objecte màgic *Pigment de Runabrillant* (Bigby Presents - Glory of the Giants)
+    -   S'han afegit enllaços interns addicionals per a facilitar la navegació entre documents i seccions.
     -   S'han realitzat diverses correccions gramaticals i ortogràfiques
 
 Si voleu donar suport, podeu fer-ho a través d'un donatiu a través d'aquest enllaç: https://buymeacoffee.com/micmiquel

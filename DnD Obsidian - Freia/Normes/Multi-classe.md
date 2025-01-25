@@ -11,20 +11,21 @@ Per a qualificar per a una nova classe, has de complir els prerequisits de puntu
 
 **Taula - Prerequisits per a Multi-classe**
 
-| Classe     | Mínim de Puntuació d'Habilitat          |
-|-----------|-----------------------------|
-| Bàrbar | Força 13                 |
-| Bard      | Carisma 13                 |
-| Bruixot   | Carisma 13                 |
-| Clergue    | Saviesa 13                   |
-| Druida     | Saviesa 13                   |
-| Explorador    | Destresa 13 i Saviesa 13  |
-| Fetiller  | Carisma 13                 |
-| Guerrer   | Força 13 o Destresa 13 |
-| Mag    | Intel·ligència 13             |
-| Monjo      | Destresa 13 i Saviesa 13  |
-| Murri     | Destresa 13                |
-| Paladí   | Força 13 i Carisma 13 |
+| Classe          | Mínim de Puntuació d'Habilitat             |
+| --------------- | ------------------------------------------ |
+| Bàrbar          | Força 13                                   |
+| Bard            | Carisma 13                                 |
+| Bruixot         | Carisma 13                                 |
+| Caçador de Sang | Intel·ligència 13 i Força 13 o Destresa 13 |
+| Clergue         | Saviesa 13                                 |
+| Druida          | Saviesa 13                                 |
+| Explorador      | Destresa 13 i Saviesa 13                   |
+| Fetiller        | Carisma 13                                 |
+| Guerrer         | Força 13 o Destresa 13                     |
+| Mag             | Intel·ligència 13                          |
+| Monjo           | Destresa 13 i Saviesa 13                   |
+| Murri           | Destresa 13                                |
+| Paladí          | Força 13 i Carisma 13                      |
 
 ## Punts d'Experiència
 El cost de punts d'experiència per a guanyar un nivell està sempre basat en el teu nivell de personatge total, no el teu nivell en una classe en particular. Per tant, si ets un clergue 6/guerrer 1, has de guanyar prou XP per a arribar a 8è nivell abans de poder prendre el teu segon nivell com a guerrer o el teu setè nivell com a clergue.
@@ -86,6 +87,8 @@ Si tens més d'una classe amb màgia, aquesta taula pot donar-te caselles d'enca
 Per exemple, si ets l'explorador 4/mag 3 que havíem mencionat, contes com un personatge de 5è nivell per determinar les teves caselles d'encanteri: tens quatre caselles de 1r nivell, tres caselles de 2n nivell, i dues caselles de 3r nivell. Tot i això, no coneixes cap encanteri de 3r nivell, ni cap encanteri d'explorador de 2n nivell. Pots usar les caselles d'encanteri d'aquests nivells per conjurar els encanteris que coneixes-i potencialment augmentar els seus efectes.
 
 ***Màgia del Pacte***. Si tens tant la característica de classe *Màgia* com *Màgia del Pacte* de la classe del bruixot, pots usar les caselles d'encanteri que guanyes de la *Màgia del Pacte* per conjurar encanteris que coneixes o que tens preparats de classes amb la característica *Màgia*, i pots usar les caselles d'encanteri que guanyes de *Màgia* per conjurar els encanteris de bruixot que coneixes.
+
+***Ordre de l'Ànima Profana***. Si ets un caçador de sang i formes part de l'Ordre de l'Ànima Profana i també tens nivells de bruixot, afegeix un terç dels teus nivells de caçador de sang (arrodonits a la baixa) al teu nivell de bruixot i consulta la taula de progressió del [[Bruixot]] per al nombre total de caselles d'encanteris, trucs coneguts, i nivell de casella d'encanteri. Hauries de considerar alinear la teva característica [[Bruixot#Patró d'Altremon|Patró d'Altremon]] entre ambdues classes, però el teu MM podria permetre't tenir dos patrons diferents a discreció seva.
 
 **Taula - Màgic Multi-classe: Caselles d'Encanteri per Nivell de Màgic**
 

@@ -110,7 +110,7 @@ El punt d'origen d'una esfera està inclòs en la seva àrea d'efecte.
 
 # Trucs
 
-Un truc és un encanteri que pot ser conjurat a voluntat, sense usar una casella d'encanteri i sense estar preparat amb anterioritat. La pràctica repetida ha fixat l'encanteri a la ment del màgic i l'infusiona amb la màgia necessària per a produir l'efecte una vegada i un altra. El nivell d'encanteri d'un truc és 0.
+Un truc és un encanteri que pot ser conjurat a voluntat, sense usar una casella d'encanteri i sense estar preparat amb anterioritat. La pràctica repetida ha fixat l'encanteri a la ment del màgic i l'infon amb la màgia necessària per a produir l'efecte una vegada i un altra. El nivell d'encanteri d'un truc és 0.
 
 
 # Combinar Efectes Màgics

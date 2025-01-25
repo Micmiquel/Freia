@@ -9,7 +9,7 @@ Moral: C
 Moral_2: M
 Mida: G
 ---
-# Somrís
+ # Somrís
 
 ```statblock
 monster: Somrís

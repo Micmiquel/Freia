@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Monjo
 
 Els monjos estan units per la seva habilitat d'aprofitar màgicament l'energia que flueix en els seus cossos. Sigui canalitzada com a una colpidora exhibició de proesa en combat o com un focus més subtil d'habilitat defensiva i velocitat, aquesta energia permea tot el que fa un monjo.

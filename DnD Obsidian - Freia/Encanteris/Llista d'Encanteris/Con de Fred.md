@@ -10,7 +10,7 @@
 
 **Duració:** Instantani
 
-A ràfega d'aire fred erupciona de les teves mans. Cada criatura en un con de 60 u. ha de fer un salvament de Constitució. Una criatura rep 8d8 dany de fred en un salvament fallit, o la meitat del dany en un d'exitós.
+Una ràfega d'aire fred erupciona de les teves mans. Cada criatura en un con de 60 u. ha de fer un salvament de Constitució. Una criatura rep 8d8 dany de fred en un salvament fallit, o la meitat del dany en un d'exitós.
 
 Una criatura morta per aquest encanteri es torna una estàtua congelada fins que es desglaci.
 

@@ -41,7 +41,7 @@ La regió que conté el cau de Graz'zt és pervertida per la seva màgia, creant
 Si Graz'zt mor, aquests efectes s'esvaeixen en el transcurs de 1d10 dies.
 #### Bogeria de Graz'zt
 
-Si una criatura embogeix al cau de Graz'zt o a la vista de la senyora demoníaca, tira a la taula de Bogeria de Graz'zt per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Normes Situacionals#Bogeria|Bogeria]].
+Si una criatura embogeix al cau de Graz'zt o a la vista de la senyora demoníaca, tira a la taula de Bogeria de Graz'zt per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Objectes#Bogeria|Bogeria]].
 
 **Taula - Bogeria de Graz'zt**
 

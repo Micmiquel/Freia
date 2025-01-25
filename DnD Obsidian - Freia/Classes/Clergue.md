@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Clergue
 
 Els clergues són intermediaris entre el món mortal i els plans distants dels deïtats. Tant variats com els deïtats als qui serveixen, els clergues busquen personificar l'obra de les seves deïtats. No només un sacerdot ordinari, un clergue està imbuït amb màgia divina.
@@ -68,7 +69,7 @@ Per exemple, si ets un clergue de 3r nivell, tens quatre caselles d'encanteri de
 Pots canviar la teva llista d'encanteris preparats quan acabes un descans llarg. Preparar una nova llista d'encanteris de clergue requereix temps, invertit en pregària i meditació: almenys 1 minut per nivell d'encanteri per cada encanteri en la teva llista.
 
 #### Habilitat d'Encanteri
-La Saviesa és la teva habilitat d'encanteri pels teus encanteris de clergue. El poder dels teus encanteris prové de la teva devoció a la teva deïtat. Uses la teva Saviesa quan un encanteri de clergue referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Saviesa quan fixes La CD de salvament per un encanteri de clergue que conjures i quan fas un tir d'atac amb un.
+La Saviesa és la teva habilitat d'encanteri pels teus encanteris de clergue. El poder dels teus encanteris prové de la teva devoció a la teva deïtat. Uses la teva Saviesa quan un encanteri de clergue referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Saviesa quan fixes la CD de salvament per un encanteri de clergue que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Saviesa
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Saviesa
@@ -257,7 +258,7 @@ Amb una acció, pots compartir màgicament la visió nocturna d'aquesta caracter
 Al 1r nivell, la nit t'ha ensenyat a ser vigilant. Amb una acció, dones a una criatura que toques (pots ser tu mateix) avantatge en el proper tir d'iniciativa que faci. Aquest benefici acaba immediatament després de la tirada o si uses aquesta característica una altra vegada.
 
 #### Canalitzar Divinitat: Santuari del Crepuscle
-Al 2n nivell, pots usar *Canalitzar Divinitat* to vivificar els teus aliats amb l'alleujador crepuscle.
+Al 2n nivell, pots usar *Canalitzar Divinitat* per a vivificar els teus aliats amb l'alleujador crepuscle.
 
 Amb una acció, presentes el teu símbol sagrat, i una esfera de crepuscle emana de tu. L'esfera està centrada en tu, té un radi de 30 u., i està plena de llum lleu. L'esfera es mou amb tu, i roman per 1 minut o fins que siguis incapacitat o moris. Quan una criatura (tu inclòs) acaba el seu torn dins l'esfera, pots atorgar-li un d'aquests beneficis:
 - Li atorgues punts vitals temporals iguals a 1d6 més el teu nivell de clergue.
@@ -465,7 +466,7 @@ Al 1r nivell, aprens un truc de nigromància escollit per tu de qualsevol llista
 Començant al 2n nivell, pots usar *Canalitzar Divinitat* per a destruir la força vital d'una altra criatura al tocar-la. Quan dones a una criatura amb un atac cos a cos, pots usar *Canalitzar Divinitat* per a causar-li dany necròtic extra. El dany és igual a 5 + dues vegades el teu nivell de clergue.
 
 #### Destrucció Inescapable
-Començant al 6è nivell, la teva habilitat per a canalitzar energia negativa es torna més potent. El dany necròtic causar pels teus encanteris de clergue i opcions de *Canalitzar Divinitat* ignora resistència al dany necròtic.
+Començant al 6è nivell, la teva habilitat per a canalitzar energia negativa es torna més potent. El dany necròtic causat pels teus encanteris de clergue i opcions de *Canalitzar Divinitat* ignora resistència al dany necròtic.
 
 #### Escomesa Divina
 Al 8è nivell, guanyes l'habilitat d'infondre les teves escomeses d'arma amb energia necròtica. Un cop en cada un dels teus torns, quan dones a una criatura amb un atac d'arma, pots causar que l'atac causi 1d8 de dany necròtic extra a l'objectiu. Quan arribes al 14è nivell, el dany extra incrementa a 2d8.
@@ -632,7 +633,7 @@ Quan tires dany elèctric o de so, pots usar Canalitzar Divinitat per causar el 
 Al 6è nivell, quan causes dany elèctric a una criatura Gran o menor, també pots empentar-la a 10 u. enllà de tu.
 
 #### Arremesa Divina
-Al 8è nivell, guanyes l'habilitat d'infusionar les teves escomeses d'arma amb energia divina. Un cop en cada un dels teus torns quan dones a una criatura amb un atac d'arma, pots causar que l'atac causi un extra 1d8 dany de so a l'objectiu. Quan arribes al 14è nivell, el dany extra incrementa a 2d8.
+Al 8è nivell, guanyes l'habilitat d'infondre les teves escomeses d'arma amb energia divina. Un cop en cada un dels teus torns quan dones a una criatura amb un atac d'arma, pots causar que l'atac causi un extra 1d8 dany de so a l'objectiu. Quan arribes al 14è nivell, el dany extra incrementa a 2d8.
 
 #### Fill de la Tempesta
 Al 17è nivell, tens una velocitat de vol igual a la teva velocitat de caminar actual quan no estàs sota terra o dins d'un edifici (no a l'aire lliure).

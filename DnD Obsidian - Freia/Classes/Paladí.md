@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Paladí
 
 Sigui jurat davant l'altar d'una deïtat i amb un sacerdot com a testimoni, en una clariana sagrada davant dels esperits de la natura i éssers fey, o en un moment de desesperació i dol, amb els morts com a únics testimonis, el jurament d'un paladí és un lligam poderós.
@@ -91,7 +92,7 @@ Per exemple, si ets un paladí de 5è nivell, tens quatre caselles d'encanteri d
 Pots canviar la teva llista d'encanteris preparats quan acabes un descans llarg. Preparar una nova llista d'encanteris de paladí requereix temps gastat en pregaria i meditació: almenys 1 minut per nivell d'encanteri per cada encanteri en la teva llista.
 
 #### Habilitat d'Encanteri
-El El Carisma és la teva habilitat d'encanteri pels teus encanteris de paladí, ja que el seu poder deriva de la força de les teves conviccions. Uses el teu Carisma quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Carisma quan fixes La CD de salvament o quan fas un tir d'atac amb un encanteri de paladí que conjures.
+El El Carisma és la teva habilitat d'encanteri pels teus encanteris de paladí, ja que el seu poder deriva de la força de les teves conviccions. Uses el teu Carisma quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Carisma quan fixes la CD de salvament o quan fas un tir d'atac amb un encanteri de paladí que conjures.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Carisma
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Carisma

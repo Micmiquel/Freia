@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Mag
 
 Els mags són suprems usuaris de màgia, definits i units com una classe pels encanteris que conjuren. Fent ús del subtil teixit de màgia que permea el cosmos, els mags conjuren encanteris de foc explosiu, llampecs en zig-zag, engany subtil, control mental per força bruta, i molts més.
@@ -69,7 +70,7 @@ Per exemple, si ets un mag de 3r nivell, tens quatre caselles d'encanteri de 1r 
 Pots canviar la teva llista d'encanteris preparats quan acabes un descans llarg. Preparar una nova llista d'encanteris de mag requereix temps gastat estudiant el teu llibre d'encanteris i memoritzant els sortilegis i gestos que has de fer per conjurar l'encanteri: almenys 1 minut per nivell d'encanteri per cada encanteri en la teva llista.
 
 #### Habilitat d'Encanteri
-La Intel·ligència és la teva habilitat d'encanteri pels teus encanteris de mag, ja que aprens els teus encanteris a través d'estudi compromès i memorització. Uses la teva Intel·ligència quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador d'Intel·ligència quan fixes La CD de salvament per un encanteri de mag que conjures i quan fas un tir d'atac amb un.
+La Intel·ligència és la teva habilitat d'encanteri pels teus encanteris de mag, ja que aprens els teus encanteris a través d'estudi compromès i memorització. Uses la teva Intel·ligència quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador d'Intel·ligència quan fixes la CD de salvament per un encanteri de mag que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador d'Intel·ligència
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador d'Intel·ligència
@@ -467,10 +468,10 @@ Pots emmagatzemar un nombre màxim de dolls de poder igual al teu modificador d'
 Un cop per torn quan causes dany a una criatura o objecte amb un encanteri de mag, pots gastar un doll de poder per a causar dany de força extra a aquest objectiu. El dany extra és igual a la meitat del teu nivell de mag.
 
 #### Màgia Duradora
-Començant al 10è nivell, la màgia que canalitzes t'ajuda a prevenir el dany. Mentre mantiguis la concentració en un encanteri, tens un +2 de bonus a la CA i tots els salvaments.
+Començant al 10è nivell, la màgia que canalitzes t'ajuda a prevenir el dany. Mentre mantinguis la concentració en un encanteri, tens un +2 de bonus a la CA i tots els salvaments.
 
 #### Sudari Desviador
-Al 14è nivell, la teva *Desviació Arcana* s'infusiona amb màgia mortal. Quan uses la teva característica *Desviació Arcana*, pots causar que energia màgica crei arcs que sorgeix de tu. Fins a tres criatures escollides per tu a 60 u. reben dany de força igual a la meitat del teu nivell de mag.
+Al 14è nivell, la teva *Desviació Arcana* s'infon amb màgia mortal. Quan uses la teva característica *Desviació Arcana*, pots causar que energia màgica creï arcs sorgint de tu. Fins a tres criatures escollides per tu a 60 u. reben dany de força igual a la meitat del teu nivell de mag.
 
 
 

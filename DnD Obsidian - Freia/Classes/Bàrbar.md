@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Bàrbar
 
 Per alguns, la seva ira sorgeix d'una comunió amb ferotges esperits animals. Altres s'aprofiten d'una agitada reserva de còlera cap a un món ple de dolor. Per cada bàrbar, la ira és un poder que impulsa no només un frenesí de batalla, sinó també reflexos extraordinaris, resistència, i gestes de força.

@@ -41,7 +41,7 @@ La regió que conté el cau de Demogorgon és pervertida per la seva màgia, cre
 Si Demogorgon mor, aquests efectes s'esvaeixen en el transcurs de 1d10 dies.
 #### Bogeria de Demogorgon
 
-Si una criatura embogeix al cau de Demogorgon o a la vista del senyor demoníac, tira a la taula de *Bogeria de Demogorgon* per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Normes Situacionals#Bogeria|Bogeria]].
+Si una criatura embogeix al cau de Demogorgon o a la vista del senyor demoníac, tira a la taula de *Bogeria de Demogorgon* per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Objectes#Bogeria|Bogeria]].
 
 **Taula - Bogeria de Demogorgon**
 

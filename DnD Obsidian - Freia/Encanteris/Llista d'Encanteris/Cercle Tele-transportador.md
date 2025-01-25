@@ -6,7 +6,7 @@
 
 **Rang:** 10 u.
 
-**Components:** V, M (guixos rars i tintes infusionades amb gemmes precioses valorades en 50 p.o., que l'encanteri consumeix)
+**Components:** V, M (guixos rars i tintes infoses amb gemmes precioses valorades en 50 p.o., que l'encanteri consumeix)
 
 **Duració:** 1 ronda
 

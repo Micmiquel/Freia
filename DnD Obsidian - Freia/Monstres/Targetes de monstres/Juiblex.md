@@ -29,7 +29,7 @@ En la puntuació d'iniciativa 20 (perdent empats d'iniciativa), Juiblex pot usar
 
 - Juiblex omple de llim una àrea quadrada de terra que pugui veure en el cau. L'àrea pot ser de fins a 10 u. per costat. El llim dura per 1 hora o fins que és cremat amb foc. Quan el llim apareix, cada criatura a l'àrea ha de superar un salvament de Força de CD 21 o ser restringida. Quan una criatura entra a l'àrea per primer cop en un torn o hi acaba el torn, ha de fer el mateix salvament. Una criatura restringida està enganxada sempre que romangui a l'àrea de llim o fins que s'alliberi. La criatura restringida, o una altra criatura que pugui arribar-hi, pot usar la seva acció per a intentar alliberar-se, havent de superar un control de Força de CD 21. Si el llim s'encén, es crema després de 1 ronda. Qualsevol criatura que comenci el seu torn en el llim cremant rep 22 (4d10) dany de foc.
 - Juiblex omple de llim una àrea quadrada de terra que pugui veure en el cau. L'àrea pot ser de fins a 10 u. per costat. El llim dura per 1 hora o fins que és cremat amb foc. Quan el llim apareix, cada criatura en ell ha de superar un salvament de Destresa de CD 21 o caure estirada i lliscar 10 u. en una direcció aleatòria determinada per una tirada de d8. Quan una criatura entra a l'àrea per primer cop en un torn o hi acaba el torn, ha de fer el mateix salvament. Si el llim s'encén, es crema després de 1 ronda. Qualsevol criatura que comenci el seu torn en el llim cremant rep 22 (4d10) dany de foc.
-- Un llim verd (veure DMG) apareix en un punt al sostre que el Juiblex esculli dins del cau. El llim es desintegra després de 1 hora.
+- Un [[Trampes i Perills de Masmorra#Llim Verd|llim verd]] apareix en un punt al sostre que el Juiblex esculli dins del cau. El llim es desintegra després de 1 hora.
 #### Efectes Regionals
 
 La regió que conté el cau de Juiblex és pervertida per la seva màgia, creant un o més dels següents efectes:
@@ -41,7 +41,7 @@ La regió que conté el cau de Juiblex és pervertida per la seva màgia, creant
 Si Juiblex mor, aquests efectes s'esvaeixen en el transcurs de 1d10 dies.
 #### Bogeria de Juiblex
 
-Si una criatura embogeix al cau de Juiblex o a la vista del senyor demoníac, tira a la taula de Bogeria de Juiblex per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Normes Situacionals#Bogeria|Bogeria]].
+Si una criatura embogeix al cau de Juiblex o a la vista del senyor demoníac, tira a la taula de Bogeria de Juiblex per a determinar la naturalesa de la bogeria, que és un defecte de caràcter que dura fins ser curat. Per a saber més sobre la bogeria, pots consultar-ho a [[Objectes#Bogeria|Bogeria]].
 
 **Taula - Bogeria de Juiblex**
 

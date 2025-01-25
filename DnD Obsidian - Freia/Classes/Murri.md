@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Murri
 
 Els murris es basen en habilitat, sigil, i les vulnerabilitats dels seus enemics per aconseguir l'avantatge en qualsevol situació. Tenen traça en trobar la solució a gairebé qualsevol problema, demostrant una inventiva i versatilitat que és la base de qualsevol grup d'aventurers exitós.

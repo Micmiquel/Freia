@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Guerrer
 
 Els guerrers comparteixen una mestria incomparable amb armes i armadura, i un coneixement minuciós de les habilitats de combat. Tenen familiaritat de la mort, tant administrant-la com encarant-s'hi desafiadorament.
@@ -53,8 +54,6 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 ### Estil de Lluita
 Adoptes un estil particular de lluita com a la teva especialitat. Escull una de les opcions següents. No pots prendre una opció d'Estil de Lluita més d'un cop, fins i tot si més tard pots escollir una altra vegada.
 
-#### Arquería
-Guanyes un +2 de bonus a tirs d'atac que facis amb armes de rang.
 #### Defensa
 Mentre estiguis portant armadura, guanyes un +1 de bonus a la CA.
 #### Duel
@@ -76,6 +75,8 @@ Quan una criatura que puguis veure ataca un objectiu que no siguis tu que estigu
 #### Tècnica Superior (TCE)
 Aprens una maniobra que esculls entre aquelles disponibles a l'arquetip de Mestre de Batalla, a [[Guerrer|Maniobres del Mestre de Batalla]]. Si una maniobra que usis requereix que el teu objectiu faci un salvament per a resistir els efectes de la maniobra, la CD del salvament és igual a 8 + el teu bonus de proficiència + el teu modificador de Força o Destresa (tu esculls).
 Guanyes un dau de superioritat, que és un d6 (aquest dau s'afegeix a qualsevols daus de superioritat que ja tinguis d'una altra font). Aquest s'usa per a impulsar les teves maniobres. Un dau de superioritat es gasta quan l'uses. Recuperes els teus daus de superioritat gastats quan acabes un descans curt o llarg.
+#### Tir amb Arc
+Guanyes un +2 de bonus a tirs d'atac que facis amb armes de rang.
 
 ### Segon Vent
 Tens un pou de vitalitat limitat que pots usar per protegir-te del dany. En el teu torn, pots usar una acció bonus per recuperar punts vitals iguals a 1d10 + el teu nivell de guerrer. Un cop uses aquesta característica, has de completar un descans curt o llarg abans de poder usar-la una altra vegada.
@@ -108,7 +109,7 @@ Pots usar aquesta característica dues vegades entre descansos llargs començant
 
 ### Arquer Arcà
 
-Una Arquer Arcà estudia un mètode únic èlfic d'arqueria que teixeix màgia en els seus atacs per a produir efectes sobrenatural. Els Arquers Arcans són dels guerrers de més elit entre els elfs. Monten guàrdia als marges dels dominis èlfics, vigilant a possibles infractors i usant fletxes imbuïdes amb màgia per a derrotar monstres i invasors abans de que arribin a poblacions èlfiques. A través dels segles, els mètodes d'aquests arquers elfs han sigut apresos per membres d'altres races que també poden equilibrar aptituds arcanes amb l'arqueria.
+Una Arquer Arcà estudia un mètode únic èlfic de tir amb arc que teixeix màgia en els seus atacs per a produir efectes sobrenatural. Els Arquers Arcans són dels guerrers de més elit entre els elfs. Monten guàrdia als marges dels dominis èlfics, vigilant a possibles infractors i usant fletxes imbuïdes amb màgia per a derrotar monstres i invasors abans de que arribin a poblacions èlfiques. A través dels segles, els mètodes d'aquests arquers elfs han sigut apresos per membres d'altres races que també poden equilibrar aptituds arcanes amb el tir amb arc.
 
 ***Font: Xanathar's Guide to Everything***
 
@@ -129,7 +130,7 @@ Al 7è nivell, guanyes l'habilitat d'infondre fletxes amb màgia. Quan dispares 
 Al 7è nivell, aprens a dirigir una fletxa perduda cap a un nou objectiu. Quan fas un tir d'atac amb una fletxa màgica i falles, pots usar una acció bonus per a tornar a tirar el tir d'atac contra un objectiu diferent a 60 u. de l'objectiu original.
 
 #### Tir Sempre Llest
-Començant al 15è nivell, la teva arqueria màgica està disponible quan comença la batalla. Si tires iniciativa i no tens usos romanents de *Tir Arcà*, en recuperes un ús.
+Començant al 15è nivell, el teu tir amb arc màgic està disponible quan comença la batalla. Si tires iniciativa i no tens usos romanents de *Tir Arcà*, en recuperes un ús.
 
 #### Opcions de *Tir Arcà*
 La característica de *Tir Arcà* et permet escollir noves opcions a certs nivells. Les opcions es presenten aquí en ordre alfabètic. Totes són efectes màgics, i cada un és associat amb una de les escoles de màgia.
@@ -278,7 +279,7 @@ Els encanteris que aprens al 8è, 14è, i 20è nivell poden venir de qualsevol e
 Quan guanyes un nivell en aquesta classe, pots reemplaçar un dels encanteris de mag que coneixes amb un altre encanteri escollit per tu de la llista d'encanteris de mag. El nou encanteri ha de ser d'un nivell pel qual tinguis caselles d'encanteri, i ha de ser un encanteri d'abjuració o evocació, a no ser que estiguis reemplaçant l'encanteri guanyat al 3r, 8è, 14è, o 20è nivell de qualsevol escola de màgia.
 
 ##### Habilitat d'Encanteri
-Intel·ligència és la teva habilitat d'encanteri pels teus encanteris de mag, ja que aprens els teus encanteris a través de l'estudi i la memorització. Uses la teva Intel·ligència quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador d'Intel·ligència quan fixes La CD de salvament per un encanteri de mag que conjures i quan fas un tir d'atac amb un.
+Intel·ligència és la teva habilitat d'encanteri pels teus encanteris de mag, ja que aprens els teus encanteris a través de l'estudi i la memorització. Uses la teva Intel·ligència quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador d'Intel·ligència quan fixes la CD de salvament per un encanteri de mag que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador d'Intel·ligència
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador d'Intel·ligència
@@ -507,7 +508,7 @@ Quan dones a una criatura amb un atac d'arma cos a cos, pots gastar un dau de su
 ###### Atac d'Estocada
 Quan fas un atac d'arma cos a cos en el teu torn, pots gastar un dau de superioritat per a incrementar el teu rang per aquest atac per 5 u. Si dones, afegeixes el dau de superioritat al tir de dany de l'atac.
 ###### Atac Maniobrant
-Quan dones a una criatura amb un atac d'arma, pots gastar un dau de superioritat per a maniobrar un dels teus camarades cap a una posició més avantatjosa. Afegeix el dau de superioritat al tir de dany de l'atac, i escull a una criatura amigable que et pugui veure o escoltar. Aquesta criatura pot usar la seva reacció per a moure's fins a la meitat de la seva velocitat sense provocar atacs d'oporunitat de l'objectiu del teu atac.
+Quan dones a una criatura amb un atac d'arma, pots gastar un dau de superioritat per a maniobrar un dels teus camarades cap a una posició més avantatjosa. Afegeix el dau de superioritat al tir de dany de l'atac, i escull a una criatura amigable que et pugui veure o escoltar. Aquesta criatura pot usar la seva reacció per a moure's fins a la meitat de la seva velocitat sense provocar atacs d'oportunitat de l'objectiu del teu atac.
 ###### Atac de Precisió
 Quan fas un tir d'atac d'arma contra una criatura, pots gastar un dau de superioritat per afegir-lo a la tirada. Pots usar aquesta maniobra abans o després de fer el tir d'atac, però abans de que s'apliqui cap efecte de l'atac.
 ###### Atac Provocador

@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Fetiller
 
 Els fetillers porten amb ells a un màgic dret de naixença, conferit per un llinatge exòtic, una influència d'altremon, o l'exposició a forces còsmiques desconegudes. Ningú escull ser un fetiller; el poder l'escull a ell.
@@ -70,7 +71,7 @@ La columna d'Encanteris Coneguts de la taula del Fetiller mostra quan aprens mé
 Addicionalment, quan guanyes un nivell en aquesta classe, pots escollir un dels encanteris de fetiller que coneixes i reemplaçar-lo amb un altre encanteri de la llista d'encanteris de fetiller, que també ha de ser d'un nivell pel qual tinguis caselles d'encanteri.
 
 #### Habilitat d'Encanteri
-El Carisma és la teva habilitat d'encanteri pels teus encanteris de fetiller, ja que el poder de la teva màgia es basa en la teva habilitat de projectar la teva voluntat en el món. Uses el teu Carisma quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Carisma quan fixes La CD de salvament per un encanteri de fetiller que conjures i quan fas un tir d'atac amb un.
+El Carisma és la teva habilitat d'encanteri pels teus encanteris de fetiller, ja que el poder de la teva màgia es basa en la teva habilitat de projectar la teva voluntat en el món. Uses el teu Carisma quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Carisma quan fixes la CD de salvament per un encanteri de fetiller que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Carisma
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Carisma

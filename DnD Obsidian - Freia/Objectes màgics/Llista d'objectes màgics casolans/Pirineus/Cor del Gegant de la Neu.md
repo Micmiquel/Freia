@@ -3,7 +3,7 @@ Harmonització: false
 ---
 # Cor del Gegant de la Neu
 
-(Tipus:: Objecte meravellós) (Raresa:: Únic) **
+(Tipus:: Objecte meravellós) (Raresa:: Únic)
 
 A no ser que aquest cor sigui destruït, el Gegant de la Neu es reformarà al seu voltant en tocar la neu, però mai abans de 6 mesos des de ser destruït. Si al cap d'un any el gegant no s'ha reformat, el cor es fondrà i el gegant renaixerà amb la primera nevada al lloc on va morir.
 

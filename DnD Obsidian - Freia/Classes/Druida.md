@@ -1,4 +1,5 @@
 Si vols guanyar un nivell en aquesta classe quan ja tens nivells en una altra, consulta les normes de [[Multi-classe]].
+
 # Druida
 
 Sigui cridant les forces elementals de la natura o emulant les criatures del món animal, els druides són la personificació de la resistència, astúcia i fúria de la natura. No reivindiquen cap mestria sobre la natura, sinó que es veuen com a extensions de la seva voluntat indomable.
@@ -60,7 +61,7 @@ Coneixes Druídic, la llengua secreta dels druides. Pots parlar-la i user-la per
 Aprofitant l'essència divina de la natura mateixa, pots conjurar encanteris per donar forma a aquesta essència d'acord a la teva voluntat.
 
 #### Trucs
-Al 1r nivell, coneixes dos trucs de la teva elecció de la llista d'encanteris de druida. Aprens trucs de druida addicionala de la teva elecció a nivells superiors, com es mostra a la columna de *Trucs Coneguts* de la taula d'El Druida.
+Al 1r nivell, coneixes dos trucs de la teva elecció de la llista d'encanteris de druida. Aprens trucs de druida addicionals de la teva elecció a nivells superiors, com es mostra a la columna de *Trucs Coneguts* de la taula d'El Druida.
 
 #### Preparar i Conjurar Encanteris
 La taula d'El Druida mostra quantes caselles d'encanteri tens per conjurar els teus encanteris de druida de 1r nivell i superiors. Per conjurar un d'aquests encanteris de druida, has de gastar una casella del nivell de l'encanteri o major. Recuperes totes les caselles d'encanteri gastades quan acabes un descans llarg.
@@ -72,7 +73,7 @@ Per exemple, si ets un druida de 3r nivell, tens quatre caselles d'encanteri de 
 També pots canviar la teva llista d'encanteris preparats quan acabes un descans llarg. Preparar una nova llista d'encanteris de druida requereix temps gastat en pregaria i meditació: almenys 1 minut per nivell d'encanteri per cada encanteri en la teva llista.
 
 ### Habilitat d'Encanteri
-La Saviesa és la teva habilitat d'encanteri pels teus encanteris de druida, ja que la teva màgia prové de la teva devoció i sintonía amb la natura. Uses la teva Saviesa quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Saviesa quan fixes La CD de salvament per un encanteri de druida que conjures i quan fas un tir d'atac amb un.
+La Saviesa és la teva habilitat d'encanteri pels teus encanteris de druida, ja que la teva màgia prové de la teva devoció i sintonia amb la natura. Uses la teva Saviesa quan un encanteri referencia la teva habilitat d'encanteri. Addicionalment, uses el teu modificador de Saviesa quan fixes la CD de salvament per un encanteri de druida que conjures i quan fas un tir d'atac amb un.
 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Saviesa
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Saviesa
@@ -205,9 +206,9 @@ Mentre aguantes aquest mapa, tens aquests beneficis:
 - Si perds el mapa, pots executar una cerimònia de 1 hora per a crear màgicament un reemplaçament. Aquesta cerimònia pot ser realitzada durant un descans curt o llarg, i destrueix el mapa previ.
 
 #### Forma Estel·lar
-Al 2n nivell, guanyes l'habilitat d'aprofitar el poder de les constel·lacions per alterar la teva forma. Amb una acció bonus, pots gastar un ús de la teva *Forma Salvatge* per prendre una forma estel·lar, en comptes de transfor-te en una Bèstia.
+Al 2n nivell, guanyes l'habilitat d'aprofitar el poder de les constel·lacions per alterar la teva forma. Amb una acció bonus, pots gastar un ús de la teva *Forma Salvatge* per prendre una forma estel·lar, en comptes de transformar-te en una Bèstia.
 
-Mentre estiguis en la teva forma estel·lar, retens les teves estadístiques del joc, però el teu cos es torna lluimnós; les teves articulacions brillen com estrelles, i línies fulgurants les connecten en una carta estel·lar. Aquesta forma emet llum brillant a un radi de 10 u. i llum lleu a unes 10 u. addicionals. La forma perdura per 10 minuts. Acaba abans d'hora si la retires (sense requerir una acció), quedes incapacitat, mors, o uses aquesta característica una altra vegada.
+Mentre estiguis en la teva forma estel·lar, retens les teves estadístiques del joc, però el teu cos es torna lluminós; les teves articulacions brillen com estrelles, i línies fulgurants les connecten en una carta estel·lar. Aquesta forma emet llum brillant a un radi de 10 u. i llum lleu a unes 10 u. addicionals. La forma perdura per 10 minuts. Acaba abans d'hora si la retires (sense requerir una acció), quedes incapacitat, mors, o uses aquesta característica una altra vegada.
 
 Quan prens la teva forma estel·lar, escull quina de les següents constel·lacions brilla en el teu cos; la teva elecció et dona certs beneficis mentre estiguis en aquesta forma:
 
@@ -246,11 +247,11 @@ Un cop guanyes accés a un d'aquests encanteris, sempre el tens preparat, i no c
 **Encanteris del Cercle de l'Incendi**
 
 | Nivell de Druida | Encanteris                                       |
-| ---------------- | ---------- |
+| ---------------- | ------------------------------------------------ |
 | 2n               | [[Mans Ardents]], [[Curar Ferides]]              |
 | 3r               | [[Esfera Flamant]], [[Raig Carbonitzador]]       |
 | 5è               | [[Creixement Vegetal]], [[Reviscolar]]           |
-| 7è               | [[Aura de Vida]], [[Escut de Foc]]              |
+| 7è               | [[Aura de Vida]], [[Escut de Foc]]               |
 | 9è               | [[Escomesa Flamant]], [[Curar Ferides en Massa]] |
 
 #### Invocar Esperit Incendiari
@@ -277,7 +278,7 @@ L'esperit es manifesta per 1 hora, fins que sigui reduït a 0 punts vitals, fins
 - Immunitats al Dany: foc
 - Immunitats a Condicions: encantat, espantat, agafat, estirat, restringit
 - Sentits: visió nocturna 60 u., Percepció passiva 12
-- Llengües: entèn les llengües que parles
+- Llengües: entén les llengües que parles
 - CR: —
 - Bonus de Proficiència: és igual al teu bonus
 *Accions*
@@ -374,7 +375,7 @@ Un cop uses aquesta característica, no pots usar-la una altra vegada fins que a
 
 ### Cercle dels Somnis
 
-Els druides que són membres del Cercle de Somnis provenen de regions que tenen forts vincles al Feywild i els seus regnes de somnis. La custòdia del món natural dels druides actua com a aliança natural entre ells i els fey de bona allineació. Aquests druides busquen omplir el món amb meravelles de somni, i la seva màgia sargeix ferides i porta joia als cors abatuts. Els regnes que protegeixen són llocs resplendents i fructífers, on el somni i la realitat es confonen i on els cansats poden trobar descans.
+Els druides que són membres del Cercle de Somnis provenen de regions que tenen forts vincles al Feywild i els seus regnes de somnis. La custòdia del món natural dels druides actua com a aliança natural entre ells i els fey de bona alineació. Aquests druides busquen omplir el món amb meravelles de somni, i la seva màgia sargeix ferides i porta joia als cors abatuts. Els regnes que protegeixen són llocs resplendents i fructífers, on el somni i la realitat es confonen i on els cansats poden trobar descans.
 
 ***Font: Xanathar's Guide to Everything***
 
