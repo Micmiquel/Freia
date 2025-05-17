@@ -16,8 +16,8 @@ Mentre estàs encantat per l'orb, no pots acabar voluntàriament amb la teva har
 
 ***Propietats aleatòries***. Un *Orb de Draconitat* té les següents propietats aleatòries:
 - 2 propietats beneficioses menors
-- 1 propietat detrimental menor
-- 1 propietat detrimental major
+- 1 propietat perjudicial menor
+- 1 propietat perjudicial major
 
 ***Encanteris***. L'orb té 7 càrregues i recupera 1d4+3 càrregues gastades diàriament a l'alba. Si controles l'orb, pots usar una acció i gastar 1 o més càrregues per conjurar un dels següents encanteris (CD de salvament 18) d'ell: [[Curar Ferides]] (versió de 5è nivell, 3 càrregues), [[Llum Solar]] (1 càrrega), [[Custòdia contra la Mort]] (2 càrregues), o [[Predir]] (3 càrregues).
 

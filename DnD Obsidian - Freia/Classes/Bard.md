@@ -29,29 +29,29 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Bard**
 
-| Nivell | Bonus de Proficiència | Característiques                                     | Trucs Coneguts | Encanteris Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  | 6è  | 7è  | 8è  | 9è  |
-| ------ | --------------------- | ---------------------------------------------------- | -------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1r     | +2                    | Màgia, Inspiració Barda (d6)                         | 2              | 4                   | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2n     | +2                    | Versàtil, Cançó de Descans (d6)                      | 2              | 5                   | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3r     | +2                    | Col·legi de Bards, Expertesa                         | 2              | 6                   | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4t     | +2                    | Millora de Puntuació d'Habilitat                     | 3              | 7                   | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5è     | +3                    | Inspiració Barda (d8), Font d'Inspiració             | 3              | 8                   | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6è     | +3                    | Contra-embruix, Característica del Col·legi de Bards | 3              | 9                   | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7è     | +3                    | -                                                    | 3              | 10                  | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8è     | +3                    | Millora de Puntuació d'Habilitat                     | 3              | 11                  | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9è     | +4                    | Cançó de Descans (d8)                                | 3              | 12                  | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10è    | +4                    | Inspiració Barda (d10), Expertesa, Secrets Màgics    | 4              | 14                  | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11è    | +4                    | -                                                    | 4              | 15                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12è    | +4                    | Millora de Puntuació d'Habilitat                     | 4              | 15                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13è    | +5                    | Cançó de Descans (d10)                               | 4              | 16                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14è    | +5                    | Secrets Màgics, Característica del Col·legi de Bards | 4              | 18                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15è    | +5                    | Inspiració Barda (d12)                               | 4              | 19                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16è    | +5                    | Millora de Puntuació d'Habilitat                     | 4              | 19                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17è    | +6                    | Cançó de Descans (d12)                               | 4              | 20                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18è    | +6                    | Secrets Màgics                                       | 4              | 22                  | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19è    | +6                    | Millora de Puntuació d'Habilitat                     | 4              | 22                  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20è    | +6                    | Inspiració Superior                                  | 4              | 22                  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|        |                       |                                                      |                |                     |     |     |     |     |     |     |     |     |     |
+| Nivell | Bonus de Proficiència | Característiques                                                  | Trucs Coneguts | Encanteris Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  | 6è  | 7è  | 8è  | 9è  |
+| ------ | --------------------- | ----------------------------------------------------------------- | -------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | Màgia, Inspiració Barda (d6)                                      | 2              | 4                   | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2n     | +2                    | Versàtil, Cançó de Descans (d6), *Inspiració Màgica (Opcional)*   | 2              | 5                   | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3r     | +2                    | Col·legi de Bards, Expertesa                                      | 2              | 6                   | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat, *Versatilitat Barda (Opcional)* | 3              | 7                   | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5è     | +3                    | Inspiració Barda (d8), Font d'Inspiració                          | 3              | 8                   | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6è     | +3                    | Contra-embruix, Característica del Col·legi de Bards              | 3              | 9                   | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7è     | +3                    | -                                                                 | 3              | 10                  | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat, *Versatilitat Barda (Opcional)* | 3              | 11                  | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9è     | +4                    | Cançó de Descans (d8)                                             | 3              | 12                  | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10è    | +4                    | Inspiració Barda (d10), Expertesa, Secrets Màgics                 | 4              | 14                  | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11è    | +4                    | -                                                                 | 4              | 15                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat, *Versatilitat Barda (Opcional)* | 4              | 15                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13è    | +5                    | Cançó de Descans (d10)                                            | 4              | 16                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14è    | +5                    | Secrets Màgics, Característica del Col·legi de Bards              | 4              | 18                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15è    | +5                    | Inspiració Barda (d12)                                            | 4              | 19                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat, *Versatilitat Barda (Opcional)* | 4              | 19                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17è    | +6                    | Cançó de Descans (d12)                                            | 4              | 20                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18è    | +6                    | Secrets Màgics                                                    | 4              | 22                  | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat, *Versatilitat Barda (Opcional)* | 4              | 22                  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20è    | +6                    | Inspiració Superior                                               | 4              | 22                  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|        |                       |                                                                   |                |                     |     |     |     |     |     |     |     |     |     |
 
 ### Màgia
 Has après a desenredar i reformar el teixit de la realitat en harmonia amb els teus desitjos i la música.
@@ -101,6 +101,9 @@ Començant al 2n nivell, pots usar música calmant o oració per ajudar a revita
 
 Els punts vitals extra incrementen quan arribes a certs nivells en aquesta classe: a 1d8 al 9è nivell, a 1d10 al 13è nivell, i a 1d12 al 17è nivell.
 
+### Inspiració Màgica (Opcional)
+Al 2n nivell, si una criatura té un dau d'Inspiració Barda teu i conjura un encanteri que restaura punts vitals o causa dany, la criatura pot tirar aquest dau i escollir un objectiu afectat per l'encanteri. Afegeix el nombre tirat com a bonus als punts vitals recuperats o el dany causat. El dau d'Inspiració Barda llavors es perd.
+
 ### Col·legi de Bards
 Al 3r nivell, aprofundeixes en les tècniques avançades d'un col·legi de bards de la teva elecció: el [[Classes/Bard#Col·legi de la Creació|Col·legi de la Creació]], el [[Bard#Col·legi de l'Eloqüència|Col·legi de l'Eloqüència]], el [[Classes/Bard#Col·legi de les Espases|Col·legi de les Espases]], el [[Classes/Bard#Col·legi dels Esperits|Col·legi dels Esperits]], el [[Classes/Bard#Col·legi del Glamur|Col·legi del Glamur]], el [[Classes/Bard#Col·legi del Lore|Col·legi del Lore]], el [[Classes/Bard#Col·legi del Valor|Col·legi del Valor]], o el [[Classes/Bard#Col·legi dels Xiuxiuejos|Col·legi dels Xiuxiuejos]] tots detallats a [[Classes/Bard#Col·legis de Bards|Col·legis de Bards]] al final de la descripció de la classe. La teva elecció t'atorga característiques al 3r nivell i altre cop al 6è i 14è nivell.
 
@@ -110,6 +113,12 @@ Al 10è nivell, pots escollir dues altres proficiències d'habilitat per guanyar
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat Barda (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots fer una de les següents opcions, representant un canvi en l'enfocament en l'ús de les teves perícies i màgia:
+
+- Reemplaça una de les teves perícies escollides per a la característica Expertesa amb una de les teves altres proficiències de perícia que no s'estigui beneficiant d'Expertesa.
+- Reemplaça un truc que has après de la característica de Màgia d'aquesta classe amb un altre truc de la [[Taula Bard|llista d'encanteris de bard]].
 
 ### Font d'Inspiració
 Començant quan arribes a 5è nivell, recuperes tots els teus usos gastats d'*Inspiració Barda* quan acabes un descans curt o llarg.

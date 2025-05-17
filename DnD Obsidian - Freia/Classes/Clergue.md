@@ -30,28 +30,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Clergue**
 
-| Nivell | Bonus de Proficiència | Característiques | Trucs Coneguts | 1r | 2n | 3r | 4t | 5è | 6è | 7è | 8è | 9è |
-|-------|-----|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1r | +2 | Màgia, Domini Diví | 3 | 2 | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2n | +2 | Canalitzar Divinitat (1/descans), Característica de Domini Diví | 3 | 3 | - | - | - | -   | -   | -   | -   | -   |
-| 3r   | +2 | - | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4t   | +2 | Millora de Puntuació d'Habilitat | 4 | 4 | 3 | - | - | - | - | - | - | - |
-| 5è   | +3 | Destruir No-Morts (CR 1/2) | 4 | 4 | 3 | 2 | - | - | - | -   | -   | -   |
-| 6è | +3 | Canalitzar Divinitat (2/descans), Característica de Domini Diví | 4 | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7è   | +3 | -  | 4 | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8è   | +3 | Millora de Puntuació d'Habilitat, Destruir No-Morts (CR 1), Característica de Domini Diví | 4 | 4 | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9è   | +4 | -  | 4 | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10è  | +4 | Intervenció Divina  | 5 | 4 | 3 | 3 | 3   | 2   | -   | -   | -   | -   |
-| 11è  | +4 | Destruir No-Morts (CR 2) | 5 | 4 | 3 | 3 | 3 | 2 | 1   | -   | -   | -   |
-| 12è | +4 | Millora de Puntuació d'Habilitat | 5  | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 13è  | +5 | - | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14è  | +5 | Destruir No-Morts (CR 3) | 5 | 4 | 3 | 3 | 3 | 2 | 1   | 1   | -   | -   |
-| 15è  | +5 | -  | 5 | 4 | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16è | +5 | Millora de Puntuació d'Habilitat | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -  |
-| 17è | +6 | Destruir No-Morts (CR 4), Característica de Domini Diví  | 5    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18è  | +6 | Canalitzar Divinitat (3/descans) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19è | +6 | Millora de Puntuació d'Habilitat | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1  |
-| 20è  | +6 | Millora d'Intervenció Divina | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1   |
+| Nivell | Bonus de Proficiència | Característiques                                                                                                              | Trucs Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  | 6è  | 7è  | 8è  | 9è  |
+| ------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | Màgia, Domini Diví                                                                                                            | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2n     | +2                    | Canalitzar Divinitat (1/descans), Característica de Domini Diví, *Espletar Poder Diví (Opcional)*                             | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3r     | +2                    | -                                                                                                                             | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                                                          | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5è     | +3                    | Destruir No-Morts (CR 1/2)                                                                                                    | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6è     | +3                    | Canalitzar Divinitat (2/descans), Característica de Domini Diví                                                               | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7è     | +3                    | -                                                                                                                             | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat, Destruir No-Morts (CR 1), Característica de Domini Diví, *Versatilitat de Trucs (Opcional)* | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9è     | +4                    | -                                                                                                                             | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10è    | +4                    | Intervenció Divina                                                                                                            | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11è    | +4                    | Destruir No-Morts (CR 2)                                                                                                      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                                                          | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13è    | +5                    | -                                                                                                                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14è    | +5                    | Destruir No-Morts (CR 3)                                                                                                      | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15è    | +5                    | -                                                                                                                             | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                                                          | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17è    | +6                    | Destruir No-Morts (CR 4), Característica de Domini Diví                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18è    | +6                    | Canalitzar Divinitat (3/descans)                                                                                              | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                                                          | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20è    | +6                    | Millora d'Intervenció Divina                                                                                                  | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Màgia
 Com a conducte de poder diví, pots conjurar encanteris de clergue.
@@ -102,8 +102,14 @@ Amb una acció, presentes el teu símbol sagrat i recites una pregària blasmant
 
 Una criatura foragitada ha de gastar els seus torns intentant moure's tan lluny de tu com pugui, i no pot moure's voluntàriament a un espai a 30 u. de tu. Tampoc pot usar reaccions. Per a la seva acció, només pot usar l'acció d'Esprintar o intentar escapar d'un efecte que impedeix que es mogui. Si no hi ha lloc on moure's, la criatura pot usar l'acció d'Esquivar.
 
+### Espletar Poder Diví (Opcional)
+Al 2n nivell, pots gastar un ús de *Canalitzar Divinitat* per alimentar els teus encanteris. Amb una acció bonus, toques el teu símbol sagrat, pronuncies una pregaria, i recuperes una casella d'encanteri gastada, el nivell de la qual no pot ser major a la meitat del teu bonus de proficiència (arrodonint a l'alça). El nombre de cops que pots usar aquesta característica es basa en el nivell al que has arribat en aquesta classe: 2n nivell, una vegada; 6è nivell, dues; i 18è nivell, tres. Recuperes tots els usos gastats quan completes un descans llarg.
+
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat de Trucs (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots reemplaçar un truc que has après de la característica de Màgia d'aquesta classe amb un altre truc de la [[Taula Clergue|llista d'encanteris de clergue]].
 
 ### Destruir No-Morts
 Començant al 5è nivell, quan un no-mort falla el seu salvament contra la teva característica *Foragitar No-Morts*, la criatura és instantàniament destruïda si el seu CR és igual o menor a un cert llindar, com es mostra a la taula de Destruir No-Morts.
@@ -117,6 +123,9 @@ Començant al 5è nivell, quan un no-mort falla el seu salvament contra la teva 
 | 11è         | 2 o menor                |
 | 14è         | 3 o menor                |
 | 17è         | 4 o menor                |
+### Escomeses Beneïdes (Opcional)
+_Reemplaça la característica Escomesa Divina o Màgia Potent_
+Quan arribes al 8è nivell, estàs beneït amb poder diví en la batalla. Quan una criatura rep dany d'un dels teus truc o atacs d'arma, pots causar també 1d8 dany radiant a aquesta criatura. Un cop causes aquest dany, no pots usar aquesta característica un altre cop fins al principi del teu proper torn.
 
 ### Intervenció Divina
 Començant al 10è nivell, pots cridar la teva deïtat per a que intervingui en lloc teu quan la teva necessitat és important.
@@ -514,9 +523,9 @@ Al 17è nivell, guanyes l'habilitat de comandar Bèsties i Plantes. Mentre les c
 
 
 
-### Domini d'Ordre
+### Domini de l'Ordre
 
-El Domini d'Ordre representa la disciplina, a més de la devoció a les lleis que governen a la societat, a una institució, o a una filosofia. Els clergues de l'Ordre mediten sobre la lògica i la justícia mentre serveixen les seves deïtats.
+El Domini de l'Ordre representa la disciplina, a més de la devoció a les lleis que governen a la societat, a una institució, o a una filosofia. Els clergues de l'Ordre mediten sobre la lògica i la justícia mentre serveixen les seves deïtats.
 
 Els clergues de l'Ordre creuen que les lleis ben elaborades estableixen jerarquies legítimes, i aquells seleccionat per la llei per a dirigir han de ser obeïts. Aquells que obeeixen han de fer-ho tan bé com poden, i si aquells que lideren no protegeixen la llei, han de ser reemplaçats. D'aquesta manera, la llei teixeix una teranyina d'obligacions que creen ordre i seguretat en un multivers caòtic.
 

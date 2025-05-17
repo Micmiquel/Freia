@@ -28,28 +28,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Bruixot**
 
-| Nivell | Bonus de Proficiència | Característiques                   | Trucs Coneguts | Encanteris Coneguts | Caselles d'Encanteri | Nivell de Casella | Invocacions Conegudes |
-| ------ | --------------------- | ---------------------------------- | -------------- | ------------------- | -------------------- | ----------------- | --------------------- |
-| 1r     | +2                    | Patró d'Altremon, Màgia del Pacte  | 2              | 2                   | 1                    | 1r                | -                     |
-| 2n     | +2                    | Invocacions Misterioses            | 2              | 3                   | 2                    | 1r                | 2                     |
-| 3r     | +2                    | Do del Pacte                       | 2              | 4                   | 2                    | 2n                | 2                     |
-| 4t     | +2                    | Millora de Puntuació d'Habilitat   | 3              | 5                   | 2                    | 2n                | 2                     |
-| 5è     | +3                    | -                                  | 3              | 6                   | 2                    | 3r                | 3                     |
-| 6è     | +3                    | Característica de Patró d'Altremon | 3              | 7                   | 2                    | 3r                | 3                     |
-| 7è     | +3                    | -                                  | 3              | 8                   | 2                    | 4t                | 4                     |
-| 8è     | +3                    | Millora de Puntuació d'Habilitat   | 3              | 9                   | 2                    | 4t                | 4                     |
-| 9è     | +4                    | -                                  | 3              | 10                  | 2                    | 5è                | 5                     |
-| 10è    | +4                    | Característica de Patró d'Altremon | 4              | 10                  | 2                    | 5è                | 5                     |
-| 11è    | +4                    | Arcanum Místic (6è nivell)         | 4              | 11                  | 3                    | 5è                | 5                     |
-| 12è    | +4                    | Millora de Puntuació d'Habilitat   | 4              | 11                  | 3                    | 5è                | 6                     |
-| 13è    | +5                    | Arcanum Místic (7è nivell)         | 4              | 12                  | 3                    | 5è                | 6                     |
-| 14è    | +5                    | Característica de Patró d'Altremon | 4              | 12                  | 3                    | 5è                | 6                     |
-| 15è    | +5                    | Arcanum Místic (8è nivell)         | 4              | 13                  | 3                    | 5è                | 7                     |
-| 16è    | +5                    | Millora de Puntuació d'Habilitat   | 4              | 13                  | 3                    | 5è                | 7                     |
-| 17è    | +6                    | Arcanum Místic (9è nivell)         | 4              | 14                  | 4                    | 5è                | 7                     |
-| 18è    | +6                    | -                                  | 4              | 14                  | 4                    | 5è                | 8                     |
-| 19è    | +6                    | Millora de Puntuació d'Habilitat   | 4              | 15                  | 4                    | 5è                | 8                     |
-| 20è    | +6                    | Mestre Sobrenatural                | 4              | 15                  | 4                    | 5è                | 8                     |
+| Nivell | Bonus de Proficiència | Característiques                                                       | Trucs Coneguts | Encanteris Coneguts | Caselles d'Encanteri | Nivell de Casella | Invocacions Conegudes |
+| ------ | --------------------- | ---------------------------------------------------------------------- | -------------- | ------------------- | -------------------- | ----------------- | --------------------- |
+| 1r     | +2                    | Patró d'Altremon, Màgia del Pacte                                      | 2              | 2                   | 1                    | 1r                | -                     |
+| 2n     | +2                    | Invocacions Misterioses                                                | 2              | 3                   | 2                    | 1r                | 2                     |
+| 3r     | +2                    | Do del Pacte                                                           | 2              | 4                   | 2                    | 2n                | 2                     |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat, *Versatilitat Misteriosa (Opcional)* | 3              | 5                   | 2                    | 2n                | 2                     |
+| 5è     | +3                    | -                                                                      | 3              | 6                   | 2                    | 3r                | 3                     |
+| 6è     | +3                    | Característica de Patró d'Altremon                                     | 3              | 7                   | 2                    | 3r                | 3                     |
+| 7è     | +3                    | -                                                                      | 3              | 8                   | 2                    | 4t                | 4                     |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat, *Versatilitat Misteriosa (Opcional)* | 3              | 9                   | 2                    | 4t                | 4                     |
+| 9è     | +4                    | -                                                                      | 3              | 10                  | 2                    | 5è                | 5                     |
+| 10è    | +4                    | Característica de Patró d'Altremon                                     | 4              | 10                  | 2                    | 5è                | 5                     |
+| 11è    | +4                    | Arcanum Místic (6è nivell)                                             | 4              | 11                  | 3                    | 5è                | 5                     |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat, *Versatilitat Misteriosa (Opcional)* | 4              | 11                  | 3                    | 5è                | 6                     |
+| 13è    | +5                    | Arcanum Místic (7è nivell)                                             | 4              | 12                  | 3                    | 5è                | 6                     |
+| 14è    | +5                    | Característica de Patró d'Altremon                                     | 4              | 12                  | 3                    | 5è                | 6                     |
+| 15è    | +5                    | Arcanum Místic (8è nivell)                                             | 4              | 13                  | 3                    | 5è                | 7                     |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat                                       | 4              | 13                  | 3                    | 5è                | 7                     |
+| 17è    | +6                    | Arcanum Místic (9è nivell)                                             | 4              | 14                  | 4                    | 5è                | 7                     |
+| 18è    | +6                    | -                                                                      | 4              | 14                  | 4                    | 5è                | 8                     |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat, *Versatilitat Misteriosa (Opcional)* | 4              | 15                  | 4                    | 5è                | 8                     |
+| 20è    | +6                    | Mestre Sobrenatural                                                    | 4              | 15                  | 4                    | 5è                | 8                     |
 
 ### Patró d'Altremon
 Al 1r nivell, has fet un pacte amb un ésser d'altremon de la teva elecció: [[Classes/Bruixot#L'Arxifey|l'Arxifey]], el [[Classes/Bruixot#El Celestial|Celestial]], [[Classes/Bruixot#L'Esperit Maligne|l'Esperit Maligne]], la [[Classes/Bruixot#La Fulla Maleïda|Fulla Maleïda]], el [[Classes/Bruixot#El Gran Ancià|Gran Ancià]], el [[Classes/Bruixot#El Geni|Geni]], [[Classes/Bruixot#L'Immortal|l'Immortal]], [[Classes/Bruixot#L'Insondable|l'Insondable]], o el [[Bruixot#El No-Mort|No-Mort]] i cada un d'ells està detallat a [[Bruixot#Patrons d'Altremon|Patrons d'Altremon]] al final de la descripció de la classe. La teva elecció t'atorga característiques al 1r nivell i altre cop al 6è, 10è, i 14è nivell.
@@ -108,6 +108,15 @@ Si perds el talismà, pots realitzar una cerimònia de 1 hora per a rebre un ree
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat Misteriosa (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots fer una de les opcions següents, representant un canvi en l'enfocament dels teus estudis ocults:
+
+- Reemplaça un truc que has après de la característica de Màgia del Pacte d'aquesta classe amb un altre truc de la [[Taula Bruixot|llista d'encanteris de bruixot]].
+- Reemplaça la opció que vas escollir per la característica Do del Pacte amb una opció de les altres opcions d'aquesta característica.
+- Si ets de 12è nivell o major, reemplaça un encanteri de la teva característica Arcanum Místic amb un altre encanteri de bruixot del mateix nivell.
+
+Si aquest canvi et fa inelegible per a alguna de les teves Invocacions Misterioses, també has de reemplaçar-les ara, escollint invocacions per a les que qualifiquis.
 
 ### Arcanum Místic
 Al 11è nivell, el teu patró et concedeix un secret màgic anomenat un arcanum. Escull un encanteri de 6è nivell de la llista d'encanteris de bruixot com a aquest arcanum.

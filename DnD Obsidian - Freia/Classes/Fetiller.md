@@ -29,28 +29,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Fetiller**
 
-| Nivell | Bonus de Proficiència | Punts de Fetiller | Característiques                       | Trucs Coneguts | Encanteris Coneguts | 1r | 2n | 3r | 4t | 5è | 6è | 7è | 8è | 9è |
-|-------|-------------------|----------------|--------------------------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1r   | +2                | -              | Màgia, Origen Fetiller | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2n   | +2                | 2              | Font de Màgia                  | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3r   | +2                | 3              | *Metamàgia*                      | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4t   | +2                | 4              | Millora de Puntuació d'Habilitat      | 5              | 5            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5è   | +3                | 5              | -                              | 5              | 6            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6è   | +3                | 6              | Característica d'Origen Fetiller       | 5              | 7            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7è   | +3                | 7              | -                              | 5              | 8            | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8è   | +3                | 8              | Millora de Puntuació d'Habilitat      | 5              | 9            | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9è   | +4                | 9              | -                              | 5              | 10           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10è  | +4                | 10             | *Metamàgia*                      | 6              | 11           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11è  | +4                | 11             | -                              | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12è  | +4                | 12             | Millora de Puntuació d'Habilitat      | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13è  | +5                | 13             | -                              | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14è  | +5                | 14             | Característica d'Origen Fetiller       | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15è  | +5                | 15             | -                              | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16è  | +5                | 16             | Millora de Puntuació d'Habilitat      | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17è  | +6                | 17             | *Metamàgia*                      | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18è  | +6                | 18             | Característica d'Origen Fetiller       | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19è  | +6                | 19             | Millora de Puntuació d'Habilitat      | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20è  | +6                | 20             | Restauració Fetillera          | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Nivell | Bonus de Proficiència | Punts de Fetiller | Característiques                                                      | Trucs Coneguts | Encanteris Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  | 6è  | 7è  | 8è  | 9è  |
+| ------ | --------------------- | ----------------- | --------------------------------------------------------------------- | -------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | -                 | Màgia, Origen Fetiller                                                | 4              | 2                   | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2n     | +2                    | 2                 | Font de Màgia                                                         | 4              | 3                   | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3r     | +2                    | 3                 | *Metamàgia*                                                           | 4              | 4                   | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4t     | +2                    | 4                 | Millora de Puntuació d'Habilitat, *Versatilitat Fetillera (Opcional)* | 5              | 5                   | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5è     | +3                    | 5                 | *Guia Màgica (Opcional)*                                              | 5              | 6                   | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6è     | +3                    | 6                 | Característica d'Origen Fetiller                                      | 5              | 7                   | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7è     | +3                    | 7                 | -                                                                     | 5              | 8                   | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8è     | +3                    | 8                 | Millora de Puntuació d'Habilitat, *Versatilitat Fetillera (Opcional)* | 5              | 9                   | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9è     | +4                    | 9                 | -                                                                     | 5              | 10                  | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10è    | +4                    | 10                | *Metamàgia*                                                           | 6              | 11                  | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11è    | +4                    | 11                | -                                                                     | 6              | 12                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12è    | +4                    | 12                | Millora de Puntuació d'Habilitat, *Versatilitat Fetillera (Opcional)* | 6              | 12                  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13è    | +5                    | 13                | -                                                                     | 6              | 13                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14è    | +5                    | 14                | Característica d'Origen Fetiller                                      | 6              | 13                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15è    | +5                    | 15                | -                                                                     | 6              | 14                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16è    | +5                    | 16                | Millora de Puntuació d'Habilitat, *Versatilitat Fetillera (Opcional)* | 6              | 14                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17è    | +6                    | 17                | *Metamàgia*                                                           | 6              | 15                  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18è    | +6                    | 18                | Característica d'Origen Fetiller                                      | 6              | 15                  | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19è    | +6                    | 19                | Millora de Puntuació d'Habilitat, *Versatilitat Fetillera (Opcional)* | 6              | 15                  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20è    | +6                    | 20                | Restauració Fetillera                                                 | 6              | 15                  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Màgia
 Un esdeveniment en el teu passat, o en la vida d'un parent o ancestre, ha deixat una marca indeleble en tu, infonent-te amb màgia arcana. Aquesta font de màgia, sigui quin sigui el seu origen, alimenta els teus encanteris.
@@ -136,6 +136,15 @@ Per ser elegible, un encanteri ha de ser incapaç d'afectar més d'una criatura 
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat Fetillera (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots escollir una de les opcions següents, representant la nova manera de fluir de la màgia dins teu:
+
+- Reemplaça una de les opcions que vas escollir per la característica Metamàgia amb una opció de Metamàgia diferent disponible per a tu.
+- Reemplaça un truc que has après de la característica de Màgia d'aquesta classe amb un altre truc de la [[Taula Fetiller|llista d'encanteris de fetiller]].
+
+### Guia Màgica (Opcional)
+Quan arribes al 5è nivell, pots accedir a la teva font interior de màgia per a intentar conjurar èxit del fracàs. Quan fas un control d'habilitat que falla, pots gastar 1 punt d'encantador per a tornar a tirar el d20, i has d'usar la nova tirada, potencialment convertint el fracàs en un èxit.
 
 ### Restauració Fetillera
 Al 20è nivell, recuperes 4 punts de fetiller gastats quan acabes un descans curt.

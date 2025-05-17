@@ -28,28 +28,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 #### **Taula - El Bàrbar**
 
-| Nivell | Bonus de Proficiència | Característiques                  | Ires         | Dany d'Ira |
-| ------ | --------------------- | --------------------------------- | ------------ | ---------- |
-| 1r     | +2                    | Ira, Defensa sense Armadura       | 2            | +2         |
-| 2n     | +2                    | Atac Imprudent, Sentit del Perill | 2            | +2         |
-| 3r     | +2                    | Camí Primal                       | 3            | +2         |
-| 4t     | +2                    | Millora de Puntuació d'Habilitat  | 3            | +2         |
-| 5è     | +3                    | Atac Extra, Moviment Ràpid        | 3            | +2         |
-| 6è     | +3                    | Característica del Camí           | 4            | +2         |
-| 7è     | +3                    | Instint Feral                     | 4            | +2         |
-| 8è     | +3                    | Millora de Puntuació d'Habilitat  | 4            | +2         |
-| 9è     | +4                    | Crític Brutal (1 dau)             | 4            | +3         |
-| 10è    | +4                    | Característica del Camí           | 4            | +3         |
-| 11è    | +4                    | Ira Implacable                    | 4            | +3         |
-| 12è    | +4                    | Millora de Puntuació d'Habilitat  | 5            | +3         |
-| 13è    | +5                    | Crític Brutal (2 daus)            | 5            | +3         |
-| 14è    | +5                    | Característica del Camí           | 5            | +3         |
-| 15è    | +5                    | Ira Persistent                    | 5            | +3         |
-| 16è    | +5                    | Millora de Puntuació d'Habilitat  | 5            | +4         |
-| 17è    | +6                    | Crític Brutal (3 daus)            | 6            | +4         |
-| 18è    | +6                    | Poder Indomable                   | 6            | +4         |
-| 19è    | +6                    | Millora de Puntuació d'Habilitat  | 6            | +4         |
-| 20è    | +6                    | Campió Primal                     | Il·limitades | +4         |
+| Nivell | Bonus de Proficiència | Característiques                                         | Ires         | Dany d'Ira |
+| ------ | --------------------- | -------------------------------------------------------- | ------------ | ---------- |
+| 1r     | +2                    | Ira, Defensa sense Armadura                              | 2            | +2         |
+| 2n     | +2                    | Atac Imprudent, Sentit del Perill                        | 2            | +2         |
+| 3r     | +2                    | Camí Primal, *Coneixement Primal (Opcional)*             | 3            | +2         |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat                         | 3            | +2         |
+| 5è     | +3                    | Atac Extra, Moviment Ràpid                               | 3            | +2         |
+| 6è     | +3                    | Característica del Camí                                  | 4            | +2         |
+| 7è     | +3                    | Instint Feral, *Envestida Instintiva (Opcional)*         | 4            | +2         |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat                         | 4            | +2         |
+| 9è     | +4                    | Crític Brutal (1 dau)                                    | 4            | +3         |
+| 10è    | +4                    | Característica del Camí, *Coneixement Primal (Opcional)* | 4            | +3         |
+| 11è    | +4                    | Ira Implacable                                           | 4            | +3         |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat                         | 5            | +3         |
+| 13è    | +5                    | Crític Brutal (2 daus)                                   | 5            | +3         |
+| 14è    | +5                    | Característica del Camí                                  | 5            | +3         |
+| 15è    | +5                    | Ira Persistent                                           | 5            | +3         |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat                         | 5            | +4         |
+| 17è    | +6                    | Crític Brutal (3 daus)                                   | 6            | +4         |
+| 18è    | +6                    | Poder Indomable                                          | 6            | +4         |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat                         | 6            | +4         |
+| 20è    | +6                    | Campió Primal                                            | Il·limitades | +4         |
 
 ### Ira
 En batalla, lluites amb ferocitat primal. En el teu torn, pots entrar en ira amb una acció bonus.
@@ -79,7 +79,10 @@ Tens avantatge en salvaments de Destresa contra efectes que puguis veure, com tr
 
 ### Camí Primal
 Al 3r nivell, esculls un camí que dona forma a la naturalesa de la teva ira. La teva elecció t'atorga característiques al 3r nivell i altre cop al 6è, 10è, i 14è nivell. Pots escollir entre diversos camins, tots detallats a [[Bàrbar#Camins del Bàrbar|Camins del Bàrbar]] al final de la descripció de la classe.
-Existeix el [[Bàrbar#Camí del Batallirós|Camí del Batallirós]], el [[Bàrbar#Camí del Berserker|Camí del Berserker]], el [[Bàrbar#Camí de la Bèstia|Camí de la Bèstia]], el [[Bàrbar#Camí del Guerrer del Tòtem|Camí del Guerrer del Tòtem]], el [[Bàrbar#Camí del Guardià Ancestral|Camí del Guardià Ancestral]], el [[Bàrbar#Camí de l'Herald de Tempesta|Camí de l'Herald de Tempesta]], el [[Bàrbar#Camí del Fanàtic|Camí del Fanàtic]] i el [[Bàrbar#Camí de la Màgia Salvatge|Camí de la Màgia Salvatge]].  
+Existeix el [[Bàrbar#Camí del Batallirós|Camí del Batallirós]], el [[Bàrbar#Camí del Berserker|Camí del Berserker]], el [[Bàrbar#Camí de la Bèstia|Camí de la Bèstia]], el [[Bàrbar#Camí del Guerrer del Tòtem|Camí del Guerrer del Tòtem]], el [[Bàrbar#Camí del Guardià Ancestral|Camí del Guardià Ancestral]], el [[Bàrbar#Camí de l'Herald de Tempesta|Camí de l'Herald de Tempesta]], el [[Bàrbar#Camí del Fanàtic|Camí del Fanàtic]] i el [[Bàrbar#Camí de la Màgia Salvatge|Camí de la Màgia Salvatge]].
+
+### Coneixement Primal (Opcional)
+Quan arribes al 3r nivell i altra vegada al 10è nivell, guanyes proficiència en una perícia de la teva elecció de la llista de perícies disponibles per a bàrbars al 1r nivell.
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
@@ -94,6 +97,9 @@ Començant al 5è nivell, la teva velocitat incrementa en 10 u. si no estàs por
 En arribar al 7è nivell, els teus instints estan tan esmolats que tens avantatge en tirs d'iniciativa.
 
 Addicionalment, si ets sorprès al començament del combat i no estàs incapacitat, pots actuar amb normalitat en el teu primer torn, però només si entres en ira abans de fer res més en aquest torn.
+
+### Envestida Instintiva (Opcional)
+Al 7è nivell, com a part de l'acció bonus que prens al entrar en la teva ira, pots moure't fins a la meitat de la teva velocitat.
 
 ### Crític Brutal
 Començant al 9è nivell, pots tirar un dau de dany d'arma addicional per determinar el dany extra d'un cop crític amb un atac cos a cos.

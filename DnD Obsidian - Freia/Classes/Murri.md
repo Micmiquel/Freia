@@ -30,27 +30,27 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 **Taula - El Murri**
 
 | Nivell | Bonus de Proficiència | Atac Furtiu | Característiques                               |
-|-------|-------------------|--------------|-------------------|
-| 1r   | +2                | 1d6          | Expertesa, Atac Furtiu, Argot de Lladre |
-| 2n   | +2                | 1d6          | Acció Astuta                         |
-| 3r   | +2                | 2d6          | Arquetip de Murri                      |
-| 4t   | +2                | 2d6          | Millora de Puntuació d'Habilitat              |
-| 5è   | +3                | 3d6          | Esquivada Increïble                          |
-| 6è   | +3                | 3d6          | Expertesa                              |
-| 7è   | +3                | 4d6          | Evasió                                |
-| 8è   | +3                | 4d6          | Millora de Puntuació d'Habilitat              |
-| 9è   | +4                | 5d6          | Característica d'Arquetip de Murri              |
-| 10è  | +4                | 5d6          | Millora de Puntuació d'Habilitat              |
-| 11è  | +4                | 6d6          | Talent Fiable                        |
-| 12è  | +4                | 6d6          | Millora de Puntuació d'Habilitat              |
-| 13è  | +5                | 7d6          | Característica d'Arquetip de Murri              |
-| 14è  | +5                | 7d6          | Sentit Cec                             |
-| 15è  | +5                | 8d6          | Ment Relliscosa                          |
-| 16è  | +5                | 8d6          | Millora de Puntuació d'Habilitat              |
-| 17è  | +6                | 9d6          | Característica d'Arquetip de Murri              |
-| 18è  | +6                | 9d6          | Elusiu                                |
-| 19è  | +6                | 10d6         | Millora de Puntuació d'Habilitat              |
-| 20è  | +6                | 10d6         | Cop de Sort                         |
+| ------ | --------------------- | ----------- | ---------------------------------------------- |
+| 1r     | +2                    | 1d6         | Expertesa, Atac Furtiu, Argot de Lladre        |
+| 2n     | +2                    | 1d6         | Acció Astuta                                   |
+| 3r     | +2                    | 2d6         | Arquetip de Murri, *Punteria Ferma (Opcional)* |
+| 4t     | +2                    | 2d6         | Millora de Puntuació d'Habilitat               |
+| 5è     | +3                    | 3d6         | Esquivada Increïble                            |
+| 6è     | +3                    | 3d6         | Expertesa                                      |
+| 7è     | +3                    | 4d6         | Evasió                                         |
+| 8è     | +3                    | 4d6         | Millora de Puntuació d'Habilitat               |
+| 9è     | +4                    | 5d6         | Característica d'Arquetip de Murri             |
+| 10è    | +4                    | 5d6         | Millora de Puntuació d'Habilitat               |
+| 11è    | +4                    | 6d6         | Talent Fiable                                  |
+| 12è    | +4                    | 6d6         | Millora de Puntuació d'Habilitat               |
+| 13è    | +5                    | 7d6         | Característica d'Arquetip de Murri             |
+| 14è    | +5                    | 7d6         | Sentit Cec                                     |
+| 15è    | +5                    | 8d6         | Ment Relliscosa                                |
+| 16è    | +5                    | 8d6         | Millora de Puntuació d'Habilitat               |
+| 17è    | +6                    | 9d6         | Característica d'Arquetip de Murri             |
+| 18è    | +6                    | 9d6         | Elusiu                                         |
+| 19è    | +6                    | 10d6        | Millora de Puntuació d'Habilitat               |
+| 20è    | +6                    | 10d6        | Cop de Sort                                    |
 
 ### Expertesa
 Al 1r nivell, esculls dues de les teves proficiències d'habilitat, o una de les teves proficiències d'habilitat i la teva proficiència amb eines de lladre. El teu bonus de proficiència es dobla per a qualsevol control d'habilitat que facis que usi qualsevol de les proficiències escollides.
@@ -74,6 +74,9 @@ Començant al 2n nivell, la teva velocitat mental i agilitat et permeten moure't
 
 ### Arquetip de Murri
 Al 3r nivell, esculls un arquetip que emules en l'exercici de les teves habilitats de murri: [[Murri#Assassí|Assassí]], [[Murri#Cervell de l'Operació|Cervell de l'Operació]], [[Murri#Coltell d'Ànima|Coltell d'Ànima]], [[Murri#Entabanador Arcà|Entabanador Arcà]], [[Murri#Escolta|Escolta]], [[Murri#Espadatxí|Espadatxí]], [[Murri#Fantasma|Fantasma]], [[Murri#Inquiridor|Inquiridor]], [[Murri#Lladre|Lladre]], tots detallats a [[Murri#Arquetips de Murri|Arquetips de Murri]] al final de la descripció de la classe. La teva elecció d'arquetip t'atorga característiques al 3r nivell i després altre cop al 9è, 13è, i 17è nivell.
+
+### Punteria Ferma (Opcional)
+Al 3r nivell, amb una acció bonus, et dones avantatge en el teu proper tir d'atac en el torn actual. Pots usar aquesta acció bonus només si no t'has mogut durant aquest torn, i després d'usar l'acció bonus, la teva velocitat és 0 fins el final del torn actual.
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 10è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.

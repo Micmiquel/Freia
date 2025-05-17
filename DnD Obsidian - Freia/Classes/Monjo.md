@@ -28,28 +28,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Monjo**
 
-| Nivell | Bonus de Proficiència | Arts Marcials | Punts de Ki | Moviment sense Armadura | Característiques                                         |
-|-------|-------------------|--------------|-----------|--------------------|------------|
-| 1r   | +2                | 1d4          | -         | -                  | Defensa sense Armadura, Arts Marcials                  |
-| 2n   | +2                | 1d4          | 2         | +10 u.            | Ki, Moviment sense Armadura                           |
-| 3r   | +2                | 1d4          | 3         | +10 u.            | Tradició Monàstica, Desviar Míssils             |
-| 4t   | +2                | 1d4          | 4         | +10 u.            | Millora de Puntuació d'Habilitat, Caiguda Lenta             |
-| 5è   | +3                | 1d6          | 5         | +10 u.            | Atac Extra, Cop Atordidor                    |
-| 6è   | +3                | 1d6          | 6         | +15 u.            | Cops Empoderats de Ki, Característica de Tradició Monàstica |
-| 7è   | +3                | 1d6          | 7         | +15 u.            | Evasió, Quietud de Ment                       |
-| 8è   | +3                | 1d6          | 8         | +15 u.            | Millora de Puntuació d'Habilitat                        |
-| 9è   | +4                | 1d6          | 9         | +15 u.            | Millora de Moviment sense Armadura                   |
-| 10è  | +4                | 1d6          | 10        | +20 u.            | Puresa de Cos                                   |
-| 11è  | +4                | 1d8          | 11        | +20 u.            | Característica de Tradició Monàstica                       |
-| 12è  | +4                | 1d8          | 12        | +20 u.            | Millora de Puntuació d'Habilitat                        |
-| 13è  | +5                | 1d8          | 13        | +20 u.            | Llengua del Sol i la Lluna                       |
-| 14è  | +5                | 1d8          | 14        | +25 u.            | Ànima de Diamant                                     |
-| 15è  | +5                | 1d8          | 15        | +25 u.            | Cos Evitern                                    |
-| 16è  | +5                | 1d8          | 16        | +25 u.            | Millora de Puntuació d'Habilitat                        |
-| 17è  | +6                | 1d10         | 17        | +25 u.            | Característica de Tradició Monàstica                       |
-| 18è  | +6                | 1d10         | 18        | +30 u.            | Cos Buit                                       |
-| 19è  | +6                | 1d10         | 19        | +30 u.            | Millora de Puntuació d'Habilitat                        |
-| 20è  | +6                | 1d10         | 20        | +30 u.            | El "Jo" Perfecte                                     |
+| Nivell | Bonus de Proficiència | Arts Marcials | Punts de Ki | Moviment sense Armadura | Característiques                                                                 |
+| ------ | --------------------- | ------------- | ----------- | ----------------------- | -------------------------------------------------------------------------------- |
+| 1r     | +2                    | 1d4           | -           | -                       | Defensa sense Armadura, Arts Marcials                                            |
+| 2n     | +2                    | 1d4           | 2           | +10 u.                  | Ki, Moviment sense Armadura, *Arma Dedicada (Opcional)*                          |
+| 3r     | +2                    | 1d4           | 3           | +10 u.                  | Tradició Monàstica, Desviar Míssils, *Atac Nodrit de Ki (Opcional)*              |
+| 4t     | +2                    | 1d4           | 4           | +10 u.                  | Millora de Puntuació d'Habilitat, Caiguda Lenta, *Curació Accelerada (Opcional)* |
+| 5è     | +3                    | 1d6           | 5           | +10 u.                  | Atac Extra, Cop Atordidor, *Punteria Enfocada (Opcional)*                        |
+| 6è     | +3                    | 1d6           | 6           | +15 u.                  | Cops Empoderats de Ki, Característica de Tradició Monàstica                      |
+| 7è     | +3                    | 1d6           | 7           | +15 u.                  | Evasió, Quietud de Ment                                                          |
+| 8è     | +3                    | 1d6           | 8           | +15 u.                  | Millora de Puntuació d'Habilitat                                                 |
+| 9è     | +4                    | 1d6           | 9           | +15 u.                  | Millora de Moviment sense Armadura                                               |
+| 10è    | +4                    | 1d6           | 10          | +20 u.                  | Puresa de Cos                                                                    |
+| 11è    | +4                    | 1d8           | 11          | +20 u.                  | Característica de Tradició Monàstica                                             |
+| 12è    | +4                    | 1d8           | 12          | +20 u.                  | Millora de Puntuació d'Habilitat                                                 |
+| 13è    | +5                    | 1d8           | 13          | +20 u.                  | Llengua del Sol i la Lluna                                                       |
+| 14è    | +5                    | 1d8           | 14          | +25 u.                  | Ànima de Diamant                                                                 |
+| 15è    | +5                    | 1d8           | 15          | +25 u.                  | Cos Evitern                                                                      |
+| 16è    | +5                    | 1d8           | 16          | +25 u.                  | Millora de Puntuació d'Habilitat                                                 |
+| 17è    | +6                    | 1d10          | 17          | +25 u.                  | Característica de Tradició Monàstica                                             |
+| 18è    | +6                    | 1d10          | 18          | +30 u.                  | Cos Buit                                                                         |
+| 19è    | +6                    | 1d10          | 19          | +30 u.                  | Millora de Puntuació d'Habilitat                                                 |
+| 20è    | +6                    | 1d10          | 20          | +30 u.                  | El "Jo" Perfecte                                                                 |
 
 ### Defensa sense Armadura
 Començant al 1r nivell, quan no estàs portant armadura ni un escut, la teva CA és igual 10 + el teu modificador de Destresa + el teu modificador de Saviesa.
@@ -88,6 +88,14 @@ Començant al 2n nivell, la teva velocitat incrementa en 10 u. mentre no estàs 
 
 Al 9è nivell, guanyes l'habilitat de moure't a través de superfícies verticals i per sobre de líquids en el teu torn sense caure durant el moviment.
 
+### Arma Dedicada (Opcional)
+També al 2n nivell, t'entrenes per a usar una varietat d'armes com a armes de monjo, no només armes simples cos a cos i espases curtes. Quan acabes un descans curt o llarg, pots tocar una arma, concentrar-hi el teu ki, i llavors contar aquesta arma com a una arma de monjo fins que usis aquesta característica un altre cop.
+
+L'arma escollida ha de complit aquests criteris:
+- L'arma ha de ser una arma simple o marcial.
+- Has de ser proficient amb ella.
+- Ha de mancar les propietats *pesada* i *especial*.
+
 ### Tradició Monàstica
 Quan arribes al 3r nivell, et compromets amb una tradició monàstica: el [[Monjo#Camí de l'Ànima Solar|Camí de l'Ànima Solar]], el [[Monjo#Camí del Drac Ascendent|Camí del Drac Ascendent]], el [[Monjo#Camí del Jo Astral|Camí del Jo Astral]], el [[Monjo#Camí del Kensei|Camí del Kensei]], el [[Monjo#Camí de la Mà Oberta|Camí de la Mà Oberta]], el [[Monjo#Camí del Mestre Borratxo|Camí del Mestre Borratxo]], el [[Monjo#Camí de l'Ombra|Camí de l'Ombra]], el [[Monjo#Camí de la Pietat|Camí de la Pietat]] o el [[Monjo#Camí dels Quatre Elements|Camí dels Quatre Elements]], tots detallats a [[Monjo#Tradicions Monàstiques|Tradicions Monàstiques]] al final de la descripció de la classe. La teva tradició t'atorga característiques al 3r nivell i altre cop al 6è, 11è, i 17è nivell.
 
@@ -96,14 +104,23 @@ Començant al 3r nivell, pots usar la teva reacció per desviar o agafar el mís
 
 Si redueixes el dany a 0, pots agafar el míssil si és prou petit per a que l'agafis amb una mà, i si tens almenys una mà lliure. Si agafes un míssil d'aquesta manera, pots gastar 1 punt de ki per fer un atac de rang amb l'arma o peça de munició que has agafat, com a part de la mateixa reacció. Fas aquest atac amb proficiència, independentment de les teves proficiències d'arma, i el míssil conta com a una arma de monjo per l'atac, que té un rang normal de 20 u. i un rang llarg de 60 u.
 
+### Atac Nodrit de Ki (Opcional)
+També al 3r nivell, si gastes 1 punts de ki o més com a part de la teva acció en el teu torn, pots fer un atac amb un cop desarmat o una arma de monjo amb una acció bonus abans del final del torn.
+
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Curació Accelerada (Opcional)
+També al 4t nivell, amb una acció, pots gastar 2 punts de ki i tirar un dau d'Arts Marcials. Recuperes un nombre de punts vitals igual al nombre tirat més el teu bonus de proficiència.
 
 ### Caiguda Lenta
 Començant al 4t nivell, pots usar la teva reacció quan caus per reduir qualsevol dany de caiguda que rebis per una quantitat igual a cinc vegades el teu nivell de monjo.
 
 ### Atac Extra
 Començant al 5è nivell, pots atacar dues vegades, en comptes d'una, quan usis l'acció d'Atacar en el teu torn.
+
+### Punteria Enfocada (Opcional)
+També al 5è nivell, quan falles amb un tir d'atac, pots gastar entre 1 i 3 punts de ki per a incrementar el teu tir d'atac per 2 per cada un dels punts de ki que gastes, potencialment convertint l'errada en un impacte.
 
 ### Cop Atordidor
 Començant al 5è nivell, pots interferir amb el flux de ki en el cos d'un oponent. Quan dones a una altra criatura amb un atac d'arma cos a cos, pots gastar 1 punt de ki per intentar executar un cop atordidor. L'objectiu ha de superar un salvament de Constitució o ser atordit fins el final del teu proper torn.

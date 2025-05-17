@@ -35,4 +35,10 @@ A continuació, es detallen les addicions realitzades en cada actualització:
     -   S'han afegit enllaços interns addicionals per a facilitar la navegació entre documents i seccions.
     -   S'han realitzat diverses correccions gramaticals i ortogràfiques
 
+- 4.1.
+    - S'ha afegit una guia sobre la creació d'un personatge i emplenar un full de personatge pas a pas, amb imatges incloses.
+    - S'han afegit la totalitat dels objectes màgics inclosos al llibre Tasha's Cauldron of Everything
+    - S'han afegit les normes de classe opcionals presents al llibre Tasha's Cauldron of Everything
+    - S'han realitzat diverses correccions gramaticals i ortogràfiques
+
 Si voleu donar suport, podeu fer-ho a través d'un donatiu a través d'aquest enllaç: https://buymeacoffee.com/micmiquel

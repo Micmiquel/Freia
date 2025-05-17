@@ -5,9 +5,9 @@ Harmonització: true
 
 (Tipus:: Objecte Meravellós) (Raresa:: Rar)
 
-Aquest antifaç de metall mat et permet conjurar l'encanteri [[Enganyar]] una vegada per descans llarg. Al fer-ho, guanyes 10 punts vitals temporals. 
+Aquest antifaç de metall mat et permet usar una acció per a conjurar l'encanteri [[Enganyar]]. Al conjurar-lo d’aquesta manera, també guanyes 10 punts vitals temporals. Un cop usada, aquesta característica no es pot fer servir fins haver completat un descans llarg.
 
-A més, si reps dany fora del teu torn, pots utilitzar una reacció per moure't fins a la meitat del teu moviment sense provocar atacs d'oportunitat.
+**Cames Ajudeu-me**. Si reps dany fora del teu torn, pots utilitzar la teva reacció per a moure't fins a la meitat del teu moviment sense provocar atacs d'oportunitat.
 
 MicMiquel (Font:: Casolans)
 

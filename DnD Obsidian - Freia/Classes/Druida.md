@@ -31,28 +31,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Druida**
 
-| Nivell | Bonus de Proficiència | Característiques                                          | Trucs Coneguts | 1r | 2n | 3r | 4t | 5è | 6è | 7è | 8è | 9è |
-|-------|-------------------|-------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1r   | +2                | Druídic, Màgia                             | 2              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2n   | +2                | Forma Salvatge, Cercle de Druides                          | 2              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3r   | +2                | -                                                 | 2              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4t   | +2                | Millora de Forma Salvatge, Millora de Puntuació d'Habilitat | 3              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5è   | +3                | -                                                 | 3              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6è   | +3                | Característica del Cercle de Druides                              | 3              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7è   | +3                | -                                                 | 3              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8è   | +3                | Millora de Forma Salvatge, Millora de Puntuació d'Habilitat | 3              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9è   | +4                | -                                                 | 3              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10è  | +4                | Característica del Cercle de Druides                              | 4              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11è  | +4                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12è  | +4                | Millora de Puntuació d'Habilitat                         | 4              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13è  | +5                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14è  | +5                | Característica del Cercle de Druides                              | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15è  | +5                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16è  | +5                | Millora de Puntuació d'Habilitat                         | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17è  | +6                | -                                                 | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18è  | +6                | Cos Evitern, Encanteris de Bèstia                       | 4              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19è  | +6                | Millora de Puntuació d'Habilitat                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20è  | +6                | Arxidruida                                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Nivell | Bonus de Proficiència | Característiques                                                                                | Trucs Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  | 6è  | 7è  | 8è  | 9è  |
+| ------ | --------------------- | ----------------------------------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | Druídic, Màgia                                                                                  | 2              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2n     | +2                    | Forma Salvatge, Cercle de Druides, *Company Salvatge (Opcional)*                                | 2              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3r     | +2                    | -                                                                                               | 2              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4t     | +2                    | Millora de Forma Salvatge, Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)* | 3              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5è     | +3                    | -                                                                                               | 3              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6è     | +3                    | Característica del Cercle de Druides                                                            | 3              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7è     | +3                    | -                                                                                               | 3              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8è     | +3                    | Millora de Forma Salvatge, Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)* | 3              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9è     | +4                    | -                                                                                               | 3              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10è    | +4                    | Característica del Cercle de Druides                                                            | 4              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11è    | +4                    | -                                                                                               | 4              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                            | 4              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13è    | +5                    | -                                                                                               | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14è    | +5                    | Característica del Cercle de Druides                                                            | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15è    | +5                    | -                                                                                               | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                            | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17è    | +6                    | -                                                                                               | 4              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18è    | +6                    | Cos Evitern, Encanteris de Bèstia                                                               | 4              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat, *Versatilitat de Trucs (Opcional)*                            | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20è    | +6                    | Arxidruida                                                                                      | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Druídic
 Coneixes Druídic, la llengua secreta dels druides. Pots parlar-la i user-la per deixar missatges ocults. Tu i altres que coneguin aquesta llengua automàticament reconeixeu un missatge semblant. Altres noten la presència màgica del missatge amb un control de Saviesa (Percepció) de CD 15 però no poden desxifrar-lo sense màgia.
@@ -110,8 +110,16 @@ Mentre estàs transformat, s'apliquen les següents normes:
 ### Cercle de Druides
 A 2n nivell, esculls identificar-te amb un cercle de druides: el [[Classes/Druida#Cercle de les Espores|Cercle de les Espores]], el [[Classes/Druida#Cercle de les Estrelles|Cercle de les Estrelles]], el [[Classes/Druida#Cercle de l'Incendi|Cercle de l'Incendi]], el [[Classes/Druida#Cercle de la Lluna|Cercle de la Lluna]], el [[Classes/Druida#Cercle del Pastor|Cercle del Pastor]], el [[Classes/Druida#Cercle dels Somnis|Cercle dels Somnis]] o el [[Classes/Druida#Cercle de la Terra|Cercle de la Terra]], tots detallats a [[Classes/Druida#Cercles de Druida|Cercles de Druida]] al final de la descripció de la classe. La teva elecció t'atorga característiques al 2n nivell i altre cop al 6è, 10è, i 14è nivell.
 
+### Company Salvatge (Opcional)
+Al 2 nivell, guanyes l'habilitat d'invocar un esperit que pren una forma animal: amb una acció, pots gastar un ús de la teva característica Forma Salvatge per a conjurar l'encanteri [[Trobar Familiar]], sense components materials.
+
+Quan conjures l'encanteri d'aquesta manera, el familiar és un fey en comptes d'una bèstia, i desapareix després d'un nombre d'hores igual a la meitat del teu nivell de druida.
+
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat de Trucs (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots reemplaçar un truc que has après de la característica de Màgia d'aquesta classe amb un altre truc de la [[Taula Druida|llista d'encanteris de druida]].
 
 ### Cos Evitern
 Començant al 18è nivell, la màgia primal que brandes causes que envelleixis més lentament. Per cada 10 anys que passen, el teu cos envelleix només 1 any.

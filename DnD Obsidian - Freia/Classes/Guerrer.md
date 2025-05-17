@@ -28,28 +28,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Guerrer**
 
-| Nivell | Bonus de Proficiència | Característiques |
-| ---- | ---- | ---- |
-| 1r | +2 | Estil de Lluita, Segon Vent |
-| 2n | +2 | Broll d'Acció (un ús) |
-| 3r | +2 | Arquetip Marcial |
-| 4t | +2 | Millora de Puntuació d'Habilitat |
-| 5è | +3 | Atac Extra |
-| 6è | +3 | Millora de Puntuació d'Habilitat |
-| 7è | +3 | Característica d'Arquetip Marcial |
-| 8è | +3 | Millora de Puntuació d'Habilitat |
-| 9è | +4 | Indòmit (un ús) |
-| 10è | +4 | Característica d'Arquetip Marcial |
-| 11è | +4 | Atac Extra (2) |
-| 12è | +4 | Millora de Puntuació d'Habilitat |
-| 13è | +5 | Indòmit (dos usos) |
-| 14è | +5 | Millora de Puntuació d'Habilitat |
-| 15è | +5 | Característica d'Arquetip Marcial |
-| 16è | +5 | Millora de Puntuació d'Habilitat |
-| 17è | +6 | Broll d'Acció (dos usos), Indòmit (tres usos) |
-| 18è | +6 | Característica d'Arquetip Marcial |
-| 19è | +6 | Millora de Puntuació d'Habilitat |
-| 20è | +6 | Atac Extra (3) |
+| Nivell | Bonus de Proficiència | Característiques                                                    |
+| ------ | --------------------- | ------------------------------------------------------------------- |
+| 1r     | +2                    | Estil de Lluita, Segon Vent                                         |
+| 2n     | +2                    | Broll d'Acció (un ús)                                               |
+| 3r     | +2                    | Arquetip Marcial                                                    |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)* |
+| 5è     | +3                    | Atac Extra                                                          |
+| 6è     | +3                    | Millora de Puntuació d'Habilitat *Versatilitat Marcial (Opcional)*  |
+| 7è     | +3                    | Característica d'Arquetip Marcial                                   |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat *Versatilitat Marcial (Opcional)*  |
+| 9è     | +4                    | Indòmit (un ús)                                                     |
+| 10è    | +4                    | Característica d'Arquetip Marcial                                   |
+| 11è    | +4                    | Atac Extra (2)                                                      |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat *Versatilitat Marcial (Opcional)*  |
+| 13è    | +5                    | Indòmit (dos usos)                                                  |
+| 14è    | +5                    | Millora de Puntuació d'Habilitat *Versatilitat Marcial (Opcional)*  |
+| 15è    | +5                    | Característica d'Arquetip Marcial                                   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat *Versatilitat Marcial (Opcional)*  |
+| 17è    | +6                    | Broll d'Acció (dos usos), Indòmit (tres usos)                       |
+| 18è    | +6                    | Característica d'Arquetip Marcial                                   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat *Versatilitat Marcial (Opcional)*  |
+| 20è    | +6                    | Atac Extra (3)                                                      |
 
 ### Estil de Lluita
 Adoptes un estil particular de lluita com a la teva especialitat. Escull una de les opcions següents. No pots prendre una opció d'Estil de Lluita més d'un cop, fins i tot si més tard pots escollir una altra vegada.
@@ -73,7 +73,7 @@ Quan tires un 1 o un 2 en un dau de dany per un atac que fas amb una arma cos a 
 #### Protecció
 Quan una criatura que puguis veure ataca un objectiu que no siguis tu que estigui a 5 u. de tu, pots usar la teva reacció per imposar desavantatge en el tir d'atac. Has d'estar brandant un escut.
 #### Tècnica Superior (TCE)
-Aprens una maniobra que esculls entre aquelles disponibles a l'arquetip de Mestre de Batalla, a [[Guerrer|Maniobres del Mestre de Batalla]]. Si una maniobra que usis requereix que el teu objectiu faci un salvament per a resistir els efectes de la maniobra, la CD del salvament és igual a 8 + el teu bonus de proficiència + el teu modificador de Força o Destresa (tu esculls).
+Aprens una maniobra que esculls entre aquelles disponibles a l'arquetip de Mestre de Batalla, a [[Guerrer#Maniobres del Mestre de Batalla|Maniobres del Mestre de Batalla]]. Si una maniobra que usis requereix que el teu objectiu faci un salvament per a resistir els efectes de la maniobra, la CD del salvament és igual a 8 + el teu bonus de proficiència + el teu modificador de Força o Destresa (tu esculls).
 Guanyes un dau de superioritat, que és un d6 (aquest dau s'afegeix a qualsevols daus de superioritat que ja tinguis d'una altra font). Aquest s'usa per a impulsar les teves maniobres. Un dau de superioritat es gasta quan l'uses. Recuperes els teus daus de superioritat gastats quan acabes un descans curt o llarg.
 #### Tir amb Arc
 Guanyes un +2 de bonus a tirs d'atac que facis amb armes de rang.
@@ -91,6 +91,11 @@ Al 3r nivell, esculls un arquetip al que t'escarrasses a emular en els teus esti
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 6è, 8è, 12è, 14è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat Marcial (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots fer una de les opcions següents, al canviar l'enfocament de la teva pràctica marcial:
+- Reemplaçar un estil de lluita que coneguis amb un altre disponible per a guerrers. 
+- Si coneixes qualsevol maniobra de l'arquetip [[Guerrer#Mestre de Batalla|Mestre de Batalla]], pots reemplaçar una maniobra que coneguis amb una diferent
 
 ### Atac Extra
 Començant al 5è nivell, pots atacar dues vegades, en comptes d'una, quan usis l'acció d'Atacar en el teu torn.

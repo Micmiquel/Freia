@@ -29,29 +29,29 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - L'Explorador**
 
-| Nivell | Bonus de Proficiència | Característiques                                          | Encanteris Coneguts | 1r | 2n | 3r | 4t | 5è |
-|-------|-------------------|-------------|--------------|-----|-----|-----|-----|-----|
-| 1r   | +2                | Enemic Favorit, Explorador Natural                   | -            | -   | -   | -   | -   | -   |
-| 2n   | +2                | Estil de Lluita, Màgia                      | 2            | 2   | -   | -   | -   | -   |
-| 3r   | +2                | Arquetip d'Explorador, Alerta Primitiva              | 3            | 3   | -   | -   | -   | -   |
-| 4t   | +2                | Millora de Puntuació d'Habilitat                         | 3            | 3   | -   | -   | -   | -   |
-| 5è   | +3                | Atac Extra                                      | 4            | 4   | 2   | -   | -   | -   |
-| 6è   | +3                | Millores d'Enemic Favorit i Explorador Natural   | 4            | 4   | 2   | -   | -   | -   |
-| 7è   | +3                | Característica d'Arquetip d'Explorador                          | 5            | 4   | 3   | -   | -   | -   |
-| 8è   | +3                | Millora de Puntuació d'Habilitat, Camada de la Terra          | 5            | 4   | 3   | -   | -   | -   |
-| 9è   | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
-| 10è  | +4                | Millora d'Explorador Natural, Amagar-te a Simple Vista | 6            | 4   | 3   | 2   | -   | -   |
-| 11è  | +4                | Característica d'Arquetip d'Explorador                          | 7            | 4   | 3   | 3   | -   | -   |
-| 12è  | +4                | Millora de Puntuació d'Habilitat                         | 7            | 4   | 3   | 3   | -   | -   |
-| 13è  | +5                | -                                                 | 8            | 4   | 3   | 3   | 1   | -   |
-| 14è  | +5                | Millora d'Enemic Favorit, Esfumar-se                 | 8            | 4   | 3   | 3   | 1   | -   |
-| 15è  | +5                | Característica d'Arquetip d'Explorador                          | 9            | 4   | 3   | 3   | 2   | -   |
-| 16è  | +5                | Millora de Puntuació d'Habilitat                         | 9            | 4   | 3   | 3   | 2   | -   |
-| 17è  | +6                | -                                                 | 10           | 4   | 3   | 3   | 3   | 1   |
-| 18è  | +6                | Sentits Ferals                                      | 10           | 4   | 3   | 3   | 3   | 1   |
-| 19è  | +6                | Millora de Puntuació d'Habilitat                         | 11           | 4   | 3   | 3   | 3   | 2   |
-| 20è  | +6                | Assassí d'Enemics                                        | 11           | 4   | 3   | 3   | 3   | 2   |
-|       |                   |                                                   |              |     |     |     |     |     |
+| Nivell | Bonus de Proficiència | Característiques                                                                                                                    | Encanteris Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  |
+| ------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | Enemic Favorit, Explorador Natural, *Adversari Favorit (Opcional), Explorador Hàbil (Optional)*                                     | -                   | -   | -   | -   | -   | -   |
+| 2n     | +2                    | Estil de Lluita, Màgia, *Focus d'Encanteri (Opcional)*                                                                              | 2                   | 2   | -   | -   | -   | -   |
+| 3r     | +2                    | Arquetip d'Explorador, Alerta Primitiva, *Consciència Primal (Opcional)*                                                            | 3                   | 3   | -   | -   | -   | -   |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)*                                                                 | 3                   | 3   | -   | -   | -   | -   |
+| 5è     | +3                    | Atac Extra                                                                                                                          | 4                   | 4   | 2   | -   | -   | -   |
+| 6è     | +3                    | Millores d'Enemic Favorit i Explorador Natural, *Millora d'Explorador Hàbil (Opcional)*                                             | 4                   | 4   | 2   | -   | -   | -   |
+| 7è     | +3                    | Característica d'Arquetip d'Explorador                                                                                              | 5                   | 4   | 3   | -   | -   | -   |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat, Camada de la Terra, *Versatilitat Marcial (Opcional)*                                             | 5                   | 4   | 3   | -   | -   | -   |
+| 9è     | +4                    | -                                                                                                                                   | 6                   | 4   | 3   | 2   | -   | -   |
+| 10è    | +4                    | Millora d'Explorador Natural, Amagar-te a Simple Vista, *Característica d'Explorador Hàbil (Opcional), Vel de la Natura (Opcional)* | 6                   | 4   | 3   | 2   | -   | -   |
+| 11è    | +4                    | Característica d'Arquetip d'Explorador                                                                                              | 7                   | 4   | 3   | 3   | -   | -   |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)*                                                                 | 7                   | 4   | 3   | 3   | -   | -   |
+| 13è    | +5                    | -                                                                                                                                   | 8                   | 4   | 3   | 3   | 1   | -   |
+| 14è    | +5                    | Millora d'Enemic Favorit, Esfumar-se                                                                                                | 8                   | 4   | 3   | 3   | 1   | -   |
+| 15è    | +5                    | Característica d'Arquetip d'Explorador                                                                                              | 9                   | 4   | 3   | 3   | 2   | -   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)*                                                                 | 9                   | 4   | 3   | 3   | 2   | -   |
+| 17è    | +6                    | -                                                                                                                                   | 10                  | 4   | 3   | 3   | 3   | 1   |
+| 18è    | +6                    | Sentits Ferals                                                                                                                      | 10                  | 4   | 3   | 3   | 3   | 1   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)*                                                                 | 11                  | 4   | 3   | 3   | 3   | 2   |
+| 20è    | +6                    | Assassí d'Enemics                                                                                                                   | 11                  | 4   | 3   | 3   | 3   | 2   |
+|        |                       |                                                                                                                                     |                     |     |     |     |     |     |
 
 ### Enemic Favorit
 Començant al 1r nivell, tens experiència significativa estudiant, rastrejant, caçant, i fins i tot parlant amb un cert tipus d'enemic.
@@ -63,6 +63,17 @@ Tens avantatge en controls de Saviesa (Supervivència) per rastrejar els teus en
 Quan guanyes aquesta característica, també aprens una llengua de la teva elecció que sigui parlada pels teus enemics favorits, si en parlen cap.
 
 Esculls un enemic favorit addicional, a més d'una llengua associada, al 6è i 14è nivell. A mesura que guanyes nivells, les teves eleccions haurien de reflectir els tipus de monstres que t'has trobat en les teves aventures.
+
+### Adversari Favorit (Opcional)
+Aquesta característica de 1r nivell reemplaça la característica Enemic Favorit i funciona amb la característica Assassí d'Adversaris. No guanyes cap benefici de la característica reemplaçada i no qualifica per a res dins del joc que la requereixi.
+
+Quan dones a una criatura amb un tir d'atac, pots cridar al teu lligam místic amb la natura per a marcar a l'objectiu com el teu enemic favorit per 1 minut o fins que perdis la teva concentració (com si t'estiguessis concentrant en un encanteri).
+
+El primer cop en cada un dels teus torns que donis a l'enemic favorit i li causis dany, incloent quan el marques, incrementes el dany per 1d4.
+
+Pots usar aquesta característica per a marcar un enemic favorit un nombre de cops igual al teu bonus de proficiència, i recuperes tots els usos gastats quan completes un descans llarg.
+
+El dany extra d'aquesta característica incrementa quan arribes a certs nivells en aquesta classe: a 1d6 a 6è nivell i a 1d8 al 14è nivell.
 
 ### Explorador Natural
 Ets particularment familiar amb un tipus d'entorn natural, i ets hàbil en viatjar i sobreviure en aquestes regions. Escull un tipus de terreny favorit: aiguamoll, àrtic, bosc, costa, desert, muntanya, o praderia. Quan fas un control d'Intel·ligència o de Saviesa relacionat amb el teu terreny favorit, el teu bonus de proficiència es dobla si estàs usant una habilitat en la que ets proficient.
@@ -77,6 +88,24 @@ Mentre viatgis durant una hora o més en el teu terreny favorit, guanyes els seg
 - Mentre rastregis altres criatures, també aprens el seu nombre exacte, les seves mides, i quant de temps fa que van passar a través de l'àrea.
 
 Esculls un tipus de terreny favorit addicional al 6è i 10è nivell.
+
+### Explorador Hàbil (Optional)
+Aquesta característica de 1r nivell reemplaça la característica Explorador Natural. No guanyes cap benefici de la característica reemplaçada i no qualifica per a res dins del joc que la requereixi.
+
+Ets un explorador i supervivent insuperat, tant en la natura com tractant amb altres en els teus viatges. Guanyes el benefici Astut següent, i guanyes un benefici addicional quan arribes al 6è i 10è nivell en aquesta classe.
+
+#### Rabosí (1r Nivell)
+Escull una de les teves proficiències de perícia. El teu bonus de proficiència es dobla per a qualsevol control que facis usant l'habilitat escollida.
+
+També pots parlar, llegir, i escriure 2 llengües addicionals de la teva elecció.
+
+#### Trescador (6è Nivell)
+La teva velocitat de caminar incrementa per 5, i guanyes una velocitat d'escalada i de nedar igual a la teva velocitat de caminar.
+
+#### Incansable (10è Nivell)
+Amb una acció, pots donar-te un nombre de punts vitals temporals igual a 1d8 + el teu modificador de Saviesa (mínim de 1 punt vital temporal). Pots usar aquesta acció un nombre de cops igual al teu bonus de proficiència, i recuperes tots els usos gastats quan completes un descans llarg.
+
+A més, quan completes un descans curt, el teu nivell d'exhaustió, si en tens, decreix per 1.
 
 ### Estil de Lluita
 A 2n nivell, adoptes un estil particular de lluita com a la teva especialitat. Escull una de les opcions següents. No pots prendre una opció d'Estil de Lluita més d'un cop, fins i tot si més tard pots escollir una altra vegada.
@@ -110,14 +139,37 @@ La Saviesa és la teva habilitat d'encanteri pels teus encanteris d'explorador, 
 **CD de Salvament d'encanteri** = 8 + el teu bonus de proficiència + el teu modificador de Saviesa
 **Modificador d'atac d'encanteri** = el teu bonus de proficiència + el teu modificador de Saviesa
 
+#### Focus d'Encanteri
+Al 2n nivell, pots usar un focus druídic com un focus d'encanteri pels teus encanteris d'explorador. 
+
 ### Arquetip d'Explorador
 Al 3r nivell, esculls un arquetip al que t'escarrasses a emular: [[Classes/Explorador#Assassí de Monstres|Assassí de Monstres]], [[Classes/Explorador#Assetjador Penombrós|Assetjador Penombrós]], [[Classes/Explorador#Caçador|Caçador]], [[Classes/Explorador#Caminant d'Horitzons|Caminant d'Horitzons]], [[Classes/Explorador#Guardià de Dragons|Guardià de Dragons]], [[Classes/Explorador#Guardià d'Eixams|Guardià d'Eixams]], [[Classes/Explorador#Mestre de Bèsties|Mestre de Bèsties]] o [[Classes/Explorador#Rodamon Fey|Rodamon Fey]], tots detallats a [[Explorador#Arquetips d'Explorador|Arquetips d'Explorador]] al final de la descripció de la classe. La teva elecció t'atorga característiques al 3r nivell i altre cop al 7è, 11è, i 15è nivell.
 
 ### Alerta Primitiva
 Començant al 3r nivell, pots usar la teva acció i gastar una casella d'encanteri d'explorador per centrar la teva consciència en la regió al teu voltant. Per 1 minut per nivell de la casella d'encanteri que gastis, pots notar si els següents tipus de criatures són presents a 1,6 km de tu (o fins a 9,6 km si estàs en el teu terreny favorit): Aberracions, Celestials, Dracs, Elementals, Esperits malignes, Fey, i No-morts. Aquesta característica no revela la localització o nombre de les criatures.
 
+### Consciència Primal (Opcional)
+Aquesta característica de 3r nivell reemplaça la característica Alerta Primitiva. No guanyes cap benefici de la característica reemplaçada i no qualifica per a res dins del joc que la requereixi.
+
+Pots centrar la teva consciència a través de les interconnexions de la natura: aprens encanteris addicionals quan arribes a certs nivells en aquesta classe si no els coneixes ja, com es mostra a la taula d'Encanteris de Consciència Primal. Aquests encanteris no conten contra el nombre d'encanteris d'explorador que coneixes.
+
+**Encanteris de Consciència Primal**
+
+| Nivell d'Explorador | Encanteri              |
+| ------------------- | ---------------------- |
+| 3r                  | [[Parlar amb Animals]] |
+| 5è                  | [[Sentits de Bèstia]]  |
+| 9è                  | [[Parlar amb Plantes]] |
+| 13è                 | [[Trobar Criatura]]    |
+| 17è                 | [[Comunar amb Natura]] |
+
+Pots conjurar cada un d'aquests encanteris un cop sense gastar una casella d'encanteri. Un cop conjures un encanteri d'aquesta manera, no pots fer-ho un altre cop fins que completis un descans llarg.
+
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat Marcial (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots reemplaçar un estil de lluita que coneguis amb un altre disponible per a exploradors. Aquest reemplaçament representa un canvi en l'enfocament de la teva pràctica marcial
 
 ### Atac Extra
 Començant al 5è nivell, pots atacar dues vegades, en comptes d'una, quan usis l'acció d'Atacar en el teu torn.
@@ -130,7 +182,14 @@ Addicionalment, tens avantatge en salvaments contra plantes que siguin creades m
 ### Amagar-te a Simple Vista
 Començant al 10è nivell, pots gastar 1 minut creant camuflatge per tu mateix. Has de tenir accés a fang fresc, terra, plantes, sutge, i altres materials naturals amb els que crear el teu camuflatge.
 
-Un cop estiguis camuflat d'aquesta manera, pots intentar amagar-te arrambant-te contra una superfícia sòlida, com un arbre o mur, que sigui almenys tan alt i ample com tu. Guanyes un +10 de bonus a controls de Destresa (Sigil) sempre que romanguis allà sense moure't ni usant accions. Un cop et moguis o usis una acció o reacció, t'has de camuflar una altra vegada per guanyar aquest benefici.
+Un cop estiguis camuflat d'aquesta manera, pots intentar amagar-te arrambant-te contra una superfície sòlida, com un arbre o mur, que sigui almenys tan alt i ample com tu. Guanyes un +10 de bonus a controls de Destresa (Sigil) sempre que romanguis allà sense moure't ni usant accions. Un cop et moguis o usis una acció o reacció, t'has de camuflar una altra vegada per guanyar aquest benefici.
+
+### Vel de la Natura (Opcional)
+Aquesta característica de nivell 10 reemplaça la característica Amagar-se a Simple Vista. No guanyes cap benefici de la característica reemplaçada i no qualifica per a res dins del joc que la requereixi.
+
+Aprofites els poders de la natura per a amagar-te breument. Amb una acció bonus, pots tornar-te invisible màgicament, amb tot l'equipament que estiguis vestint o portant, fins al principi del teu proper torn.
+
+Pots usar aquesta característica un nombre de cops igual al teu bonus de proficiència, i recuperes tots els usos gastats quan completes un descans llarg.
 
 ### Esfumar-se
 Començant al 14è nivell, pots usar l'acció d'Amagar-te amb una acció bonus en el teu torn. A més, no pots ser rastrejat per mitjans no màgics, a no ser que escullis deixar un rastre.
@@ -140,7 +199,7 @@ Al 18è nivell, guanyes sentits preternaturals que t'ajuden a lluitar amb criatu
 
 També ets conscient de la localització de qualsevol criatura invisible a 30 u. de tu, sempre que la criatura no estigui amagada de tu i no estiguis encegat o ensordit.
 
-### Assassí d'Enemics
+### Assassí d'Adversaris
 Al 20è nivell, et tornes un caçador dels teus enemics sense parell. Un cop en cada un dels teus torns, pots afegir el teu modificador de Saviesa al tir d'atac o de dany d'un atac que fas contra un dels teus enemics favorits. Pots escollir usar aquesta característica abans o després de la tirada, però abans de que s'apliquin qualsevols efectes del tir.
 
 

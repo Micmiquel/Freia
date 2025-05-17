@@ -28,28 +28,28 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Mag**
 
-| Nivell | Bonus de Proficiència | Característiques | Trucs Coneguts | 1r | 2n | 3r | 4t | 5è | 6è | 7è | 8è | 9è |
-|-------|--------|-------|------|---|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1r  | +2 | Màgia, Recuperació Arcana | 3  | 2   | -  | -   | - | - | - | - | - | - |
-| 2n   | +2 | Tradició Arcana | 3 | 3 | - | - | - | - | - | -   | -   | -   |
-| 3r   | +2 | - | 3    | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4t | +2 | Millora de Puntuació d'Habilitat | 4 | 4 | 3 | - | - | - | - | - | - | - |
-| 5è   | +3 | - | 4   | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6è | +3 | Característica de Tradició Arcana | 4 | 4 | 3 | 3 | - | - | - | - | - | - |
-| 7è   | +3 | - | 4     | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8è | +3 | Millora de Puntuació d'Habilitat | 4 | 4 | 3 | 3 | 2 | - | - | - | - | - |
-| 9è   | +4 | -  | 4  | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10è | +4 | Característica de Tradició Arcana | 5 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
-| 11è  | +4 | - | 5    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12è | +4 | Millora de Puntuació d'Habilitat | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 13è  | +5 | - | 5   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14è | +5 | Característica de Tradició Arcana | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
-| 15è  | +5 | - | 5 | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16è | +5 | Millora de Puntuació d'Habilitat | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -  |
-| 17è  | +6 | - | 5    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18è | +6 | Mestria d'Encanteri | 5 | 4   | 3   | 3   | 3 | 3 | 1   | 1   | 1   | 1 |
-| 19è | +6 | Millora de Puntuació d'Habilitat | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20è  | +6 | Encanteri Signatura | 5 | 4 | 3 | 3 | 3  | 3   | 2   | 2   | 1   | 1   |
+| Nivell | Bonus de Proficiència | Característiques                  | Trucs Coneguts | 1r  | 2n  | 3r  | 4t  | 5è  | 6è  | 7è  | 8è  | 9è  |
+| ------ | --------------------- | --------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | Màgia, Recuperació Arcana         | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2n     | +2                    | Tradició Arcana                   | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3r     | +2                    | *Fórmules de Trucs (Opcional)*    | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat  | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5è     | +3                    | -                                 | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6è     | +3                    | Característica de Tradició Arcana | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7è     | +3                    | -                                 | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat  | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9è     | +4                    | -                                 | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10è    | +4                    | Característica de Tradició Arcana | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11è    | +4                    | -                                 | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat  | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13è    | +5                    | -                                 | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14è    | +5                    | Característica de Tradició Arcana | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15è    | +5                    | -                                 | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat  | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17è    | +6                    | -                                 | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18è    | +6                    | Mestria d'Encanteri               | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat  | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20è    | +6                    | Encanteri Signatura               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Màgia
 Com a estudiant de màgia arcana, tens un llibre d'encanteris que conté encanteris que mostren les primeres espurnes del teu poder vertader.
@@ -93,6 +93,9 @@ Per exemple, si ets un mag de 4t nivell, pots recuperar fins a dos nivells de ca
 Quan arribes a 2n nivell, esculls una tradició arcana, donant forma a la teva pràctica de la màgia a través d'una de les vuit escoles: l'[[Classes/Mag#Escola de l'Abjuració|Escola de l'Abjuració]], l'[[Classes/Mag#Escola de la Conjuració|Escola de la Conjuració]], l'[[Classes/Mag#Escola de la Divinació|Escola de la Divinació]], l'[[Classes/Mag#Escola de l'Encantament|Escola de l'Encantament]], l'[[Classes/Mag#Escola de l'Evocació|Escola de l'Evocació]], l'[[Classes/Mag#Escola de la Il·lusió|Escola de la Il·lusió]], l'[[Classes/Mag#Escola de la Nigromància|Escola de la Nigromància]], o l'[[Classes/Mag#Escola de la Transmutació|Escola de la Transmutació]]. També hi ha altres arquetips de mag que no segueixen una escola en contret, com l'[[Classes/Mag#Ordre dels Escribes|Ordre dels Escribes]], els [[Classes/Mag#Refilafulla|Refilafulles]] o la [[Classes/Mag#Màgia de Guerra|Màgia de Guerra]], o aquelles que usen la misteriosa Dunamància, una màgia que canalitza la probabilitat i la potencialitat, com la [[Classes/Mag#Màgia de Cronúrgia|Cronúrgia]] o la [[Classes/Mag#Màgia de Gravitúrgia|Gravitúrgia]]. Tots els arquetips són detallats a [[Mag#Tradicions Arcanes|Tradicions Arcanes]] al final de la descripció de la classe.
 
 La teva elecció t'atorga característiques al 2n nivell i altre cop al 6è, 10è, i 14è nivell.
+
+### Fórmules de Trucs (Opcional)
+Al 3r nivell, has escrit un set de fórmules arcanes al teu llibre d'encanteris que uses per a formular un truc al teu cap. Quan completes un descans llarg i consultes aquestes fórmules al teu llibre d'encanteris, pots reemplaçar un truc de mag que coneguis amb un altre de la [[Taula Mag|llista d'encanteris de mag]].
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.

@@ -1,3 +1,6 @@
+---
+Harmonització: false
+---
 # Ampolla d'Efreeti
 
 (Tipus:: Objecte meravellós) (Raresa:: Molt rar)

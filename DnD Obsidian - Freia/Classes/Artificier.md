@@ -213,7 +213,7 @@ El bonus incrementa a +2 quan arribes al 10è nivell en aquesta classe.
 #### Repetidor de Projectils
 *Objecte: Una arma simple o marcial amb la propietat de "munició" (requereix harmonització)*
 Aquesta arma màgia atorga un +1 de bonus a tirs d'atac i de dany fets amb ella quan s'usa com a arma de rang, i ignora la propietat de *recàrrega* si la té.
-Si no càrregues munició a l'ara, produeix la seva pròpia, automàticament creant una peça de munició màgica quan fas un atac de rang amb ellas. La munició creada per l'arma s'esfuma a l'instant després de donar o errar l'objectiu.
+Si no càrregues munició a l'arma, produeix la seva pròpia, automàticament creant una peça de munició màgica quan fas un atac de rang amb ellas. La munició creada per l'arma s'esfuma a l'instant després de donar o errar l'objectiu.
 #### Replicar Objecte Màgic
 Usant aquesta infusió, repliques un objecte màgic particular. Pots aprendre aquesta infusió múltiples vegades; cada cop que ho facis, escull un objecte màgic que puguis fer amb ella, escollint de les llistes d'Objectes Replicables. El títol de cada llista explicita el nivell que has de tenir en aquesta classe per escollir-ne un objecte. D'altra manera, pots escollir l'objecte màgic d'entre els objectes màgics *comuns* del joc, sense incloure pocions o pergamins.
 A la descripció de l'objecte s'ofereix més informació, incloent el tipus d'objecte requerit per a crear-lo.

@@ -29,29 +29,29 @@ Comences amb l'equipament següent, a més de l'equipament atorgat pel teu passa
 
 **Taula - El Paladí**
 
-| Nivell | Bonus de Proficiència | Característiques                                   | 1r | 2n | 3r | 4t | 5è |
-|-------|-------------------|------|-----|-----|-----|-----|-----|
-| 1r   | +2                | Sentit Diví, Palmes Curatives                 | -   | -   | -   | -   | -   |
-| 2n   | +2                | Estil de Lluita, Màgia, Càstig Diví | 2   | -   | -   | -   | -   |
-| 3r   | +2                | Salut Divina, Jurament Sagrat                 | 3   | -   | -   | -   | -   |
-| 4t   | +2                | Millora de Puntuació d'Habilitat                  | 3   | -   | -   | -   | -   |
-| 5è   | +3                | Atac Extra                               | 4   | 2   | -   | -   | -   |
-| 6è   | +3                | Aura de Protecció                         | 4   | 2   | -   | -   | -   |
-| 7è   | +3                | Característica del Jurament Sagrat                        | 4   | 3   | -   | -   | -   |
-| 8è   | +3                | Millora de Puntuació d'Habilitat                  | 4   | 3   | -   | -   | -   |
-| 9è   | +4                | -                                          | 4   | 3   | 2   | -   | -   |
-| 10è  | +4                | Aura de Coratge                            | 4   | 3   | 2   | -   | -   |
-| 11è  | +4                | Càstig Diví Millorat                      | 4   | 3   | 3   | -   | -   |
-| 12è  | +4                | Millora de Puntuació d'Habilitat                  | 4   | 3   | 3   | -   | -   |
-| 13è  | +5                | -                                          | 4   | 3   | 3   | 1   | -   |
-| 14è  | +5                | Toc Purificador                            | 4   | 3   | 3   | 1   | -   |
-| 15è  | +5                | Característica del Jurament Sagrat                        | 4   | 3   | 3   | 2   | -   |
-| 16è  | +5                | Millora de Puntuació d'Habilitat                  | 4   | 3   | 3   | 2   | -   |
-| 17è  | +6                | -                                          | 4   | 3   | 3   | 3   | 1   |
-| 18è  | +6                | Millores d'Aura                          | 4   | 3   | 3   | 3   | 1   |
-| 19è  | +6                | Millora de Puntuació d'Habilitat                  | 4   | 3   | 3   | 3   | 2   |
-| 20è  | +6                | Característica del Jurament Sagrat                        | 4   | 3   | 3   | 3   | 2   |
-|       |                   |                                            |     |     |     |     |     |
+| Nivell | Bonus de Proficiència | Característiques                                                    | 1r  | 2n  | 3r  | 4t  | 5è  |
+| ------ | --------------------- | ------------------------------------------------------------------- | --- | --- | --- | --- | --- |
+| 1r     | +2                    | Sentit Diví, Palmes Curatives                                       | -   | -   | -   | -   | -   |
+| 2n     | +2                    | Estil de Lluita, Màgia, Càstig Diví                                 | 2   | -   | -   | -   | -   |
+| 3r     | +2                    | Salut Divina, Jurament Sagrat, *Espletar Poder Diví (Opcional)*     | 3   | -   | -   | -   | -   |
+| 4t     | +2                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)* | 3   | -   | -   | -   | -   |
+| 5è     | +3                    | Atac Extra                                                          | 4   | 2   | -   | -   | -   |
+| 6è     | +3                    | Aura de Protecció                                                   | 4   | 2   | -   | -   | -   |
+| 7è     | +3                    | Característica del Jurament Sagrat                                  | 4   | 3   | -   | -   | -   |
+| 8è     | +3                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)* | 4   | 3   | -   | -   | -   |
+| 9è     | +4                    | -                                                                   | 4   | 3   | 2   | -   | -   |
+| 10è    | +4                    | Aura de Coratge                                                     | 4   | 3   | 2   | -   | -   |
+| 11è    | +4                    | Càstig Diví Millorat                                                | 4   | 3   | 3   | -   | -   |
+| 12è    | +4                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)* | 4   | 3   | 3   | -   | -   |
+| 13è    | +5                    | -                                                                   | 4   | 3   | 3   | 1   | -   |
+| 14è    | +5                    | Toc Purificador                                                     | 4   | 3   | 3   | 1   | -   |
+| 15è    | +5                    | Característica del Jurament Sagrat                                  | 4   | 3   | 3   | 2   | -   |
+| 16è    | +5                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)* | 4   | 3   | 3   | 2   | -   |
+| 17è    | +6                    | -                                                                   | 4   | 3   | 3   | 3   | 1   |
+| 18è    | +6                    | Millores d'Aura                                                     | 4   | 3   | 3   | 3   | 1   |
+| 19è    | +6                    | Millora de Puntuació d'Habilitat, *Versatilitat Marcial (Opcional)* | 4   | 3   | 3   | 3   | 2   |
+| 20è    | +6                    | Característica del Jurament Sagrat                                  | 4   | 3   | 3   | 3   | 2   |
+
 
 ### Sentit Diví
 La presència d'un mal potent es registra en els teus sentits com una olor nociva, i un poderós bé sona com música angelicals a les teves oïdes. Amb una acció, pots obrir la teva consciència per detectar aquestes forces. Fins el final del teu proper torn, coneixes la localització de qualsevol celestial, esperit maligne, o no-mort a 60 u. de tu que no estigui darrere cobertura total. Coneixes el tipus (celestial, esperit maligne, o no-mort) de qualsevol ésser del qual sents la seva presència, però no la seva identitat (el vampir Comte Strahd von Zarovich, per exemple). En el mateix radi, també detectes detect la presència de qualsevol lloc o objecte que hagi sigut consagrat o dessecrat, com amb l'encanteri [[Santificar]].
@@ -128,6 +128,9 @@ Alguns efectes de Canalitzar Divinitat requereixen salvaments. Quan uses un efec
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 8è, 12è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
+
+### Versatilitat Marcial (Opcional)
+Quan arribes a un nivell en aquesta classe que t'atorga la característica Millora de Puntuació d'Habilitat, pots reemplaçar un estil de lluita que coneixes amb un altre disponible per a paladins. Aquest reemplaçament representa un canvi en l'enfocament de la teva pràctica marcial.
 
 ### Atac Extra
 Començant al 5è nivell, pots atacar dues vegades, en comptes d'una, quan usis l'acció d'Atacar en el teu torn.

@@ -10,7 +10,7 @@
 
 **Duració:** Instantani (veure a sota)
 
-Realitzes una de diverses cerimònies religioses. Quan conjrues l'encanteri, escull una de les següents cerimònies, l'objectiu de les qual ha d'estar a 10 u. de tu durant tota la conjuració.
+Realitzes una de diverses cerimònies religioses. Quan conjures l'encanteri, escull una de les següents cerimònies, l'objectiu de les qual ha d'estar a 10 u. de tu durant tota la conjuració.
 
 **Beneir Aigua**. Toques un vial d'aigua i causes que es torni aigua beneïda.
 

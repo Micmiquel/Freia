@@ -10,22 +10,22 @@ Les deïtats Celta són tan sovint servides per druides com per clergues, ja que
 
 **Taula - Deïtats Celta**
 
-| Deïtat              | Alineació | Dominis Suggerits | Símbol         |
-|--------------------|-----------|-------------------|--------------------|
-| El Daghdha, déu del clima i els conreus | CB | Engany, Natura | Caldera bombollejant o escut |
-| Arawn, déu de la vida i la mort | NM | Mort, Vida | Estrella negra en un fons gris |
-| Belenus, déu del Sol, la llum, i l'escalfor | NB | Llum | Disc solar i menhirs     |
-| Brigantia, deessa dels rius i el bestiar | NB | Vida | Pont |
-| Diancecht, déu de medicina i curació | LB | Vida | Crossed roure i mistletoe branches |
-| Dunatis, déu de les muntanyes i els cims | N | Natura | Cim amb un sol vermell darrere |
-| Goibhniu, déu dels ferrers i la curació | NB | Coneixement, Vida | Maça gegant sobre una espasa |
-| Lugh, déu de les arts, el viatge, i el comerç | CN | Coneixement, Vida | Parell de mans llargues |
+| Deïtat              | Alineació | Dominis Suggerits | Símbol                          |
+| --------------------------------------------------------- | --------- | ----------------- | ------------------------------- |
+| El Daghdha, déu del clima i els conreus | CB | Engany, Natura | Caldera bombollejant o escut    |
+| Arawn, déu de la vida i la mort | NM | Mort, Vida | Estrella negra en un fons gris  |
+| Belenus, déu del Sol, la llum, i l'escalfor | NB | Llum | Disc solar i menhirs            |
+| Brigantia, deessa dels rius i el bestiar | NB | Vida | Pont                            |
+| Diancecht, déu de medicina i curació | LB | Vida | Roure creuat i branques de vesc |
+| Dunatis, déu de les muntanyes i els cims | N | Natura | Cim amb un sol vermell darrere  |
+| Goibhniu, déu dels ferrers i la curació | NB | Coneixement, Vida | Maça gegant sobre una espasa    |
+| Lugh, déu de les arts, el viatge, i el comerç | CN | Coneixement, Vida | Parell de mans llargues         |
 | Manannan mac Lir, déu dels oceans i les criatures marines | LN | Natura, Tempesta | Onada d'aigua blanca sobre verd |
-| Math Mathonwy, déu de la màgia | NM | Coneixement | Bordó |
-| Morrigan, deessa de la batalla | CM | Guerra | Dos llances creuades |
-| Nuada, déu de guerra i guerrers | N | Guerra | Plata mà on negra passat |
-| Oghma, déu de la parla i l'escriptura | NB | Coneixement | Pergamí desplegat |
-| Silvanus, déu de la natura i els boscos | N | Natura | Roure d'estiu |
+| Math Mathonwy, déu de la màgia | NM | Coneixement | Bordó                           |
+| Morrigan, deessa de la batalla | CM | Guerra | Dos llances creuades            |
+| Nuada, déu de guerra i guerrers | N | Guerra | Plata mà on negra passat        |
+| Oghma, déu de la parla i l'escriptura | NB | Coneixement | Pergamí desplegat               |
+| Silvanus, déu de la natura i els boscos | N | Natura | Roure d'estiu                   |
 
 ## El Panteó Grec
 
