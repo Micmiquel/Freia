@@ -1,14 +1,16 @@
+---
+Harmonització: true
+---
 # Floret Cristal·lí
 
-(Tipus:: Arma) (Raresa:: Poc Comú)
+(Tipus:: Arma) (Raresa:: Rara)
 
-Aquest floret consisteix en només una empunyadura. Aquesta té 4 càrregues, i s'en pot gastar una per dir la seva paraula d'activació usant una acció bonus. Al fer-ho, de l'empunyadura creix un llarg cristall punxegut, que envolta l'avantbraç de l'usuari.
+Aquest floret mancat de fulla consisteix en tan sols un pom de plata amb una maragda incrustada. Al usar una acció bonus dient la seva paraula d’activació, un cristall verd esmolat creix d’ell i envolta l’avantbraç del seu usuari. En aquest estat, es pot usar com a floret +1, i atorga un +1 de bonus a la teva CA.
 
-Mentre el floret estigui activat, es comporta com un floret amb un bonus de +1 als tirs d'atac i de dany. A més, els cristalls que embolcallen el seu usuari proporcionen un +1 a la seva CA.
+Mentre tinguis el floret activat, no pots usar la mà dins del cristall. A més, aquest s’esberla completament al treure un 1 natural en un tir d’atac. També pots retirar el cristall dient la paraula d’activació amb una acció bonus.
 
-Degut al seu material fràgil, al tirar un 1 en un atac, el cristall es trenca, i el floret torna a ser tan sols una empunyadura. Les càrregues es recuperen al completar un descans llarg.
+El floret té tres càrregues, i activar-lo en consumeix una. Recupera la totalitat de les càrregues a l’alba.
 
-
-MicMiquel (Font:: Casolans)
+(Font:: MicMiquel - Artefactes i Arcanismes)
 
 [[Objectes Màgics]]

@@ -9,7 +9,6 @@ Gran trident de coure verd, sempre estranyament fred. Harmonitzant-te a aquesta 
 
 A més, al donar a un enemic amb aquesta arma, un cristall de sang congelada es forma al voltant d’una de les seves tres puntes. Pots usar el trident per fer un atac de rang, llençant tots els cristalls de gel que tinguis acumulats a un enemic a 80 u. Cada cristall causa 1d4 dany de fred. Els cristalls no usats desapareixen al cap de 10 minuts.
 
-MicMiquel (Font:: Casolans)
-
+(Font:: MicMiquel - Aigua Tèrbola)
 
 [[Objectes Màgics]]

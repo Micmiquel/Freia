@@ -10,7 +10,7 @@
 
 **Duració:** Concentració, fins a 1 minut
 
-Your pregaria t'empodera amb resplendor divina. Fins que l'encanteri acabi, els teus atacs d'arma causen un extra 1d4 de dany radiant en donar.
+La teva pregaria t'empodera amb resplendor divina. Fins que l'encanteri acabi, els teus atacs d'arma causen un extra 1d4 de dany radiant en donar.
 
 
 *Font: Divine Favor, PHB*

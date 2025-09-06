@@ -306,9 +306,7 @@ Començant al 11è nivell, la teva Marca de Castigament descobreix un fragment d
 Al 15è nivell, esmoles la teva hemoceria per a arrencar la corrupció de les ments i els cossos dels teus aliats — i castigar aquells responsables d'aquesta. Guanyes la [[Caçador de Sang#Maledicció de Sang de l'Exorcista|Maledicció de Sang de l'Exorcista]] de la teva característica Imprecació de Sang. Aquesta no conta contra el nombre de malediccions de sang que coneixes.
 
 #### Ritu de Renaixement
-Al arribar al 18è nivell, aprens a protegir la teva vida FADING reabsorbint l'energia amb que alimentes les teves armes. Si tens un o més ritus carmesins actius i ets reduït a 0 punts vitals però no mors directament, pots escollir finalitzar tots els teus ritus carmesins actius i caure en canvi a 1 punt vital.
-
-Upon reaching 18th level, you learn to protect your fading life by reabsorbing the energy you feed to your weapons. If you have one or more crimson rites active and you are reduced to 0 hit points but don’t die outright, you can choose to have all your active crimson rites end and drop to 1 hit point instead.
+Al arribar al 18è nivell, aprens a protegir la teva apagada vida reabsorbint l'energia amb que alimentes les teves armes. Si tens un o més ritus carmesins actius i ets reduït a 0 punts vitals però no mors directament, pots escollir finalitzar tots els teus ritus carmesins actius i caure en canvi a 1 punt vital.
 
 
 ### Lícan

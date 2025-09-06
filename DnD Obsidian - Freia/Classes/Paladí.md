@@ -110,12 +110,12 @@ Al 3r nivell, la màgia divina que flueix dins teu et fa immune a malalties.
 També al 3r nivell, pots gastar un ús de *Canalitzar Divinitat* per alimentar els teus encanteris. Amb una acció bonus, toques el teu símbol sagrat, pronuncies una pregaria, i recuperes una casella d'encanteri gastada, el nivell de la qual no pot ser major a la meitat del teu bonus de proficiència (arrodonint a l'alça). El nombre de cops que pots usar aquesta característica es basa en el nivell al que has arribat en aquesta classe: 3r nivell, una vegada; 7è nivell, dues; i 15è nivell, tres. Recuperes tots els usos gastats quan acabes un descans llarg.
 
 ### Jurament Sagrat
-Quan arribes al 3r nivell, prestes el jurament que et lliga com un paladí per sempre. Fins a aquest moment has estat en una etapa preparatòria, compromés al camí però no encara juramentat. Ara esculls entre el [[Classes/Paladí#Jurament dels Ancians|Jurament dels Ancians]], el [[Classes/Paladí#Jurament de Conquesta|Jurament de Conquesta]], el [[Classes/Paladí#Jurament de la Corona|Jurament de la Corona]], el [[Classes/Paladí#Jurament de Devoció|Jurament de Devoció]], el [[Classes/Paladí#Jurament de Glòria|Jurament de Glòria]], el [[Classes/Paladí#Jurament de Redempció|Jurament de Redempció]], el [[Classes/Paladí#Jurament de Venjança|Jurament de Venjança]], el [[Classes/Paladí#Jurament dels Vigilants|Jurament dels Vigilants]], o el [[Classes/Paladí#Trencajuraments|Trencajuraments]], tots detallats a [[Paladí#Juraments Sagrats|Juraments Sagrats]] al final de la descripció de la classe.
+Quan arribes al 3r nivell, prestes el jurament que et lliga com un paladí per sempre. Fins a aquest moment has estat en una etapa preparatòria, compromès al camí però no encara juramentat. Ara esculls entre el [[Classes/Paladí#Jurament dels Ancians|Jurament dels Ancians]], el [[Classes/Paladí#Jurament de Conquesta|Jurament de Conquesta]], el [[Classes/Paladí#Jurament de la Corona|Jurament de la Corona]], el [[Classes/Paladí#Jurament de Devoció|Jurament de Devoció]], el [[Classes/Paladí#Jurament de Glòria|Jurament de Glòria]], el [[Classes/Paladí#Jurament del Mar Obert|Jurament del Mar Obert]], el [[Classes/Paladí#Jurament de Redempció|Jurament de Redempció]], el [[Classes/Paladí#Jurament de Venjança|Jurament de Venjança]], el [[Classes/Paladí#Jurament dels Vigilants|Jurament dels Vigilants]], o el [[Classes/Paladí#Trencajuraments|Trencajuraments]], tots detallats a [[Paladí#Juraments Sagrats|Juraments Sagrats]] al final de la descripció de la classe.
 
 La teva elecció t'atorga característiques al 3r nivell i altre cop al 7è, 15è, i 20è nivell. Aquestes característiques inclouen encanteris del jurament i *Canalitzar Divinitat*.
 
 #### Encanteris del Jurament
-Cada jurament té una llista d'encanteris associats. Guanyes accés a aquests encanteris als nivells específicats a la descripció del jurament. Un cop guanyes accés a un encanteri del jurament, sempre el tens preparat. Els encanteris del jurament no conten contra el nombre d'encanteris que pots preparar cada dia.
+Cada jurament té una llista d'encanteris associats. Guanyes accés a aquests encanteris als nivells especificats a la descripció del jurament. Un cop guanyes accés a un encanteri del jurament, sempre el tens preparat. Els encanteris del jurament no conten contra el nombre d'encanteris que pots preparar cada dia.
 
 Si guanyes un encanteri del jurament que no apareix a la llista d'encanteris de paladí, l'encanteri és considerat igualment un encanteri de paladí per a tu.
 
@@ -237,7 +237,7 @@ Alguns d'aquests paladins van fins a l'extrem d'associar-se amb els poders dels 
 ***Font: Xanathar's Guide to Everything***
 
 #### Principis de Conquesta
-A paladí que presta aquest jurament té els principis de conquesta brandats a la part superior del braç.
+Un paladí que presta aquest jurament té els principis de conquesta brandats a la part superior del braç.
 
 - ***Apaga la Flama de l'Esperança***. No és suficient merament derrotar a un enemic en la batalla. La teva victòria ha de ser tan aclaparadora que la voluntat de lluitar dels teus enemics s'esmicoli per sempre. Una fulla pot acabar amb una vida. La por pot acabar amb un imperi.
 - ***Governa amb Mà de Ferro***. Un cop has conquerit, no toleris dissentiment. La teva paraula és la llei. Aquells que la obeeixen seran afavorits. Aquells que la desafien seran castigats com a exemple per a tots els que els puguin seguir.
@@ -417,7 +417,7 @@ Guanyes els següents encanteris del jurament als nivells de paladí llistats.
 | 17è | [[Comunar]] [[Escomesa Flamant]] |
 
 #### Canalitzar Divinitat
-Quan prestes aquest jurament al 3r nivell, guanyes les dues opcions de Canalitzar Divinitat següents. Mira la característica de classe *Jurament Sagrat* per veure com funciona Canalitzar Divinitat.
+Quan prestes aquest jurament al 3r nivell, guanyes les dues opcions de Canalitzar Divinitat següents. Mira la característica de classe [[Paladí#Jurament Sagrat|Jurament Sagrat]] per veure com funciona Canalitzar Divinitat.
 
 ##### Atleta Incomparable
 Amb una acció bonus, pots usar *Canalitzar Divinitat* per potenciar el teu atletisme. Pels proper 10 minuts, tens avantatge en controls de Força (Atletisme) i Destresa (Acrobàcies); pots carregar, empènyer, arrossegar, i aixecar dues vegades més pes que normalment; i la distància del teu salt llarg i alt incrementa per 10 u. (aquesta distància extra costa moviment com normalment).
@@ -442,6 +442,63 @@ Al 20è nivell, pots potenciar-te amb les llegendes — siguin certes o exagerad
 - Si falles un salvament, pots usar la teva reacció per tornar a tirar-lo. Has d'usar aquesta nova tirada.
 
 Un cop uses aquesta característica, no pots usar-la una altra vegada fins que acabis un descans llarg, a no ser que gastis una casella d'encanteri de 5è nivell per usar-la una altra vegada.
+
+
+
+### Jurament del Mar Obert
+
+El Jurament del Mar Obert crida a guerrers navegants, mariners espadatxins i guardians viatgers que cerquen l'excitació d'un horitzó il·limitat. Portats a buscar aventura i misteri a través i sota cada interminable extensió oceànica, els paladins que presten aquest jurament s'alcen contra aquells que negarien la llibertat a viatgers afins, erradicant la tirania i la corrupció allà on es trobi.
+
+Aquests guardians creuen en la bellesa natural del mar, sovint fent ofrenes i pregaries a entitats o deïtats com la Mare Salvatge o el Senyor de la Tempesta que influencien viatges segurs. A la vegada, responen a la crida de caçar les criatures monstruoses que massa sovint ensangonen les aigües amb violència desenfrenada i males intencions, i que terroritzen la gent del mar i la costa.
+
+***Font: Tal'Dorei Campaign Setting Reborn***
+
+#### Principis del Mar Obert
+La llibertat pot ser una virtut desinteressada o un desig egoista. Per als paladins que presten el Jurament del Mar Obert, la llibertat és la crida més elevada, i un do per atorgar a tothom.
+
+_**Cap Vida Millor a una Vida Viscuda Lliure.**_ Un hauria de ser lliure de dibuixar el seu propi camí sense opressió. Aquells que exercirien el seu poder per a dominar altres seran castigats.
+_**Confia en els Cels.**_ La guia d'una forta brisa. Els avisos retronants d'una tempesta que s'acosta. La natura és una font d'auguris i consell que caldria tenir en compte.
+_**Adapta't Com l'Aigua.**_ Les aigües de l'oceà poden rodejar qualsevol obstacle—o tornar-se l'obstacle més infranquejable de tots. Cisellen la terra per a reveler secrets del passat, o s'empassen la veritat i l'amaguen per sempre. Abraçar aquesta fluïdesa és estar llest per a qualsevol repte.
+_**Explorar l'Inexplorat.**_ El món és ple de misteris. A través de la recerca d'enigmàtics fis, un pot descobrir aquells que amaguen les seves vils accions, i trobar el camí per a esdevenir quelcom gran.
+
+#### Encanteris del Jurament
+Guanyes encanteris del jurament als nivells de paladí llistats a la taula d'*Encanteris del Jurament del Mar Obert*. Mira la característica de classe [[Paladí#Jurament Sagrat|Jurament Sagrat]] per veure com funcionen els encanteris del jurament.
+
+**Encanteris del Jurament del Mar Obert**
+
+| Nivell de Paladí | Encanteris                                          |
+| ---------------- | --------------------------------------------------- |
+| 3rd              | [[Crear o Destruir Aigua]], [[Retirada Expeditosa]] |
+| 5th              | [[Auguri]], [[Passa Bromosa]]                       |
+| 9th              | [[Cridar Llampec]], [[Llibertat de les Ones]]       |
+| 13th             | [[Controlar Aigua]], [[Llibertat de Moviment]]      |
+| 17th             | [[Comunar amb Natura]], [[Llibertat dels Vents]]    |
+
+#### Canalitzar Divinitat
+Quan prestes aquest jurament al 3r nivell, guanyes les dues opcions de *Canalitzar Divinitat* següents.
+
+##### Canalitzar Divinitat - Capa Marina
+Amb una acció, canalitzes el mar per a crear un dens núvol de boira que t'envolta a 20 u. en totes direccions. La boira es mou amb tu, romanent centrada en tu i tornant la seva àrea altament enfosquida. En canvi, tu i cada criatura a 5 u. de tu tracteu aquesta àrea com a lleugerament enfosquida. Aquesta boira dura per 10 minuts, s'escampa al voltant de cantonades, i no pot ser dispersada a no ser que escullis finalitzar aquest efecte (sense requerir una acció).
+##### Canalitzar Divinitat - Fúria de les Marees
+Amb una acció bonus, pots canalitzar la poderosa força de les onades per a reforçar els teus atacs durant 1 minut. Un cop per torn per la duració, quan dones a una criatura amb un atac d'arma, pots escollir empènyer l'objectiu 10 u. enllà de tu. Si l'empenys contra un obstacle o una altra criatura, l'objectiu rep dany d'impacte igual al teu modificador de Carisma.
+
+#### Aura d'Alliberació
+Començant al 7è nivell, omples les criatures properes amb l'energia del moviment. Mentre no estiguis incapacitat, tu i les criatures de la teva elecció a 10 u. de tu no podeu ser agafades o restringides, i ignoreu penalitzacions al moviment i atacs sota l'aigua. Les criatures ja agafes o restringides quan entren a l'aura poden gastar 5 u. de moviment per escapar automàticament, a no ser que estiguin per subjectades per restriccions màgiques.
+
+Quan arribes al 18è nivell en aquesta classe, aquesta aura afecta a criatures a 30 u. de tu.
+
+#### Aigües Tempestuoses
+Al 15è nivell, pots cridar a la força de les aigües trencant com a una reacció quan una criatura es mou dins o fora del teu rang. La criatura rep 1d12 dany d'impacte i ha de superar un salvament de Força contra la teva CD de salvament d'encanteri o caure estirada.
+
+#### Corsari Mític
+Al 20è nivell, aprens a canalitzar els esperits de capitans històrics per a convertir-te breument en un parangó d'aventura heroica. Amb una acció, abraces aquests esperits del mar per a guanyar els següents beneficis per 1 minut:
+
+- Tens avantatge en controls de Força (Atletisme) i guanyes una velocitat d'escalada igual a la teva velocitat de caminar. Si ja tens una velocitat d'escalada, es duplica.
+- Si estàs a 5 u. d'una criatura i cap altra criatura està a 5 u. de tu, tens avantatge en tirs d'atac contra aquesta criatura.
+- Pots usar l'acció d'Esprintar o Retirar-te amb una acció bonus.
+- Tens avantatge en controls de Destresa i salvaments de Destresa contra efectes que puguis veure.
+
+Un cop uses aquesta característica, no pots usar-la un altre cop fins que completis un descans llarg.
 
 
 

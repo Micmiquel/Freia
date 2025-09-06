@@ -8,16 +8,38 @@ Si múltiple efectes imposen la mateixa condició en una criatura, cada instànc
 
 Les següents definicions especifiquen què li passa a una criatura mentre està subjecta a una condició.
 
-## Encegat
-- Una criatura encegada no pot veure i automàticament falla qualsevol control d'habilitat que requereixi visió.
-- Els tirs d'atac contra la criatura tenen avantatge, i els tirs d'atac de la criatura tenen desavantatge.
+## Agafat
+- La velocitat d'una criatura agafada es torna 0, i no es pot beneficiar de cap bonus a la seva velocitat.
+- La condició acaba si l'agafador és incapacitat (veure la condició).
+- La condició també acaba si un efecte treu la criatura agafada de l'abast de l'agafador o efecte agafador, com quan una criatura és llençada per l'encanteri [[Ona Tronadora]].
+
+## Atordit
+- Una criatura és incapacitada (veure la condició), no es pot moure, i només pot parlar amb la veu apagada.
+- La criatura automàticament falla en salvaments de Força i Destresa.
+- Tirs d'atac contra la criatura have avantatge.
 
 ## Encantat
 - Una criatura encantada no pot atacar l'encantador o tenir-lo com a objectiu d'habilitats o efectes màgics danyosos.
 - L'encantador té avantatge en qualsevol control d'habilitat per interactuar socialment amb la criatura.
 
+## Encegat
+- Una criatura encegada no pot veure i automàticament falla qualsevol control d'habilitat que requereixi visió.
+- Els tirs d'atac contra la criatura tenen avantatge, i els tirs d'atac de la criatura tenen desavantatge.
+
 ## Ensordit
 - Una criatura ensordida no pot escoltar i automàticament falla qualsevol control d'habilitat que requereixi oïda.
+
+## Enverinat
+- Una criatura enverinada té desavantatge en tirs d'atac i controls d'habilitat.
+
+## Espantat
+- Una criatura espantada té desavantatge en controls d'habilitat i tirs d'atac mentre la font de la seva por estigui en el teu camp de visió.
+- La criatura no pot moure's voluntàriament més a prop de la font de la seva por.
+
+## Estirat
+- L'única opció de moviment d'una criatura estirada és arrossegar-se, a no ser que s'aixequi i per tant acabi amb la condició.
+- La criatura té desavantatge en tirs d'atac.
+- Un tir d'atac contra la criatura té avantatge si l'atacant és a 5 u. de la criatura. Si no, el tir d'atac té desavantatge.
 
 ## Exhaustió
 Algunes habilitats especials i perills ambientals, com la inanició i els efectes a llarg termini de temperatures gèlides o tòrrides, poden portar a una condició especial anomenada exhaustió. L'exhaustió es mesura en sis nivells. Un efecte pot donar a una criatura un o més nivells d'exhaustió, com s'especifica a la descripció de l'efecte.
@@ -41,17 +63,15 @@ Un efecte que elimini exhaustió redueix el seu nivell com s'especifica a la des
 
 Acabar un descans llarg redueix el nivell d'exhaustió d'una criatura per 1, sempre que la criatura també hagi ingerit cert menjar i beguda. A més, ser aixecat d'entre els morts redueix el nivell d'exhaustió d'una criatura per 1.
 
-## Espantat
-- Una criatura espantada té desavantatge en controls d'habilitat i tirs d'atac mentre la font de la seva por estigui en el teu camp de visió.
-- La criatura no pot moure's voluntàriament més a prop de la font de la seva por.
-
-## Agafat
-- La velocitat d'una criatura agafada es torna 0, i no es pot beneficiar de cap bonus a la seva velocitat.
-- La condició acaba si l'agafador és incapacitat (veure la condició).
-- La condició també acaba si un efecte treu la criatura agafada de l'abast de l'agafador o efecte agafador, com quan una criatura és llençada per l'encanteri [[Ona Tronadora]].
-
 ## Incapacitat
 - Una criatura incapacitada no pot prendre accions o reaccions.
+
+## Inconscient
+- Una criatura inconscient és incapacitada (veure la condició), no es pot moure o parlar, i no és conscient del seu voltant
+- La criatura deixa caure el que estigui aguantant i cau estirada.
+- La criatura automàticament falla en salvaments de Força i Destresa.
+- Tirs d'atac contra la criatura tenen avantatge.
+- Qualsevol atac que doni a la criatura és un cop crític si l'atacant és a 5 u. de la criatura.
 
 ## Invisible
 - Una criatura invisible és impossible de veure sense l'ajuda de màgia o un sentit especial. Pel propòsit d'amagar-se, la criatura està altament enfosquida. La localització de la criatura pot ser detectada per qualsevol soroll que faci o rastre que deixi.
@@ -73,28 +93,8 @@ Acabar un descans llarg redueix el nivell d'exhaustió d'una criatura per 1, sem
 - La criatura té resistència a tot dany.
 - La criatura és immune al verí i malaltia, tot i que un verí o malaltia que ja estigui dins el seu sistema is suspès, no neutralitzat.
 
-## Enverinat
-- Una criatura enverinada té desavantatge en tirs d'atac i controls d'habilitat.
-
-## Estirat
-- L'única opció de moviment d'una criatura estirada és arrossegar-se, a no ser que s'aixequi i per tant acabi amb la condició.
-- La criatura té desavantatge en tirs d'atac.
-- Un tir d'atac contra la criatura té avantatge si l'atacant és a 5 u. de la criatura. Si no, el tir d'atac té desavantatge.
-
 ## Restringit
 - La velocitat d'una criatura restringida es torna 0, i no es pot beneficiar de cap bonus a la seva velocitat.
 - Tirs d'atac contra la criatura tenen avantatge, i els tirs d'atac de la criatura tenen desavantatge.
 - La criatura té desavantatge en salvaments de Destresa.
-
-## Atordit
-- Una criatura és incapacitada (veure la condició), no es pot moure, i només pot parlar amb la veu apagada.
-- La criatura automàticament falla en salvaments de Força i Destresa.
-- Tirs d'atac contra la criatura have avantatge.
-
-## Inconscient
-- Una criatura inconscient és incapacitada (veure la condició), no es pot moure o parlar, i no és conscient del seu voltant
-- La criatura deixa caure el que estigui aguantant i cau estirada.
-- La criatura automàticament falla en salvaments de Força i Destresa.
-- Tirs d'atac contra la criatura tenen avantatge.
-- Qualsevol atac que doni a la criatura és un cop crític si l'atacant és a 5 u. de la criatura.
 

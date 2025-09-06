@@ -11,11 +11,11 @@ Si la teva harmonització al tatuatge finalitza, el tatuatge s'esfuma, i l'agull
 
 **Protecció.** Mentre no estiguis portant armadura, el tatuatge t'atorga una Classe d'Armadura dependent de la raresa del tatuatge, com es mostra a sota. Pot usar un escut i igualment guanyar aquest benefici.
 
-| Rarity    | AC                                           |
-| --------- | -------------------------------------------- |
-| Uncommon  | 12 + your Dexterity modifier                 |
-| Rare      | 15 + your Dexterity modifier (maximum of +2) |
-| Very Rare | 18                                           |
+| Rarity   | AC                                                |
+| -------- | ------------------------------------------------- |
+| Poc Comú | 12 + el teu modificador de Destresa               |
+| Rar      | 15 + el teu modificador de Destresa (màxim de +2) |
+| Molt Rar | 18                                                |
 
 Barrier Tattoo  (Font:: Tasha's Cauldron of Everything)
 

@@ -87,7 +87,7 @@ Començant al 2n nivell, pots forçar-te més enllà dels teus límits normals p
 Un cop uses aquesta característica, has de completar un descans curt o llarg abans de poder usar-la una altra vegada. Començant al 17è nivell, pots usar-la dues vegades abans d'un descans, però només una vegada en el mateix torn.
 
 ### Arquetip Marcial
-Al 3r nivell, esculls un arquetip al que t'escarrasses a emular en els teus estils de combat i tècniques. Escull entre l'[[Guerrer#Arquer Arcà|Arquer Arcà]], el [[Guerrer#Campió|Campió]], el [[Guerrer#Cavaller de l'Eco|Cavaller de l'Eco]], el [[Guerrer#Cavaller Màgic|Cavaller Màgic]], el [[Guerrer#Cavaller Muntat|Cavaller Muntat]], el [[Guerrer#Cavaller Rúnic|Cavaller Rúnic]], el [[Guerrer#Guerrer Psi|Guerrer Psi]], el [[Guerrer#Mestre de Batalla|Mestre de Batalla]], el [[Guerrer#Portaestandard|Portaestandard]], o el [[Guerrer#Samurai|Samurai]], tots detallats a [[Guerrer#Arquetips Marcials|Arquetips Marcials]] al final de la descripció de la classe. L'arquetip que esculls t'atorga característiques al 3r nivell i altre cop al 7è, 10è, 15è, i 18è nivell.
+Al 3r nivell, esculls un arquetip al que t'escarrasses a emular en els teus estils de combat i tècniques. Escull entre l'[[Guerrer#Arquer Arcà|Arquer Arcà]], el [[Guerrer#Campió|Campió]], el [[Guerrer#Cavaller de l'Eco|Cavaller de l'Eco]], el [[Guerrer#Cavaller Màgic|Cavaller Màgic]], el [[Guerrer#Cavaller Muntat|Cavaller Muntat]], el [[Guerrer#Cavaller Rúnic|Cavaller Rúnic]], el [[Guerrer#Guerrer Psi|Guerrer Psi]], el [[Guerrer#Mestre de Batalla|Mestre de Batalla]], el [[Guerrer#Pistoler|Pistoler]], el [[Guerrer#Portaestandard|Portaestandard]], o el [[Guerrer#Samurai|Samurai]], tots detallats a [[Guerrer#Arquetips Marcials|Arquetips Marcials]] al final de la descripció de la classe. L'arquetip que esculls t'atorga característiques al 3r nivell i altre cop al 7è, 10è, 15è, i 18è nivell.
 
 ### Millora de Puntuació d'Habilitat
 Quan arribes al 4t nivell, i altre cop al 6è, 8è, 12è, 14è, 16è, i 19è nivell, pots incrementar una puntuació d'habilitat de la teva elecció per 2, o pots incrementar dues puntuacions d'habilitat de la teva elecció per 1. Com és habitual, no pots incrementar una puntuació d'habilitat per sobre de 20 usant aquesta característica.
@@ -549,6 +549,96 @@ Quan una criatura que puguis veure es mou en el rang que tens amb l'arma cos a c
 Quan fas un control de Carisma (Actuació), Carisma (Intimidació), o Carisma (Persuasió), pots gastar un dau de superioritat i afegir el dau de superioritat al control d'habilitat.
 ###### Valoració Tàctica
 Quan fas un control d'Intel·ligència (Història), Intel·ligència (Investigació), o de Saviesa (Intuïció), pots gastar un dau de superioritat i afegir-lo al control d'habilitat.
+
+
+
+### Pistoler
+
+La majoria de guerrers i especialistes del combat passen els anys perfeccionant les arts clàssiques de l'esgrima, el tir amb arc o tàctiques d'arma d'asta. Siguin duelistes o infanteria, les armes marcials van ser aparentment perfeccionades fa temps, i el veritable repte és dominar-les.
+
+Tanmateix, algunes ments no van poder aturar-se amb la innovació de la ballesta. L'experimentació amb components alquímics i metalls rars han desbloquejat els secrets de la força explosiva controlada. Els pocs que sobreviuen aquestes proves d'enginy podrien ser els primer en crear, i brandar hàbilment, les primeres armes de foc.
+  
+Aquest arquetip es centra en l'habilitat de dissenyar, construir, i utilitzar poderoses però perilloses armes de rang. A través d'innovació creativa i punteria immaculada, esdevens una distant força de mort al camp de batalla. Tot i això, al no ser una ciència perfecta, les armes de foc comporten una inestabilitat inherent que pot ocasionalment deixar-te sense un mitjà d'atac funcional. Aquest és el perill de les noves tecnologies no provades en un món on les energies arcanes que governen els elements són sempre presents.
+
+Si aquest camí de pólvora, foc, i metall et crida, mantén-te alerta, aferra't a les teves conviccions com a guerrer, i deixa que la manya i la sort es trobin per a guiar les teves bales cap a l'encert.
+
+#### Proficiència d'Armes de Foc
+Començant quan esculls aquest arquetip al 3r nivell, guanyes proficiència amb armes de foc, permetent-te afegir el teu bonus de proficiència als atacs fets amb armes de foc.
+
+#### Armer
+Al escollir aquest arquetip al 3r nivell, guanyes proficiència amb Eines de Llauner. Pots usar-les per a fabricar munició a la meitat del cost, reparar armes de foc danyades, o fins i tot dissenyar i crear-ne de noves (a discreció del MM). Algunes armes de foc extremadament experimentals i intricades només són disponibles a través de la fabricació.
+
+##### Propietats de les Armes de Foc
+Les armes de foc són una tecnologia nova i volàtil, i com a tal comporten el seu propi joc de propietats d'arma. Algunes propietats són seguides d'un nombre, i aquest nombre significa un element d'aquesta propietat (explicat a continuació). Aquestes propietats reemplacen aquelles opcionals presents a la *Dungeon Master’s Guide*. Les armes de foc són armes de rang. 
+
+###### Recàrrega 
+L'arma pot ser disparada un nombre de vegades igual a la seva puntuació de Recàrrega abans de que hagi de gastar 1 atac o 1 acció per a recarregar. Has de tenir almenys una mà lliure per a recarregar l'arma de foc.
+
+###### Fallada
+Quan fas un tir d'atac amb una arma de foc, i la tirada del dau és igual o menor a la puntuació de Fallada de l'arma, l'arma s'encasqueta. L'atac falla, i l'arma no pot usar-se un altre cop fins que gastis una acció per a intentar reparar-la. Per a reparar la teva arma de foc, has de fer un control exitós amb Eines de Llauner (CD igual a 8 + la teva puntuació de fallada). Si el teu control falla, l'arma es trenca i ha de ser arreglada fora de combat a un quart del cost de l'arma de foc. Les criatures que usin una arma de foc sense ser-hi proficients incrementen la puntuació de fallada de l'arma en 1.
+
+###### Explosiva
+Al donar, tothom a 5 u. de l'objectiu ha de fer un salvament de Destresa (CD igual a 8 + el teu bonus de proficiència + el teu modificador de Destresa) o patir 1d8 dany de foc. Si l'arma erra, la munició no detona, o rebota lluny inofensivament abans de fer-ho.
+
+##### Munició
+Totes les armes de foc requereixen munició per a fer un atac, i donada la seva rara naturalesa, la munició pot ser gairebé impossible de trobar o comprar. Tot i això, si es reuneixen els materials, pots crear munició tu mateix usant les teves Eines de Llauner per la meitat del cost. Cada arma de foc usa la seva pròpia munició única i generalment és venuda o creada en fornades llistades a continuació al costat del preu. 
+
+##### Armes de Foc
+
+| Nom                | Cost   | Munició  | Dany           | Pes     | Rang      | Propietats                                                                                           |
+| ------------------ | ------ | -------- | -------------- | ------- | --------- | ---------------------------------------------------------------------------------------------------- |
+| Pistola de Palmell | 50po   | 2po (20) | 1d8 perforant  | 0,45 kg | (40/160)  | [[Armes#Lleugera\|Lleugera]], [[Guerrer#Recàrrega\|Recàrrega]] 1, [[Guerrer#Fallada\|Fallada]] 1     |
+| Pistola            | 150po  | 4po (20) | 1d10 perforant | 1,35 kg | (60/240)  | [[Guerrer#Recàrrega\|Recàrrega]] 4, [[Guerrer#Fallada\|Fallada]] 1                                   |
+| Mosquet            | 300po  | 5po (20) | 1d12 perforant | 4,5 kg  | (120/480) | [[Armes#Dues Mans\|Dues Mans]], [[Guerrer#Recàrrega\|Recàrrega]] 1, [[Guerrer#Fallada\|Fallada]] 2   |
+| Pebrera            | 250po  | 4po (20) | 1d10 perforant | 2,25 kg | (80/320)  | [[Guerrer#Recàrrega\|Recàrrega]] 6, [[Guerrer#Fallada\|Fallada]] 2                                   |
+| Trabuc             | 300po  | 5po (5)  | 2d8 perforant  | 4,5 kg  | (15/60)   | [[Guerrer#Recàrrega\|Recàrrega]] 1, [[Guerrer#Fallada\|Fallada]] 2                                   |
+| Males Notícies     | Creada | 10po (5) | 2d12 perforant | 11 kg   | (200/800) | [[Armes#Dues Mans\|Dues Mans]], [[Guerrer#Recàrrega\|Recàrrega]] 1,  [[Guerrer#Fallada\|Fallada]] 3  |
+| Morter de Mà       | Creada | 10po (1) | 2d8 foc        | 4,5 kg  | (30/60)   | [[Guerrer#Recàrrega\|Recàrrega]] 1, [[Guerrer#Fallada\|Fallada]] 3, [[Guerrer#Explosiva\|Explosiva]] |
+
+#### Tirador Expert
+Quan esculls aquest arquetip al 3r nivell, aprens a executar poderosos trets amb efecte per a incapacitar o ferir els teus oponents usant les teves armes de foc.
+
+***Trets amb Efecte***. Aprens dos trets amb efecte de la teva elecció, que estan detallats posteriorment a [[Guerrer#Trets amb Efecte|Trets amb Efecte]]. Moltes maniobres milloren un atac d'alguna manera. Cada ús d'un tret amb efecte ha de ser declarat abans d'haver fet el tir d'atac. Només pots usar un tret amb efecte per atac.
+
+Aprens un tret amb efecte addicional de la teva elecció al 7è, 10è, 15è, i 18è nivell. Cada vegada que aprens un nou tret amb efecte, també pots reemplaçar-ne un que coneguis amb un diferent.
+
+***Coratge***. Guanyes un nombre de punts de coratge igual al teu modificador de Saviesa (mínim de 1). Recuperes 1 punt de coratge cada cop que tires un 20 en una tirada de d20 per un atac amb una arma de foc, o dones el cop de gràcia amb una arma de foc a una criatura o amenaça significant (a discreció del MM). Recuperes tots els punts de coratge gastats després d'un descans curt o llarg.
+
+***Salvaments***. Alguns dels teus trets amb efecte requereixen que els teus objectius facin un salvament per a resistir els efectes del tret amb efecte. La CD de salvament es calcula de la manera següent: **CD de salvament de Tret amb Efecte** = 8 + el teu bonus de proficiència + el teu modificador de Destresa.
+
+#### Gallet veloç
+Quan arribes al 7è nivell, afegeixes el teu bonus de proficiència a la teva iniciativa. També pots guardar una arma de foc i desenfundar una altra com a una sola interacció d'objecte en el teu torn.
+
+#### Reparació Ràpida
+Al arribar al 10è nivell, aprens com intentar arreglar ràpidament una arma encasquetada. Pots gastar un punt de coratge per intentar reparar una arma de foc encasquetada (però no trencada) amb una acció bonus.
+
+#### Recàrrega Llampec
+Començant al 15è nivell, pots recarregar qualsevol arma de foc amb una acció bonus.
+
+#### Intenció Atroç
+Al 18è nivell, els teus atacs d'arma de foc puntuen un cop crític en una tirada de 19-20, i recuperes un punt de coratge en una tirada d'un 19 o 20 en un tir d'atac de d20.
+
+#### Crític Hemorràgic
+Al arribar al 18è nivell, quan puntues un cop crític en un atac amb una arma de foc, l'objectiu pateix addicionalment la meitat del dany de l'atac al final del seu proper torn.
+
+##### Trets amb Efecte
+
+###### Tret Aler
+Quan fas un atac d'arma de foc contra una criatura, pots gastar un punt de coratge per a intentar fer caure un objectiu en moviment. En donar, la criatura pateix dany normal i ha de fer un salvament de Força o caure [[Condicions#Estirat|estirada]].
+###### Tret Desarmant
+Quan fas un atac d'arma de foc contra una criatura, pots gastar un punt de coratge per a intentar disparar un objecte a les seves mans. En donar, la criatura pateix dany normal i ha de superar un salvament de Força o deixar anar 1 objecte aguantat de la teva elecció, i aquest objecte és empès 10 u. enllà de tu.
+###### Tret d'Estupefacció
+Quan fas un atac d'arma de foc contra una criatura, pots gastar un punt de coratge per intentar deixar el teu oponent estupefacte. Al donar, la criatura sofreix dany normal i ha de fer un salvament de Constitució o patir desavantatge en atacs fins el final del seu proper torn.
+###### Tret Perdonavides
+Pots usar la poderosa explosió i so tronador de la teva arma de foc per a fer tremolar la resolució d'una criatura. Pots gastar un punt de coratge al fer un control de Carisma (Intimidació) per a guanyar avantatge en la tirada.
+###### Tret Perforador
+Quan fas un atac d'arma de foc contra una criatura, pots gastar un punt de coratge per a intentar disparar a través de múltiples oponents. L'atac inicial guanya un +1 a la puntuació de fallada de l'arma de foc. En donar, la criatura sofreix dany normal i fas un tir d'atac amb desavantatge contra cada criatura en una línia directament darrere l'objectiu dins del teu primer increment de rang. Només l'atac inicial pot encasquetar-se.
+###### Tret Precís
+Quan fas un tir d'atac d'arma de foc contra una criatura, pots gastar un punt de coratge per a guanyar avantatge en el tir d'atac.
+###### Tret Vigorós
+Quan fas un atac d'arma de foc contra una criatura, pots gastar un punt de coratge per a intentar fer-los ensopegar i retrocedir. En donar, la criatura sofreix dany normal i ha de superar un salvament de Força o ser empesa 15 u. enllà de tu.
+###### Tret Violent
+Quan fas un atac d'arma de foc contra una criatura, pots gastar un o més punts de coratge per augmentar la volatilitat de l'atac. Per cada punt de coratge gastat, l'atac guanya un +2 a la puntuació de fallada de l'arma de foc. Si l'atac dona, pots tirar un dau de dany addicional per cada punt de coratge gastat quan determines el dany.
 
 
 

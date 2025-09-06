@@ -6,12 +6,12 @@ Quan beus aquesta poció recuperes punts vitals. El nombre de punts vitals depè
 
 **Taula - Pocions de Curació**
 
-| Poció de ..    | Raresa    | HP Recuperats |
-|------------------|-----------|-------------|
-| Curació          | Comuna    | 2d4+2       |
-| Curació Major | Poc Comuna | 4d4+4       |
-| Curació Superior | Rara      | 8d4+8       |
-| Curació Suprema  | Molt rara | 10d4+20     |
+| Poció de ..      | Raresa     | HP Recuperats |
+| ---------------- | ---------- | ------------- |
+| Curació          | Comuna     | 2d4+2         |
+| Curació Major    | Poc Comuna | 4d4+4         |
+| Curació Superior | Rara       | 8d4+8         |
+| Curació Suprema  | Molt rara  | 10d4+20       |
 
 Potion of Healing (Font:: DMG)
 

@@ -11,7 +11,6 @@ Aquestes benes polsoses cruixen al doblegar-les com roques fregant-se entre sí.
 
 **Trenca-Roques**. Pots sacrificar un dels teus atacs per a colpejar el terra amb el teu puny, causant que es conjuri l'encanteri [[Tremolor de Terra]] a nivell 2 i amb una CD 15 d'encanteri, però només una vegada per torn. Pots usar aquesta habilitat fins a tres vegades, i els usos es recarreguen al completar un descans llarg.
 
-MicMiquel (Font:: Casolans)
-
+(Font:: MicMiquel - Artefactes i Arcanismes)
 
 [[Objectes Màgics]]

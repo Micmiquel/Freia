@@ -97,7 +97,7 @@ L'arma escollida ha de complit aquests criteris:
 - Ha de mancar les propietats *pesada* i *especial*.
 
 ### Tradició Monàstica
-Quan arribes al 3r nivell, et compromets amb una tradició monàstica: el [[Monjo#Camí de l'Ànima Solar|Camí de l'Ànima Solar]], el [[Monjo#Camí del Drac Ascendent|Camí del Drac Ascendent]], el [[Monjo#Camí del Jo Astral|Camí del Jo Astral]], el [[Monjo#Camí del Kensei|Camí del Kensei]], el [[Monjo#Camí de la Mà Oberta|Camí de la Mà Oberta]], el [[Monjo#Camí del Mestre Borratxo|Camí del Mestre Borratxo]], el [[Monjo#Camí de l'Ombra|Camí de l'Ombra]], el [[Monjo#Camí de la Pietat|Camí de la Pietat]] o el [[Monjo#Camí dels Quatre Elements|Camí dels Quatre Elements]], tots detallats a [[Monjo#Tradicions Monàstiques|Tradicions Monàstiques]] al final de la descripció de la classe. La teva tradició t'atorga característiques al 3r nivell i altre cop al 6è, 11è, i 17è nivell.
+Quan arribes al 3r nivell, et compromets amb una tradició monàstica: el [[Monjo#Camí de l'Ànima de Cobalt|Camí de l'Ànima de Cobalt]], el [[Monjo#Camí de l'Ànima Solar|Camí de l'Ànima Solar]], el [[Monjo#Camí del Drac Ascendent|Camí del Drac Ascendent]], el [[Monjo#Camí del Jo Astral|Camí del Jo Astral]], el [[Monjo#Camí del Kensei|Camí del Kensei]], el [[Monjo#Camí de la Mà Oberta|Camí de la Mà Oberta]], el [[Monjo#Camí del Mestre Borratxo|Camí del Mestre Borratxo]], el [[Monjo#Camí de l'Ombra|Camí de l'Ombra]], el [[Monjo#Camí de la Pietat|Camí de la Pietat]] o el [[Monjo#Camí dels Quatre Elements|Camí dels Quatre Elements]], tots detallats a [[Monjo#Tradicions Monàstiques|Tradicions Monàstiques]] al final de la descripció de la classe. La teva tradició t'atorga característiques al 3r nivell i altre cop al 6è, 11è, i 17è nivell.
 
 ### Desviar Míssils
 Començant al 3r nivell, pots usar la teva reacció per desviar o agafar el míssil quan siguis donat per un atac d'arma de rang. Quan ho fas, el dany que reps de l'atac és reduït per 1d10 + el teu modificador de Destresa + el teu nivell de monjo.
@@ -161,6 +161,41 @@ Al 20è nivell, quan tires iniciativa i no tens punts de ki romanents, recuperes
 ## Tradicions Monàstiques
 
 Hi ha tradicions de recerca monàstica comunes en monasteris escampats a través del multivers. La majoria monasteris practiquen exclusivament una tradició, però uns pocs n'honoren a múltiples i instrueixen cada monjo d'acord a la seva aptitud i interès. Totes les tradicions es basen en les mateixes tècniques bàsiques, i es divergeixen a mesura que l'estudiant creix en expertesa. Per tant, un monjo ha d'escollir una tradició només al arribar al 3r nivell.
+
+
+### Camí de l'Ànima de Cobalt
+
+Empesos per la recerca de coneixement i la seva adoració d'erudit del Mentor Saberut, la Llibreria de l'Ànima de Cobalt és un dels més respectats i fortament guardats dipòsits de llibrots, història, i informació de tota Exandria. Gent de totes les terres venen a la llibreria a buscar coneixement, i aquells particularment dedicats a les virtuts de la veritat sovint juren les seves ments i cossos a la causa de l'Ànima de Cobalt. Esdevenir un membre de l'Ànima de Cobalt implica entregar-se a una cerca dedicada a desenvelar els misteris de la vida, portant llum als secrets de mal amagats, i protegir les més poderoses i perilloses de les veritats d'aquells la malsana set de coneixement dels quals podria portar mort i sofrint a altres.
+
+Els monjos de l'Ànima de Cobalt són la personificació de la màxima: "Coneix el teu enemic". A través de recerca incansable, s'armen contra les implacables marees del mal. A través d'entrenament rigorós, aprenen a travessar les defenses mentals i físiques dels seus adversaris. Després, un cop s'acaba la lluita, registren les seves troballes per que les estudiïn les futures generacions de monjos.
+
+***Font: Tal'Dorei Campaign Setting Reborn***
+
+#### Extreure Aspectes
+Començant al 3r nivell, pots colpejar punts de pressió per intuir informació crucial sobre un enemic. Quan dones a una criatura amb un dels teus atacs atorgats per la teva [[Monjo#Ràfega de Cops|Ràfega de Cops]], pots analitzar-la. Quan una criatura analitzada t'erri amb un atac, pots usar immediatament la teva reacció per a fer un cop desarmat contra aquesta criatura si està dins del teu rang. Aquest benefici dura fins que completes un descans curt o llarg. 
+
+A més, quan analitzes a una criatura, aprens totes les seves vulnerabilitats, resistències i immunitats al dany, i immunitats a condicions.
+
+#### Extorquir Veritat
+Començant al 6è nivell, pots colpejar amb precisió un grup de nervis amagat en una criatura, privant-la temporalment d'emmascarar els seus pensaments i intencions vertaderes. Quan dones a una criatura amb un cop desarmat, pots gastar 1 punt de ki per a forçar-la a fer un salvament de Carisma. En un salvament fallit, la criatura és incapaç de dir una mentida deliberada, i tots els controls de Carisma adreçats a la criatura es fan amb avantatge fins a 10 minuts. Saps si ha superat o fallat el seu tir de salvament.
+
+Una criatura afectada és conscient de l'efecte i per tant pot evitar respondre preguntes a les quals normalment respondria amb una mentida. Una criatura així pot ser evasiva en les seves respostes mentre l'efecte perduri.
+
+Si desitges imposar aquest efecte en una criatura sense ferir-la, pots atacar la criatura per a simplement tocar-la, sense causar-li dany en impactar.
+
+#### Erudició Mística
+També al 6è nivell, has estudiat extensament la història i saber popular dins dels arxius de l'Ànima de Cobalt. Aprens una llengua de la teva elecció, i guanyes proficiència en una de les següents perícies de la teva elecció: Arcana, Història, Investigació, Natura, o Religió. En canvi, si ja tens proficiència en una de les perícies llistades, pots escollir doblar el teu bonus de proficiència per a qualsevol control d'habilitat que facis usant la proficiència escollida.
+
+Guanyes una llengua addicional i una proficiència de perícia addicional de la llista anterior (o pots doblar el bonus d'una proficiència existent de la llista) al 11è i 17è nivell.
+
+#### Ment de Mercuri
+Començant al 11è nivell, has esmolat la teva consciència i reflexos a través d'aptitud mental i reconeixement de patrons. Un cop per torn, si ja has usat la teva reacció, pots gastar 1 punt de ki per a usar una reacció addicional. Només pots usar una reacció per cada efecte que l'activa.
+
+#### Ràfega Debilitant
+Al arribar al 17è nivell, has guanyat el coneixement per a manipular el ki d'una criatura per a soscavar la seva fortitud. Quan dones a una criatura amb un atac desarmat, pots gastar 3 punts de ki per a causar que la criatura guanyi vulnerabilitat a un tipus de dany de la teva elecció durant 1 minut, o fins el final d'un torn en que ha rebut dany d'aquest tipus.
+
+Si la criatura té resistència al tipus de dany que esculls, aquesta resistència és reprimida durant 1 minut, en comptes de guanyar una vulnerabilitat. Una criatura que és immune al tipus de dany que esculls no és afectada. Una criatura que està afectada per aquesta característica no pot ser afectada per ella una altra vegada durant 24 hores.
+
 
 
 ### Camí de l'Ànima Solar

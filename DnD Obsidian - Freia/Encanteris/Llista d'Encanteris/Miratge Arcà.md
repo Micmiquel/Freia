@@ -10,7 +10,7 @@
 
 **Duració:** 10 dies
 
-Fas que el terreny en una àrea de fins a 1,6 km quadrats sembli, soni, olori, i fins es senti com un altre tipus de terreny. Tot i això, la forma general del terreny roman la mateixa. Camps oberts o una carretera poden semblar un pantà, un turó, una clivella, o algun altre terreny difícil o impracticable. Un estany pot aparentar ser un prat de gespa, un precipici una suau pendent, o una fondalada plena de roques una carretera ampla i plana.
+Fas que el terreny en una àrea de fins a 1,6 km quadrats sembli, soni, faci olor, i fins es senti com un altre tipus de terreny. Tot i això, la forma general del terreny roman la mateixa. Camps oberts o una carretera poden semblar un pantà, un turó, una clivella, o algun altre terreny difícil o impracticable. Un estany pot aparentar ser un prat de gespa, un precipici una suau pendent, o una fondalada plena de roques una carretera ampla i plana.
 
 De manera similar, pots alterar l'aparença d'estructures, o afegir-ne on no hi són presents. L'encanteri no disfressa, amaga, o afegeix criatures.
 

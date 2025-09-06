@@ -40,24 +40,24 @@ L'armadura pesada no et permet afegir el teu modificador de Destresa a la teva C
 
 ## **Taula - Armadures**
 
-| Armadura            | Cost     | Classe d'Armadura (CA)          | Força | Sigil      | Pes |
-|------------------|----------|---------------------------|----------|--------------|--------|
-| **Armadura Lleugera**  |          |                           |          |              |        |
-| Encoixinada           | 5 po     | 11 + Modificador Des         | -        | Desavantatge | 3,6 kg  |
-| Cuir          | 10 po    | 11 + Modificador Des         | -        | -            | 4,5 kg |
-| Cuir tatxonat  | 45 po    | 12 + Modificador Des         | -        | -            | 5,9 kg |
-| **Armadura Mitjana** |          |                           |          |              |        |
-| Pell             | 10 po    | 12 + Modificador Des (màx 2) | -        | -            | 5,4 kg |
-| Samarreta de malla     | 50 po    | 13 + Modificador Des (màx 2) | -        | -            | 9 kg |
-| Malla d'escames       | 50 po    | 14 + Modificador Des (màx 2) | -        | Desavantatge | 20 kg |
-| Cuirassa      | 400 po   | 14 + Modificador Des (màx 2) | -        | -            | 9 kg |
-| Mitja armadura       | 750 po   | 15 + Modificador Des (màx 2) | -        | Desavantatge | 18 kg |
-| **Armadura Pesada**  |          |                           |          |              |        |
-| Malla d'anelles        | 30 po    | 14                        | -        | Desavantatge | 18 kg |
-| Cota de malla       | 75 po    | 16                        | For 13   | Desavantatge | 25 kg |
-| Plaques           | 200 po   | 17                        | For 15   | Desavantatge | 27 kg |
-| Armadura de plaques            | 1,500 po | 18                        | For 15   | Desavantatge | 30 kg |
-| Escut           | 10 po    | +2                        | -        | -            | 2,7 kg  |
+| Armadura              | Cost     | Classe d'Armadura (CA)       | Força  | Sigil        | Pes    |
+| --------------------- | -------- | ---------------------------- | ------ | ------------ | ------ |
+| **Armadura Lleugera** |          |                              |        |              |        |
+| Encoixinada           | 5 po     | 11 + Modificador Des         | -      | Desavantatge | 3,6 kg |
+| Cuir                  | 10 po    | 11 + Modificador Des         | -      | -            | 4,5 kg |
+| Cuir tatxonat         | 45 po    | 12 + Modificador Des         | -      | -            | 5,9 kg |
+| **Armadura Mitjana**  |          |                              |        |              |        |
+| Pell                  | 10 po    | 12 + Modificador Des (màx 2) | -      | -            | 5,4 kg |
+| Samarreta de malla    | 50 po    | 13 + Modificador Des (màx 2) | -      | -            | 9 kg   |
+| Malla d'escames       | 50 po    | 14 + Modificador Des (màx 2) | -      | Desavantatge | 20 kg  |
+| Cuirassa              | 400 po   | 14 + Modificador Des (màx 2) | -      | -            | 9 kg   |
+| Mitja armadura        | 750 po   | 15 + Modificador Des (màx 2) | -      | Desavantatge | 18 kg  |
+| **Armadura Pesada**   |          |                              |        |              |        |
+| Malla d'anelles       | 30 po    | 14                           | -      | Desavantatge | 18 kg  |
+| Cota de malla         | 75 po    | 16                           | For 13 | Desavantatge | 25 kg  |
+| Plaques               | 200 po   | 17                           | For 15 | Desavantatge | 27 kg  |
+| Armadura de plaques   | 1,500 po | 18                           | For 15 | Desavantatge | 30 kg  |
+| Escut                 | 10 po    | +2                           | -      | -            | 2,7 kg |
 
 ## Posar-te i Treure't l'Armadura
 El temps que tardes en posar-te i treure't l'armadura depèn de la seva categoria.

@@ -9,6 +9,6 @@ Aquest antifaç de metall mat et permet usar una acció per a conjurar l'encante
 
 **Cames Ajudeu-me**. Si reps dany fora del teu torn, pots utilitzar la teva reacció per a moure't fins a la meitat del teu moviment sense provocar atacs d'oportunitat.
 
-MicMiquel (Font:: Casolans)
+(Font:: MicMiquel - Artefactes i Arcanismes)
 
 [[Objectes Màgics]]

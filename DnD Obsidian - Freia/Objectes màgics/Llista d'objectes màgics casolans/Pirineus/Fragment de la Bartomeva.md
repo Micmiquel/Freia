@@ -3,7 +3,7 @@ Harmonització: true
 ---
 # Fragment de la Bartomeva
 
-(Tipus:: Objecte meravellós) (Raresa:: Poc comú )*
+(Tipus:: Objecte meravellós) (Raresa:: Poc comú )
 
 Fragment de ferro restant de la creació de l'afamada campana del campanar d'Ars, coneguda per foragitar les tempestes i pedregades causades per les bruixes. Es pot fer servir per conjurar el truc [[Brisa]].
 

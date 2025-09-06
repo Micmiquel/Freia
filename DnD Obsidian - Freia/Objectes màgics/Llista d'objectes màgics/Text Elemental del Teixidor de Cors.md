@@ -5,7 +5,7 @@ Harmonització: true
 
 (Tipus:: Objecte meravellós) (Raresa:: Rar ) (Requereix harmonització per un mag)
 
-Aquest llibre impol·lut olora lleugerament a una flaire aleatòria que trobis plaent. Quan es troba, el llibre conté els següents encanteris: [[Antipatia, Simpatia]], [[Captivar]], [[Dominar Persona]], [[Encantar Persona]], [[Modificar Records]],  [[Patró Hipnòtic]] i [[Suggestió]]. Funciona com a llibre d'encanteris per a tu.
+Aquest llibre impol·lut fa olor lleugerament a una flaire aleatòria que trobis plaent. Quan es troba, el llibre conté els següents encanteris: [[Antipatia, Simpatia]], [[Captivar]], [[Dominar Persona]], [[Encantar Persona]], [[Modificar Records]],  [[Patró Hipnòtic]] i [[Suggestió]]. Funciona com a llibre d'encanteris per a tu.
 
 Mentre estiguis aguantant el llibre, pots usar-lo com a focus d'encanteri pels teus encanteris de mag.
 

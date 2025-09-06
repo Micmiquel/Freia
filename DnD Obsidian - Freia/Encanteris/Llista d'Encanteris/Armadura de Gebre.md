@@ -12,7 +12,7 @@
 
 Una força màgica protectora t'envolta, manifestant-se com gebre espectral que et cobreix a tu i el teu equipament. Guanyes 5 punts vitals temporals per la duració. Si una criatura et dona amb un tir d'atac cos a cos mentre tens aquests punts vitals, la criatura rep 5 punts de dany de fred.
 
-***A Nivells Superiors***. Quan conjuris aquest encanteri usant una casella d'encanteri de nivell 2 o major, tant els punts vitals temporals com el dany de fred incrementen per 5 per cada nivell de casella per sobre de 3.
+***A Nivells Superiors***. Quan conjuris aquest encanteri usant una casella d'encanteri de nivell 2 o major, tant els punts vitals temporals com el dany de fred incrementen per 5 per cada casella.
 
 
 *Font: Armor of Agathys, PHB*

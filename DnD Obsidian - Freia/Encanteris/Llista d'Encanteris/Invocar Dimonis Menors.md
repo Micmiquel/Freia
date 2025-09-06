@@ -22,7 +22,7 @@ El MM escull els dimonis, com manes o dretches, i tu esculls els espais no ocupa
 
 Els dimonis són hostils cap a tota criatura, tu inclòs. Tira iniciativa pels dimonis invocats com un grup, que té els seus propis torns. Els dimonis persegueixen i ataquen els no dimonis més propers tan bé com poden.
 
-Com a part de conjurar l'encanteri, pots formar un cercle al terra amb la sang usada com a component amterial. El cercle és prou gran com per envoltar el teu espai. Mentre l'encanteri duri, els dimonis invocats no poden crear el cercle o danyar-lo, i no poden afectar a inngú dins seu. Usar el component material d'aquesta manera el consumeix quan l'encanteri acaba.
+Com a part de conjurar l'encanteri, pots formar un cercle al terra amb la sang usada com a component material. El cercle és prou gran com per envoltar el teu espai. Mentre l'encanteri duri, els dimonis invocats no poden crear el cercle o danyar-lo, i no poden afectar a inngú dins seu. Usar el component material d'aquesta manera el consumeix quan l'encanteri acaba.
 
 ***A Nivells Superiors***. Quan conjuris aquest encanteri usant una casella d'encanteri de nivell 6 o 7, invoques el doble de dimonis. Si el conjures usant una casella d'encanteri de nivell 8 o 9, invoques el triple de dimonis.
 
