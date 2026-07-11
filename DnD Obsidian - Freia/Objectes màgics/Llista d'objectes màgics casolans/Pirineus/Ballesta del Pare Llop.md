@@ -1,6 +1,6 @@
 # Ballesta del Pare Llop
 
-(Tipus:: Arma) (Raresa:: Rara) *
+(Tipus:: Arma) (Raresa:: Rara) 
 
 Aquesta ballesta pesada conté un sistema de politges complex que li dona major potència a una ballesta normal. A més, està reforçada per a protegir a l'usuari. Té les següents propietats:
 

@@ -9,6 +9,7 @@ Moral: C
 Moral_2: L
 Mida: M
 ---
+ 
 # La Pesanta
 
 ```statblock

@@ -61,7 +61,7 @@ Per a moure't mentre estàs estirat, t'has d'**arrossegar** o usar màgia, com e
 
 Pots moure't a través de l'espai d'una criatura no hostil. A més, pots moure't a través de l'espai d'una criatura hostil només si la criatura és d'almenys dues mides més gran o més petita que tu. Recorda que l'espai d'una altra criatura és terreny difícil per a tu.
 
-Tant si una criatura is amiga o enemiga, no pots acabar voluntàriament el teu moviment en el seu espai.
+Tant si una criatura és amiga com enemiga, no pots acabar voluntàriament el teu moviment en el seu espai.
 
 Si deixes el rang d'una criatura hostil durant el teu moviment, provoques un atac d'oportunitat, com s'explica posteriorment.
 

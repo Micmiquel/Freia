@@ -3,7 +3,7 @@ Harmonització: true
 ---
 # Pell d'en Peludet
 
-(Tipus:: Armadura (armadura de pell +2)) (Raresa:: Única) *
+(Tipus:: Armadura (armadura de pell +2)) (Raresa:: Única)
 
 Aquesta armadura dona resistència al dany de foc i necròtic. A més, dona avantatge en controls de sigil fets en llum lleu o foscor.
 

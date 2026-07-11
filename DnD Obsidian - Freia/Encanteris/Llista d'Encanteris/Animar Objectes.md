@@ -12,7 +12,7 @@
 
 Objectes cobren vida a les teves ordres. Escull fins a deu objectes no màgics en rang que no estiguin sent portats o vestits. Objectius Mitjans conten com dos objectes, objectius Grans conten com quatre objectes, objectius Enormes conten com vuit objectes. No pots animar un objecte major a Enorme. Cada objectiu s'anima i es torna una criatura sota el teu control fins que l'encanteri acaba o fins ser reduïda a 0 punts vitals.
 
-Amb una acció bonus, pots comandar mentalment qualsevol criatura que hagis creat amb aquest encanteri si la criatura is a 500 u. de tu (si controles múltiples criatures, pots comandar algunes o totes a la vegada, amb la mateixa ordre per totes). Decideixes quina acció prendrà la criatura i on es mourà  durant el seu proper torn, o pots donar una ordre general, com protegir una cambra o passadís particular. Si no dones cap ordre, la criatura només es defensa contra criatures hostils. Un cop se li dona una ordre, la criatura la segueix fins a completar la seva tasca.
+Amb una acció bonus, pots comandar mentalment qualsevol criatura que hagis creat amb aquest encanteri si la criatura és a 500 u. de tu (si controles múltiples criatures, pots comandar algunes o totes a la vegada, amb la mateixa ordre per totes). Decideixes quina acció prendrà la criatura i on es mourà  durant el seu proper torn, o pots donar una ordre general, com protegir una cambra o passadís particular. Si no dones cap ordre, la criatura només es defensa contra criatures hostils. Un cop se li dona una ordre, la criatura la segueix fins a completar la seva tasca.
 
 **Taula - Estadístiques d'Objecte Animat**
 

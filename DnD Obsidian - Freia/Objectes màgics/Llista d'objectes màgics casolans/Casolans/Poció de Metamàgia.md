@@ -1,6 +1,6 @@
 # Poció de Metamàgia
 
-(Tipus:: Objecte Meravellós) (Raresa:: Poc Comú)
+(Tipus:: Objecte Meravellós) (Raresa:: Raresa variant)
 
 Quan un usuari de metamàgia beu aquesta poció, recupera punts de fetiller, determinats per la raresa de la poció. A més, el proper cop que usi metamàgia, hi ha un 50% de possibilitats de causar un efecte aleatori de la taula de Màgia Salvatge.
 

@@ -1,4 +1,4 @@
-# Cant Curatiu Major
+# Cant Curatiu Massiu
 
 *(Nivell:: [[Taula Nivell 3|Encanteri Nivell 3]]) (Escola:: [[Taula Evocació|Evocació]])*
 

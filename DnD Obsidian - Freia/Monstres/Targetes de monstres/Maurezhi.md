@@ -9,7 +9,7 @@ Moral: C
 Moral_2: M
 Mida: M
 ---
-# Maurezhi
+ # Maurezhi
 
 ```statblock
 monster: Maurezhi

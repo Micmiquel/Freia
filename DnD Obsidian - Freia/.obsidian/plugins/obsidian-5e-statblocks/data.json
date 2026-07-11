@@ -3083,7 +3083,7 @@
           },
           {
             "name": "Variant: Aquelarre de Mort",
-            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n 1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n 2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n 3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n 4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n 5è nivell (2 caselles): [[Contagi]], [[Aixecar Morts]] \n 6è nivell (1 casella): [[Cercle de Mort]]"
+            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n 1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n 2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n 3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n 4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n 5è nivell (2 caselles): [[Contagi]], [[Aixecar Mort]] \n 6è nivell (1 casella): [[Cercle de Mort]]"
           },
           {
             "name": "Variant: Aquelarre de Natura",
@@ -5779,7 +5779,7 @@
           },
           {
             "name": "Variant: Aquelarre de Mort",
-            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n  1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n  2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n  3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n  4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n  5è nivell (2 caselles): [[Contagi]], [[Aixecar Morts]] \n  6è nivell (1 casella): [[Cercle de Mort]]"
+            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n  1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n  2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n  3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n  4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n  5è nivell (2 caselles): [[Contagi]], [[Aixecar Mort]] \n  6è nivell (1 casella): [[Cercle de Mort]]"
           },
           {
             "name": "Variant: Aquelarre de Natura",
@@ -11418,7 +11418,7 @@
         "spells": [
           "L'habilitat d'encantament del deva és Carisma (salvament d'encanteri CD 17). El deva pot conjurar innatament els següents encanteris, requerint només components verbals:",
           "A voluntat: [[Detectar Bé i Mal]]",
-          "\n1/dia cada: [[Comunar]], [[Aixecar Morts]]"
+          "\n1/dia cada: [[Comunar]], [[Aixecar Mort]]"
         ],
         "accions": [
           {
@@ -26556,7 +26556,7 @@
           "\n 2n Nivell (3 caselles): [[Restauració Menor]], Protecció de Verí, [[Arma Espiritual]]",
           "\n 3r Nivell (3 caselles): [[Crear Aliments]], [[Parlar amb Morts]], [[Esperits Guardians]]",
           "\n 4t Nivell (3 caselles): [[Divinació]], Llibertat de Moviment, guardians de faith",
-          "\n 5è Nivell (2 caselles): [[Restauració Major]], [[Aixecar Morts]]",
+          "\n 5è Nivell (2 caselles): [[Restauració Major]], [[Aixecar Mort]]",
           "\n 6è Nivell (1 casella): find the camí, harm, [[Visió Vertadera]]",
           "\n 7è Nivell (1 casella): [[Tempesta de Foc]], regenerate",
           "\n 8è Nivell (1 casella): Terratrèmol"
@@ -32913,7 +32913,7 @@
         "spells": [
           "L'habilitat d'encantament del planetar és Carisma (salvament d'encanteri CD 20). El planetar pot conjurar innatament els següents encanteris, sense requerir components materials:",
           "A voluntat: [[Detectar Bé i Mal]], [[Invisibilitat]] (només sobre ell)",
-          "\n3/dia cada: [[Barrera de Fulles]], [[Dissipar Bé i Mal]], [[Escomesa Flamant]], [[Aixecar Morts]]",
+          "\n3/dia cada: [[Barrera de Fulles]], [[Dissipar Bé i Mal]], [[Escomesa Flamant]], [[Aixecar Mort]]",
           "\n1/dia cada: [[Comunar]], [[Controlar Clima]], Plaga d'Insectes"
         ],
         "accions": [
@@ -34836,7 +34836,7 @@
         "traits": [
           {
             "name": "Equipament Especial",
-            "desc": "A més, to his sword cane, Rictavio wears a hat de disguise i a ring de mind shielding, i porta un encanteri scroll d'[[Aixecar Morts]]."
+            "desc": "A més, to his sword cane, Rictavio wears a hat de disguise i a ring de mind shielding, i porta un encanteri scroll d'[[Aixecar Mort]]."
           },
           {
             "name": "No-Morts Slayer",
@@ -45303,7 +45303,7 @@
             "desc": "El yochlol fa dos atacs cos a cos."
           },
           {
-            "name": "Cop (Mossegada in Forma d'Aranya)",
+            "name": "Cop (Mossegada en Forma d'Aranya)",
             "desc": "Atac cos a cos: +6 per donar, rang 5 u. (10 u. en forma de dimoni), un objectiu. Dany: 5 (1d6 + 2) impacte (perforant en forma d'aranya) dany + 21 (6d6) verí."
           },
           {
@@ -45312,7 +45312,7 @@
           },
           {
             "name": "Variant: Invocar Dimoni (1/Dia)",
-            "desc": "El dimoni escull què invocar i intenta una invocació màgica. AUn yochlol té un 50 % de probabilitats d'invocar un Yochlol. Un dimoni invocat apareix en un espai lliure a 60 u. del seu invocador, actua com un aliat del seu invocador, i no pot invocar altres dimonis. Roman per 1 minut, fins que ell o el seu invocador mori, o fins que el seu invocador el retira amb una acció."
+            "desc": "El dimoni escull què invocar i intenta una invocació màgica. Un yochlol té un 50 % de probabilitats d'invocar un Yochlol. Un dimoni invocat apareix en un espai lliure a 60 u. del seu invocador, actua com un aliat del seu invocador, i no pot invocar altres dimonis. Roman per 1 minut, fins que ell o el seu invocador mori, o fins que el seu invocador el retira amb una acció."
           }
         ],
         "legendary_actions": [],
@@ -46874,7 +46874,7 @@
           },
           {
             "name": "Bastó",
-            "desc": "Atac cos a cos: +3 per donar, rang 5 u., un objectiu. Dany: 4 (1d6+1) impacte, o 5 (1d8+1) impacte si usard amb both hands."
+            "desc": "Atac cos a cos: +3 per donar, rang 5 u., un objectiu. Dany: 4 (1d6+1) impacte, o 5 (1d8+1) impacte si s'usa amb ambdues mans."
           },
           {
             "name": "Fona",
@@ -51383,7 +51383,7 @@
             "3/dia cada": "[[Curar Ferides]] (a 5è nivell), [[Restauració Menor]]"
           },
           {
-            "1/dia cada": "[[Restauració Major]], [[Guarir]], [[Aixecar Morts]]"
+            "1/dia cada": "[[Restauració Major]], [[Guarir]], [[Aixecar Mort]]"
           }
         ],
         "spellsNotes": ""
@@ -61031,8 +61031,8 @@
   "showAdvanced": true,
   "version": {
     "major": 4,
-    "minor": 8,
-    "patch": 1
+    "minor": 10,
+    "patch": 3
   },
   "paths": [
     "/"

@@ -4,7 +4,7 @@ Alguns objectes màgics posseeixen consciència i personalitat. Un d'aquests obj
 
 La majoria d'objectes sensibles són armes. Altres tipus d'objectes poden demostrar una consciència, però els objectes consumibles com les pocions i els pergamins mai són sensibles.
 
-Els objectes màgics sensibles funcionen com a NPCs sota el control del MJ. Qualsevol propietat activable de l'objecte està sota el control de l'objecte, no el seu portador. Sempre que el portador mantingui una bona relació amb l'objecte, el portador pot accedir a aquestes propietats amb normalitat. Si la relació is strained, l'objecte pot restringir les seves propietats activables o fins i tot girar-les en contra del seu portador.
+Els objectes màgics sensibles funcionen com a NPCs sota el control del MJ. Qualsevol propietat activable de l'objecte està sota el control de l'objecte, no el seu portador. Sempre que el portador mantingui una bona relació amb l'objecte, el portador pot accedir a aquestes propietats amb normalitat. Si la relació és tensa, l'objecte pot restringir les seves propietats activables o fins i tot girar-les en contra del seu portador.
 
 ### Crear Objectes Màgics Sensibles
 Quan decideixes fer un objecte màgic sensible, crees la persona de l'objecte de la mateixa manera que crearies un NPC, amb unes poques excepcions descrites aquí.

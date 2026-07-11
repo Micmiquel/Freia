@@ -10,7 +10,7 @@
 
 **Duració:** Concentració, fins a 10 minuts
 
-Crees la imatge d'un objecte, una criatura, o un altre fenomen visible no major a un 15-u. cub. La imatge apareix en un punt en rang i perdura per la duració. La imatge is purament visual; no és acompanyada per so, olor, o cap altre efecte sensorial.
+Crees la imatge d'un objecte, una criatura, o un altre fenomen visible no major a un 15-u. cub. La imatge apareix en un punt en rang i perdura per la duració. La imatge és purament visual; no és acompanyada per so, olor, o cap altre efecte sensorial.
 
 Pots usar la teva acció per causar que la imatge es mogui a qualsevol punt en rang. Mentre la imatge canvia de localització, pots alterar la seva aparença de manera que els seus moviments semblin naturals. Per exemple, si crees una imatge d'una criatura i la mous, pots alterar la imatge per a que sembli estar caminant.
 

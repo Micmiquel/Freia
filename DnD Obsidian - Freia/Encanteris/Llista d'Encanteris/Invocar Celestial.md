@@ -35,8 +35,8 @@ La criatura és un aliat cap a tu i els teus companyes. En combat, la criatura c
 *Accions*
 - Multi-atac. El celestial fa un nombre d'atacs igual a la meitat del nivell d'aquest encanteri (arrodonint a la baixa).
 - Arc Radiant (Només Venjador). Atac d'Arma de Rang: el teu modificador d'atac d'encanteri per donar, rang 150/600 u., un objectiu. Dany: 2d6 + 2 + el nivell de l'encanteri dany radiant.
-- Maça Radiant (Només Defensro). Atac d'Arma Cos a Cos: el teu modificador d'atac d'encanteri per donar, rang 5 u., un objectiu. Dany: 1d10 + 3 + el nivell de l'encanteri dany radiant, i el celestial pot escollir-se a si mateix o a una altra criatura que pugui veure a 10 u. de l'objectiu. La criatura escollida guanya 1d10 punts vitals temporals.
-- Toc Curatiu (1/Dia). El celestial toca a una altra critura. L'objectiu recupera màgicament punts vitals iguals a 2d8 + el nivell de l'encanteri.
+- Maça Radiant (Només Defensor). Atac d'Arma Cos a Cos: el teu modificador d'atac d'encanteri per donar, rang 5 u., un objectiu. Dany: 1d10 + 3 + el nivell de l'encanteri dany radiant, i el celestial pot escollir-se a si mateix o a una altra criatura que pugui veure a 10 u. de l'objectiu. La criatura escollida guanya 1d10 punts vitals temporals.
+- Toc Curatiu (1/Dia). El celestial toca a una altra criatura. L'objectiu recupera màgicament punts vitals iguals a 2d8 + el nivell de l'encanteri.
 
 
 *Font: Summon Celestial, Tasha's Cauldron of Everything*

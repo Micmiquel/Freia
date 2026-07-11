@@ -92,7 +92,7 @@ Esculls un tipus de terreny favorit addicional al 6è i 10è nivell.
 ### Explorador Hàbil (Optional)
 Aquesta característica de 1r nivell reemplaça la característica Explorador Natural. No guanyes cap benefici de la característica reemplaçada i no qualifica per a res dins del joc que la requereixi.
 
-Ets un explorador i supervivent insuperat, tant en la natura com tractant amb altres en els teus viatges. Guanyes el benefici Astut següent, i guanyes un benefici addicional quan arribes al 6è i 10è nivell en aquesta classe.
+Ets un explorador i supervivent insuperat, tant en la natura com tractant amb altres en els teus viatges. Guanyes el benefici Rabosí següent, i guanyes un benefici addicional quan arribes al 6è i 10è nivell en aquesta classe.
 
 #### Rabosí (1r Nivell)
 Escull una de les teves proficiències de perícia. El teu bonus de proficiència es dobla per a qualsevol control que facis usant l'habilitat escollida.

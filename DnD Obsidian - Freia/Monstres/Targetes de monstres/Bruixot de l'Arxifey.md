@@ -9,7 +9,7 @@ Moral:
 Moral_2: 
 Mida: M
 ---
-# Bruixot de l'Arxifey
+9# Bruixot de l'Arxifey
 
 ```statblock
 monster: Bruixot de l'Arxifey

@@ -12,9 +12,9 @@
 
 Quan conjuris aquest encanteri, inscrius un glif que danya altres criatures, bé sobre una superfície (com per exemple una taula o una secció de terra o mur) o en un objecte que pot ser tancat (com per exemple un llibre, un pergamí, o o un cofre del tresor) per amagar el glif. El glif pot cobrir una àrea no major a 10 u. de diàmetre. Si la superfície o objecte és mogut més de 10 u. d'on conjures aquest encanteri, el glif és trencat, i l'encanteri acaba sense ser activat.
 
-El glif is gairebé invisible i requereix un control d'Intel·ligència (Investigació) exitós contra la teva CD de salvament d'encanteri per ser trobat.
+El glif és gairebé invisible i requereix un control d'Intel·ligència (Investigació) exitós contra la teva CD de salvament d'encanteri per ser trobat.
 
-Decideixes què activa el glif quan conjures l'encanteri. Per glifs inscrits en una superfície, els disparadors més típics inclouen tocar o estar sobre el glif, treure un altre objecte cobrint el glif, acostar-se a una certa distància del glif, o manipular l'objecte en que el glif és inscrit. Per glifs inscrits en un objecte, els disparadors més comuns inclouen obrir l'objecte, acostar-s'hi a una certa distànci, o veure o llegir el glif. Un cop un glif és activat, aquest encanteri acaba.
+Decideixes què activa el glif quan conjures l'encanteri. Per glifs inscrits en una superfície, els disparadors més típics inclouen tocar o estar sobre el glif, treure un altre objecte cobrint el glif, acostar-se a una certa distància del glif, o manipular l'objecte en que el glif és inscrit. Per glifs inscrits en un objecte, els disparadors més comuns inclouen obrir l'objecte, acostar-s'hi a una certa distància, o veure o llegir el glif. Un cop un glif és activat, aquest encanteri acaba.
 
 Pots refinar el disparador de manera que l'encanteri s'activi només sota certes circumstàncies o d'acord a característiques físiques (com per exemple alçada o pes), tipus de criatura (per exemple, pot ser preparat per afectar aberracions o drow), o alineació. També pots crear condicions per criatures que no activen el glif, com per exemple aquelles que diuen una contrasenya concreta.
 

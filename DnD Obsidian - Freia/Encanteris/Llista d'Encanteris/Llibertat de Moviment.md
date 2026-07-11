@@ -19,4 +19,4 @@ L'objectiu pot també gastar 5 u. de moviment per escapar automàticament de res
 
 
 
-Practicants:: [[[Classes/Artificier|Artificier]], [Classes/Bard|Bard]], [[Classes/Clergue|Clergue]], [[Classes/Druida|Druida]], [[Classes/Explorador|Explorador]], 
+Practicants:: [[Classes/Artificier|Artificier]], [[Classes/Bard|Bard]], [[Classes/Clergue|Clergue]], [[Classes/Druida|Druida]], [[Classes/Explorador|Explorador]], 

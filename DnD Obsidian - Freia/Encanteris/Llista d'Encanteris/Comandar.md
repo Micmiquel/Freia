@@ -10,7 +10,7 @@
 
 **Duració:** 1 ronda
 
-Dius una ordre d'una paraula a una criatura que pots veure en rang. L'objectiu ha de superar un salvament de Saviesa o seguir l'ordre en el seu proper torn. L'encanteri no té cap efecte si l'objectiu és un no-mort, si no entén la teva llengua, o si la teva ordre is directament danyosa per ell.
+Dius una ordre d'una paraula a una criatura que pots veure en rang. L'objectiu ha de superar un salvament de Saviesa o seguir l'ordre en el seu proper torn. L'encanteri no té cap efecte si l'objectiu és un no-mort, si no entén la teva llengua, o si la teva ordre és directament danyosa per ell.
 
 Algunes ordres típiques i els seus efectes es llisten a continuació. Pots triar una ordre diferent d'aquestes. Si ho fas, el MM determina com es comporta l'objectiu. Si l'objectiu no pot seguir la teva ordre, l'encanteri acaba.
 

@@ -91,7 +91,7 @@ Acabar un descans llarg redueix el nivell d'exhaustió d'una criatura per 1, sem
 - Els tirs d'atac contra la criatura tenen avantatge.
 - La criatura automàticament falla en salvaments de Força i Destresa.
 - La criatura té resistència a tot dany.
-- La criatura és immune al verí i malaltia, tot i que un verí o malaltia que ja estigui dins el seu sistema is suspès, no neutralitzat.
+- La criatura és immune al verí i malaltia, tot i que un verí o malaltia que ja estigui dins el seu sistema és suspès, no neutralitzat.
 
 ## Restringit
 - La velocitat d'una criatura restringida es torna 0, i no es pot beneficiar de cap bonus a la seva velocitat.

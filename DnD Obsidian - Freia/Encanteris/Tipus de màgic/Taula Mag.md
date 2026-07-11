@@ -42,7 +42,7 @@ columns:
     sortIndex: 1
     width: 176
     isSorted: true
-    isSortedDesc: false
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true

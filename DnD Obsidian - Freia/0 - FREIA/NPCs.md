@@ -28,7 +28,6 @@
 - **Rufus**: propietari de la taverna *El got buit*, al costat del Col·legi d'Historiadors.
 - **Varilia Zraghull** i **Clemens Fullorum**, una parella d'una gran dracònica daurada i un petit gnom mig calb, que treballen l'acer i el cuir respectivament a la seva forja *El martell d'or*.
 - *L'herència inesperada*, casa d'empenyorament portada per un nan canós que es tinta la barba amb betum negre. 
-- **Verna Bonabranca**: enviada de Riualt per representar els mitjans a la primera convenció de races. Rodanxona amb cabells pel-rojos arrissats.
 - **Zerebon l'Ull Blau**: vident local. Elf originari de Vanna, de cabells tenyits de blau.
 
 #### Col·legi de les Vuit Escoles
@@ -63,19 +62,35 @@ Gegants pirates:
 - **Folmar**: paladí fantasma mig-elf
 - **Zepryr**: vell paladí gnom, retirat i alcohòlic
 - **Emlorden**: druida de la muntanya
-- **Ramen**: goblin simpàtic i capaç, sense llengua
+- **Ramen**: goblin simpàtic i capaç, sense llengua. Ara viu amb la tribu d'en Grick a Fellwyn.
 
+### Roca de la Conversa
 
-## Al-Wahad
+- Guardes: **Jan** (comparteix llit amb Aelitha), **Gorkel** (guia)
+- El Diamant Verd. **Jorgalda Barbarril**: nana grassa de grans pits, amb barba de rastes castanyes, fuma puros.
+- **Gust a Fruita**: (Gust) mercant local de la Roca de la Promesa, d'aparença similar a la d'un puma. Representant dels tabaxi a la convenció de races. Gestiona Records de Suro, vins d'importació.
+- **Karmar Pelldura**: nan treballador a les mines dels Granitbrú. Actua com a espia de Iorgus en la recerca dels Gralls per Lepídia.
 
+#### Drow - Xukuth Orbb
+- **Selakiir Olonrae**: màgic drow, amb ganes d'escalar la jerarquia. S'alia amb els gralls per acabar amb Ghelanna i revelar el complot de Iorgus.
+- **Ghilanna Hune**: sacerdotessa de Lolth, principal veu rere la captura de la governadora Lepídia.
+- **Calithra Abbylan**: monarca dels drow de la ciutadella de Xukuth Orbb
+
+## Vanna
+
+### Nekhmeset
+- **Bennu Ophyries**: banquer dracònic blau, però no mostra la cara en públic. Representant dels cromàtics a la convenció de races.
+
+### Al-Wahad
 - **Quarim**: humà gras calb i moré, cuiner del príncep, ex-pirata
-### Xacals d'Anubis:
+
+#### Xacals d'Anubis:
 - **Eikididel**: noi humà
 - **Fullverd**: home mitjà
 - **Arkalnen**: dona mig-orc
 - **Oldira**: dona mig-orc
 
-### Òpal dels Mars:
+#### Òpal dels Mars:
 - **Manely**: capità humà, cortès i seductor
 - **Samara** i **Gisela**: marineres,mortes
 - **Zolga**: ex-pirata
@@ -88,14 +103,17 @@ Gegants pirates:
 - **Zhimoro**: espectador menor, guardià de l'Escut d'Ilneval
 - **Floriana Morfingol**: autor/a èlfica sobre la vida natural
 - **Nael "Mildents"**: pirata venjatiu, home tauró
-- **Gric**: líder goblin que cavalca un allosaure. Mentor d'en Ramen
+- **Grick**: líder goblin que cavalca un allosaure. Mentor d'en Ramen
+- **Quatre Ulls**: goblin amb ulleres, sap llegir. Membre de la tribu d'en Ramen.
 - **Girran**: cap hobgoblin, mort
 - **Irrgyn pellnevada**: cap gnoll, mort
+
 ### Cortines
 - **Thinerius** i Valseis, **pare** i mare d'Aelitha, tieflings amables i capaços. **Railea** és la mare tiefling de la Valseis.
 - **Valrai Afhiri**: ferrer tiefling, afable
 - **Amnone Briseis**: clergue tiefling de mitjana edat, altiva però de bon cor
 - **Levatra** i **Damcís Fres**: filla i pare tieflings, guerrers. El segon ha embogit amb els anys
+
 ### Mines
 - **Gorimash**: orc líder d'un clan, fort i guapot
 - **Elies Rius**
@@ -103,6 +121,7 @@ Gegants pirates:
 - **Arbuc Leblanc**: nan amb un clar impacte al cap, que l'ha deixat tocat. Obsessionat amb les runes antigues
 - **Dolia Darrós**
 - **Lectric**, **Daemar** i **Zerth**: caçadors d'Hermínia ,en Lectric i en Zert humans, i en Daemar elf. En Lectric és adorador d'Uller
+
 ### Punyfort
 - **Urug Punyfort**: enorme orc, líder vell del clan. Cerimoniós i intimidant, però de bon cor. Troba a faltar el seu fill
 - **Tulgan Punyfort**: fill d'Urug, expulsar del poble per dèbil i pacifista. Ara ambaixador del poble orc. Esprimatxat i amb una cua al seu cap mig calb.
@@ -115,15 +134,21 @@ Gegants pirates:
 ## Eidre
 
 - **Glug**: tortle, vell pescador, pare adoptiu de **Rumin** i **Fikli**, un nen i nena nans
-- Yolanda la Torçada: bruixa annis, va morir a mans dels Gralls, però ha tornat d'entre els morts i busca un pacte amb l'Unagui.
+- **Yolanda la Torçada**: bruixa annis, va morir a mans dels Gralls, però ha tornat d'entre els morts i busca un pacte amb l'Unagui.
+- **Fang Yun**: mig-ogressa, gestiona un gran nombre de negocis a Lírissa. Representant dels mig-ogres a la convenció de races
 
 ## Siras
 
 ### Mandragoran
+
 - **Sariya Mandragoran**: mare d'en Yogher, humana
 - **Daemont Mandragoran**: hereu Mandragoran, humà, mort en circumstàncies misterioses
 - **Galad Mandragoran**: actual hereu Mandragoran, humà, va posar en Yogher en busca i captura.
-- **Wymon Mandragoran**: aventurer honorós, germà de Galad, entrat en anys, porta un bigoti
+- **Wymon Mandragoran**: aventurer honorós, germà de Galad, entrat en anys, porta un bigoti. Mort en un accident de caça.
+
+### Niisnel
+- **Baatar, fill de Ganbold**: rei de Siras. Jove adult humà.
+- **Enkthuya, filla de Gerel**: consellera de Baatar, part d'un llinatge de consellers mig-elfs des de la fundació del regne.
 
 ## Terres dels Rius
 
@@ -131,11 +156,13 @@ Gegants pirates:
 - **Ickx**: nan druida, mentor de l'Hilda
 - **Darlya**: mercadera, coneguda d'en Yogher i l'Hilda. Es desconeix si està viva, i on pot ser
 - **Verònica**: guarda a Vellarbre, aspirant a bard del Col·legi dels Bards Ambulants. Amiga d'en Yogher.
-
+- **Verna Bonabranca**: enviada de Riualt per representar els mitjans a la primera convenció de races. Rodanxona amb cabells pel-rojos arrissats.
+- **Isaac Vinyes**. Primer coronel de l'exèrcit de Riubaix, a Gran Salze. Tens amb Verna.
 
 ## Thir
 
 - **Erdos Zekeres**: amic d'en Naek-t, ha marxat al nord per unir-se a alguna lluita
+- **Areath Peudemolsa**, membre del consell del Banc de la Sal, de Thir, a Nysos.
 
 ## Garakh
 
@@ -151,3 +178,11 @@ Gegants pirates:
 ## República d'Ethos
 
 - **Xoll**: genasi d'aigua androgen i no binari, afable i viu. Va néixer al Pla de l'Aigua, on el seu pare és un líder local, però a viscut a Freia la major part de la seva vida. Representant dels genasi a la convenció de races.
+	- Pare: Pelagi
+- **Geltina Trenombra**: alcaldessa de Dornwich, a la República d'Ethos. Representant dels gnoms a la convenció de races. 
+
+## Uruviel
+
+- **Gaelira**: sobirana d'Uruviel.
+- **Gorduin**: quart fill de Gaelira, prim i pel-roig, membre de l'ordre dels Ancians. Representant del seu poble a la convenció de races.
+- **Adrona Volboirós**: firbolg representant del seu poble a la convenció de races.

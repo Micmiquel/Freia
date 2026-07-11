@@ -156,7 +156,7 @@ A no ser que la descripció d'una infusió ho especifiqui, no pots aprendre una 
 #### Anell Alimenta-Encanteris
 *Requisit previ: 6è nivell d'artificier*
 *Objecte: Un anell (requereix harmonització)*
-Mentre portis aquest anell, pots recuperar una casella d'encanteri gastada amb una acció. La casella recuperada pot ser de 3r nivell o menor. Un cop usat, l'anell no po utilitzar-se una altra vegada fins la propera albada.
+Mentre portis aquest anell, pots recuperar una casella d'encanteri gastada amb una acció. La casella recuperada pot ser de 3r nivell o menor. Un cop usat, l'anell no pot utilitzar-se una altra vegada fins la propera albada.
 #### Arma Bonificada
 *Objecte: Una arma simple o marcial*
 Aquesta arma màgica atorga un +1 de bonus a tirs d'atac i dany fets amb ella.
@@ -186,10 +186,11 @@ El portador d'aquesta armadura guanya aquests beneficis:
 #### Armadura Resistent
 *Requisit previ: 6è nivell d'artificier*
 *Objecte: Una armadura (requereix harmonització)*
-Mentre portis aquesta armadura, tens resistència a un dels següents tipus de dany, que esculls al infondre l'objecte: àcid, fred, foc, força, elèctric, necròtic, verí, psíquic, radiant, o so.#### Botes del Camí Sinuós
+Mentre portis aquesta armadura, tens resistència a un dels següents tipus de dany, que esculls al infondre l'objecte: àcid, fred, foc, força, elèctric, necròtic, verí, psíquic, radiant, o so.
+#### Botes del Camí Sinuós
 *Requisit previ: 6è nivell d'artificier*
 *Objecte: Un parell de botes (requereix harmonització)*
-Mentre vesteixis aquestes botes, et pots teletransportar fins a 14 u. amb una acció bonus, a un espai no ocupat que puguis veure. Has d'haver ocupat aquest espai en algun moment durant el torn actual.
+Mentre vesteixis aquestes botes, et pots teletransportar fins a 15 u. amb una acció bonus, a un espai no ocupat que puguis veure. Has d'haver ocupat aquest espai en algun moment durant el torn actual.
 #### Casc d'Atenció
 *Requisit previ: 10è nivell d'artificier*
 *Objecte: Un casc (requereix harmonització)*

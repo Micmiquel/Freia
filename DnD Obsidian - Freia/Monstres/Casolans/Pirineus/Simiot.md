@@ -9,7 +9,7 @@ Moral: C
 Moral_2: M
 Mida: G
 ---
-# Simiot
+ # Simiot
 
 ```statblock
 monster: Simiot

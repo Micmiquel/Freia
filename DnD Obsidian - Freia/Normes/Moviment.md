@@ -8,7 +8,7 @@ Tot i això, a vegades és important quant es tarda en arribar d'un lloc a un al
 
 ## Velocitat
 
-Cada personatge i monstre té una velocitat, que is la distància en u. que el personatge o monstre pot caminar en 1 ronda. Aquest nombre presumeix petites explosions de moviment energètic enmig d'una situació potencialment mortal.
+Cada personatge i monstre té una velocitat, que és la distància en u. que el personatge o monstre pot caminar en 1 ronda. Aquest nombre presumeix petites explosions de moviment energètic enmig d'una situació potencialment mortal.
 
 Les següents normes determinen com de lluny es pot moure un personatge o monstre en un minut, una hora, o un dia.
 
