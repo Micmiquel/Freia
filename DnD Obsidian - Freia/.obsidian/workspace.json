@@ -11,12 +11,10 @@
             "id": "e741d6edd049be4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0bsidian/Preguntes Freqüents.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -25,10 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0bsidian/Contingut.md",
+                "file": "Monstres/Targetes de monstres/Aarakocra.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aarakocra"
             }
           }
         ],
@@ -51,8 +51,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -67,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -75,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0bsidian/Contingut.md",
+                "file": "Monstres/Targetes de monstres/Aarakocra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Aarakocra"
             }
           },
           {
@@ -115,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0bsidian/Contingut.md",
+                "file": "Monstres/Targetes de monstres/Aarakocra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Aarakocra"
             }
           },
           {
@@ -128,8 +139,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -138,8 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0bsidian/Contingut.md"
-              }
+                "file": "Monstres/Targetes de monstres/Aarakocra.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Aarakocra"
             }
           },
           {
@@ -151,25 +171,13 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ac734e23a9791eb0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7ed280db7e3933a",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -178,20 +186,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
+      "dbfolder:Crear una nueva tabla de base de datos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "c070dd7c15c7bebc",
   "lastOpenFiles": [
+    "Monstres/Casolans/Altres One-Shots/Aberració Abissal.md",
+    "Monstres/Casolans/Altres fonts/Home Cocodril.md",
+    "Monstres/Casolans/Altres fonts/Arbre Vampíric.md",
     "0bsidian/Preguntes Freqüents.md",
     "TASQUES PENDENTS OBSIDIAN.md",
     "0bsidian/Contingut.md",
@@ -216,9 +228,6 @@
     "Monstres/Targetes de monstres/Arcanaloth.md",
     "Monstres/Targetes de monstres/Yuan-ti Mestre del Fossar.md",
     "Normes/Combat.md",
-    "Normes/Fer un Atac.md",
-    "Monstres/Targetes de monstres/Yuan-ti Portaveu del Malson.md",
-    "Monstres/Targetes de monstres/Yuan-ti Xiuxiuejador Mental.md",
     "0bsidian/Fotos/dona-pantinaga.png",
     "Pasted image 20240710121932.png",
     "Pasted image 20240709134333.png",
