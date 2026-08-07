@@ -17,4 +17,4 @@ Conjures un mur de sorra arremolinant-se al terra en un punt que puguis veure en
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

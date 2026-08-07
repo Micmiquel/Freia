@@ -20,4 +20,4 @@ El dany d'aquest encanteri incrementa per 1d8 quan arribes un nivell 5 (2d8), ni
 *Font: Produce Flame, PHB*
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

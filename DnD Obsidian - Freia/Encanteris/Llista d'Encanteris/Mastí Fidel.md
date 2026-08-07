@@ -21,4 +21,4 @@ Al principi de cada un dels teus torns, el mastí intenta mossegar una criatura 
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

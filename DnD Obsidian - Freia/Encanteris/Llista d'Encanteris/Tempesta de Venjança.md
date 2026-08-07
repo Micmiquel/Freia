@@ -27,4 +27,4 @@ En cada ronda en que mantens la concentració en aquest encanteri, la tempesta p
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

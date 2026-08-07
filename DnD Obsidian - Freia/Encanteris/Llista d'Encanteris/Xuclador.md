@@ -15,4 +15,4 @@ Una massa d'aigua de 5 u. de profunditat apareix i s'arremolina en un radi de 30
 
 *Font: Maelstrom, Xanathar's Guide to Everything*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

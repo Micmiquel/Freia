@@ -30,4 +30,4 @@ Conjurar aquest encanteri en el mateix lloc cada dia per un any fa aquest efecte
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

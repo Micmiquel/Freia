@@ -18,4 +18,4 @@ Per la duració, tu o una criatura que esculls pot muntar la muntura. La criatur
 *Font: Phantom Steed, PHB*
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

@@ -23,4 +23,4 @@ L'àrea de l'encanteri no es pot encavalcar amb l'àrea d'un altre encanteri de 
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

@@ -17,4 +17,4 @@ El proper cop que donis a una criatura amb un atac d'arma cos a cos durant la du
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

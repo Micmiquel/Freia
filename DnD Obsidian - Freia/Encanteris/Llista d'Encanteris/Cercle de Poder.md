@@ -19,4 +19,4 @@ Addicionalment, quan una criatura afectada supera un salvament fet contra un enc
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

@@ -18,4 +18,4 @@ Si una criatura està en forma de núvol i volant quan l'efecte acaba, la criatu
 *Font: Wind Walk, PHB*
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

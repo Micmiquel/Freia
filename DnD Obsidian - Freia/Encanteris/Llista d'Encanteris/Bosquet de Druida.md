@@ -29,4 +29,4 @@ Per a una criatura immune a aquest efecte, els vents són gentils brises fragant
 
 *Font: Druid Grove, Xanathar's Guide to Everything*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

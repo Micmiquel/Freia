@@ -19,4 +19,4 @@ El dany d'aquest encanteri augmenta per 1d4 quan arribes un nivell 5 (2d4), n
 
 
 
-Practicants:: [[Classes/Bard|Bard]], ,
+Practicants:: [[Classes/Bard|Bard]]

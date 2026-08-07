@@ -17,4 +17,4 @@ Invoques un esperit que pren la forma d'una lleial muntura majestuosa. Apareixen
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

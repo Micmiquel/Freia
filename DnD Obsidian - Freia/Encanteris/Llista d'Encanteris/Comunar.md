@@ -21,4 +21,4 @@ Si conjures l'encanteri dos o més cops abans d'acabar el teu proper descans lla
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

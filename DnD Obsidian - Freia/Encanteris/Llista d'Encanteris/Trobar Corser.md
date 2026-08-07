@@ -25,4 +25,4 @@ No pots tenir més d'un corser lligat per aquest encanteri a la vegada. Amb una 
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

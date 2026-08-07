@@ -17,4 +17,4 @@ Ets immune a tot dany fins que l'encanteri acabi.
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

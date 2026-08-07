@@ -19,4 +19,4 @@ En cada un dels teus torns fins que l'encanteri acabi, pots usar una acció bonu
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

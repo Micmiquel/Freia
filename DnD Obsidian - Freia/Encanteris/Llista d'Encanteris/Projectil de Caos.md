@@ -34,4 +34,4 @@ Una criatura pot ser afectada només una vegada per cada conjuració d'aquest en
 
 
 
-Practicants:: [[Classes/Fetiller|Fetiller]], ,
+Practicants:: [[Classes/Fetiller|Fetiller]]

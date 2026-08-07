@@ -16,4 +16,4 @@ Dispares una peça de munició no màgica d'una arma de rang, o llences una arma
 *Font: Conjure Volley, PHB*
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

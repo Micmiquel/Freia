@@ -19,4 +19,4 @@ El proper cop que donis a una criatura amb un atac de rang d'arma abans de que l
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

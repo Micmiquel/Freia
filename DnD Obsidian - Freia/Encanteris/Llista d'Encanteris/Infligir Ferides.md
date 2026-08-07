@@ -19,4 +19,4 @@ Fes un atac cos a cos màgic contra una criatura a la que arribis. En donar, l'o
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

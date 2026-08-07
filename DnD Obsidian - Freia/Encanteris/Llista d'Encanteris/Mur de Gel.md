@@ -23,4 +23,4 @@ El mur és un objecte que pot ser danyat i per tant travessat. Té un CA de 12 i
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

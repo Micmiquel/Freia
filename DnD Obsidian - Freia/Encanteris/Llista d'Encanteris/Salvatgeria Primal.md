@@ -17,4 +17,4 @@ El dany d'aquest encanteri incrementa en 1d10 quan arribes un nivell 5 (2d10
 
 *Font: Primal Savagery, Xanathar's Guide to Everything*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

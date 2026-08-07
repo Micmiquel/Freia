@@ -21,4 +21,4 @@ Xiuxiuejant als esperits de la natura, crees un dels següents efectes en rang:
 *Font: Druidcraft, PHB*
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

@@ -19,4 +19,4 @@ Quan ets afectat per un encanteri o atac mentre aquest encanteri és en efecte, 
 
 
 
-Practicants:: [[Classes/Druida|Druida]], [[Classes/Explorador|Explorador]], [[Classes/Fetiller|Fetiller]]
+Practicants:: [[Classes/Druida|Druida]], [[Classes/Explorador|Explorador]], [[Classes/Fetiller|Fetiller]],

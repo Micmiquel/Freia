@@ -25,4 +25,4 @@ La il·lusió és tangible gràcies a la substància d'ombra usada en crear-la, 
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

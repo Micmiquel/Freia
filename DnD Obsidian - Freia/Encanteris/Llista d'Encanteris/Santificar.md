@@ -41,4 +41,4 @@ Segonament, pots lligar un efecte extra a l'àrea. Escull l'efecte que vulguis d
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

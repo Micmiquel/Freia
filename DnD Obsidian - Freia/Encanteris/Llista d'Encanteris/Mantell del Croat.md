@@ -17,4 +17,4 @@ Poder sagrat radia de tu en una aura amb un radi de 30 u., despertant gosadia en
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

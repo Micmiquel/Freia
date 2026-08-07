@@ -19,4 +19,4 @@ Una columna vertical de foc diví rugeix des dels cels en una localització que 
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

@@ -25,4 +25,4 @@ En cada un dels teus torns posteriors a conjurar aquest encanteri, pots usar una
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

@@ -21,4 +21,4 @@ Quan conjuris aquest encanteri, pots designar les criatures que puguis veure que
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

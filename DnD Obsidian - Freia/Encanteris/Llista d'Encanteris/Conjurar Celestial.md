@@ -23,4 +23,4 @@ El MM té les estadístiques del celestial.
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

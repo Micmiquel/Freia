@@ -23,4 +23,4 @@ Un encanteri de [[Desintegrar]] que afecti el globus el destrueix sense danyar r
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

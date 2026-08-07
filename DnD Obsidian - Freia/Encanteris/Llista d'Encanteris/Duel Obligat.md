@@ -19,4 +19,4 @@ L'encanteri acaba abans si ataques qualsevol altra criatura, si conjures un enca
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

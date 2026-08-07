@@ -62,7 +62,7 @@ columns:
     position: 3
     skipPersist: false
     isHidden: false
-    sortIndex: 1
+    sortIndex: 0
     width: 158
     isSorted: true
     isSortedDesc: false

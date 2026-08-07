@@ -21,4 +21,4 @@ Si un pilar és impedit d'arribar a la seva alçada sencera a causa d'un sostre 
 
 *Font: Bones of the Earth, Xanathar's Guide to Everything*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

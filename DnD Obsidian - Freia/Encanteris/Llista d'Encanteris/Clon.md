@@ -21,4 +21,4 @@ El clon és físicament idèntic a l'original i té la mateixa personalitat, rec
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

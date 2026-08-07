@@ -19,4 +19,4 @@ Fins a tres criatures escollides per tu que puguis veure dins del rang han de fe
 
 
 
-Practicants:: [[Classes/Bard|Bard]], [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Bard|Bard]], [[Classes/Clergue|Clergue]]

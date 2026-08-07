@@ -21,4 +21,4 @@ Conjurar aquest encanteri mentre aguantes un fil de pensament et permet rebre in
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

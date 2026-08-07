@@ -17,4 +17,4 @@ Una riuada d'energia curativa flueix de tu cap a criatures ferides al teu voltan
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

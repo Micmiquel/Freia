@@ -19,4 +19,4 @@ Al cridar paraules de restauració, fins a sis criatures escollides per tu que p
 
 
 
-Practicants:: [[Classes/Bard|Bard]] (Opcional), [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Bard|Bard]] (Opcional), [[Classes/Clergue|Clergue]]

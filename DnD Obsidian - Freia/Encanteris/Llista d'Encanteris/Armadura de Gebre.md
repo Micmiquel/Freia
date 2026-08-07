@@ -19,4 +19,4 @@ Una força màgica protectora t'envolta, manifestant-se com gebre espectral que 
 
 
 
-Practicants:: [[Classes/Bruixot|Bruixot]], ,
+Practicants:: [[Classes/Bruixot|Bruixot]]

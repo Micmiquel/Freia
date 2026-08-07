@@ -17,4 +17,4 @@ Llences una arma no màgica o dispares una peça de munició no màgica a l'aire
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

@@ -16,4 +16,4 @@ El proper cop que donis a una criatura amb un atac d'arma cos a cos durant la du
 *Font: Wrathful Smite, PHB*
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

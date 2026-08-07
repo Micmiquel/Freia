@@ -18,4 +18,4 @@ Qualsevol criatura hostil cap a tu que es mou a un espai a 10 u. del guardià pe
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

@@ -42,4 +42,4 @@ La criatura reencarnada recorda la seva  vida i experiències prèvies. Retén l
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

@@ -24,4 +24,4 @@ Independentment dels seus punts vitals actuals, un celestial, un elemental, un f
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

@@ -21,4 +21,4 @@ Pots fixar una condició per a que l'encanteri acabi abans d'hora. La condició 
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

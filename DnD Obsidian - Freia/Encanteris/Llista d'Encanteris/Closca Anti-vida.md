@@ -21,4 +21,4 @@ Si et mous de manera que una criatura afectada és forçada a passar a través d
 
 
 
-Practicants::  [[Classes/Druida|Druida]], ,
+Practicants::  [[Classes/Druida|Druida]]

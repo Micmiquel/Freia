@@ -19,4 +19,4 @@ El dany de l'encanteri augmenta per 1d8 quan arribes un nivell 5 (2d8), nivell 1
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

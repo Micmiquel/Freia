@@ -21,4 +21,4 @@ Una criatura restringida pels tentacles pot usar la seva acció per fer un contr
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

@@ -19,4 +19,4 @@ Un objectiu no està obligat a moure's dins un perill mortal obvi, com per exem
 
 
 
-Practicants:: [[Classes/Bard|Bard]], ,
+Practicants:: [[Classes/Bard|Bard]]

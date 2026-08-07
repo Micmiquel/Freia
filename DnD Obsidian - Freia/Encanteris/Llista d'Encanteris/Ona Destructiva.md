@@ -17,4 +17,4 @@ Colpeges el terra, creant una explosió d'energia divina que ondula enllà de tu
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

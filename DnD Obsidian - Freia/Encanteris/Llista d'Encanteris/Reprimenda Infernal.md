@@ -19,4 +19,4 @@ Senyales amb el dit, i la criatura que t'hagi danyar és envoltada momentàniame
 
 
 
-Practicants:: [[Classes/Bruixot|Bruixot]], ,
+Practicants:: [[Classes/Bruixot|Bruixot]]

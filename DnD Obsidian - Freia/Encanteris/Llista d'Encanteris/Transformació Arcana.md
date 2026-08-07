@@ -24,4 +24,4 @@ Immediatament després de que l'encanteri acabi, has de superar un salvament de 
 
 *Font: Tenser's Transformation, Xanathar's Guide to Everything*
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

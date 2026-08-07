@@ -25,4 +25,4 @@ Una criatura enllistada per unir-se al teu grup conta com un membre, i rep la se
 
 *Font: Planar Ally, PHB*
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

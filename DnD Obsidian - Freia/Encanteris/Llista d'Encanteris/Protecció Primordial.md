@@ -17,4 +17,4 @@ Quan reps dany d'un d'aquests tipus, pots usar la teva reacció per a guanyar im
 
 *Font: Primordial Ward, Xanathar's Guide to Everything*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

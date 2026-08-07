@@ -20,4 +20,4 @@ Mentre estigui restringit per aquest encanteri, l'objectiu rep 1d6 dany perforan
 *Font: Ensnaring Strike, PHB*
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

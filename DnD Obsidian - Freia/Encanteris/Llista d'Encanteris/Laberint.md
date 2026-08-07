@@ -21,4 +21,4 @@ Quan l'encanteri acaba, l'objectiu reapareix a l'espai que ha deixat o, si aquel
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

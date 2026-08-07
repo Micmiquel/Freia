@@ -28,4 +28,4 @@ Quan conjuris l'encanteri, decideixes quin tipus de seguretat proporciona l'enca
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

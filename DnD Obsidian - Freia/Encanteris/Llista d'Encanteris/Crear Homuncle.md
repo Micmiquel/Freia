@@ -17,4 +17,4 @@ Mentre recites un intricat sortilegi, et tallas amb una daga amb joies incrustad
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

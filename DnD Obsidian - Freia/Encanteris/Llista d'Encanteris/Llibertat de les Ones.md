@@ -19,4 +19,4 @@ Si ets dins de l'àrea de l'encanteri, com a part de l'acció que uses per a con
 
 
 
-Practicants:: [[Classes/Druida|Druida]], [[Classes/Explorador|Explorador]], [[Classes/Fetiller|Fetiller]]
+Practicants:: [[Classes/Druida|Druida]], [[Classes/Explorador|Explorador]], [[Classes/Fetiller|Fetiller]],

@@ -21,4 +21,4 @@ Quan conjures aquest encanteri, pots designar qualsevols criatures que escullis,
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

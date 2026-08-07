@@ -28,4 +28,4 @@ Quan l'encanteri acaba, el contenidor és destruït.
 *Font: Magic Jar, PHB*
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

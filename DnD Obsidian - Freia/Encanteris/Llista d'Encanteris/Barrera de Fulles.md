@@ -19,4 +19,4 @@ Quan una criatura entra l'àrea del mur per primer cop en un torn o hi comença 
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

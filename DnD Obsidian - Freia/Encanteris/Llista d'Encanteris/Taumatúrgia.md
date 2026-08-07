@@ -26,4 +26,4 @@ Si conjures aquest encanteri múltiples cops, pots tenir fins a tres dels seus e
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

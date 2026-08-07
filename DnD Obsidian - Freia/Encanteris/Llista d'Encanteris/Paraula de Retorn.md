@@ -19,4 +19,4 @@ Has de designar un santuari conjurant aquest encanteri en una localització, com
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

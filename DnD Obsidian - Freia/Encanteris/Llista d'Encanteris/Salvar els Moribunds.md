@@ -17,4 +17,4 @@ Toques una criatura viva que tingui 0 punts vitals. La criatura queda estable. A
 
 
 
-Practicants:: [[Classes/Artificier|Artificier]], [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Artificier|Artificier]], [[Classes/Clergue|Clergue]],

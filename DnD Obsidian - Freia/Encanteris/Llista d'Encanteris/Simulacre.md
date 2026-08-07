@@ -23,4 +23,4 @@ Si conjures aquest encanteri una altra vegada, tot duplicat actualment actiu que
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

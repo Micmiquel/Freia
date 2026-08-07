@@ -23,4 +23,4 @@ La peça de munició o arma llavors retorna a la seva forma normal.
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

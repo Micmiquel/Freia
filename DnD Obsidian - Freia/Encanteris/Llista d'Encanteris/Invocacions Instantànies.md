@@ -23,4 +23,4 @@ Si una altra criatura està aguantant o portant l'objecte, aixafar el safir no t
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

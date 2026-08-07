@@ -19,4 +19,4 @@ Fins que l'encanteri acabi, tu i l'objectiu podeu compartir instantàniament par
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

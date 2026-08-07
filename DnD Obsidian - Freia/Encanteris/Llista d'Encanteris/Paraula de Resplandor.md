@@ -18,4 +18,4 @@ El dany d'aquest encanteri incrementa en 1d6 quan arribes un nivell 5 (2d6),
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

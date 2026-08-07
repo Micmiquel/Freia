@@ -17,4 +17,4 @@ Alliberes una malaltia virulenta en una criatura que puguis veure dins del rang.
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

@@ -18,4 +18,4 @@ Xiuxiueges una melodia dissonant que només una criatura en rang de la teva elec
 *Font: Dissonant Whispers, PHB*
 
 
-Practicants:: [[Classes/Bard|Bard]], ,
+Practicants:: [[Classes/Bard|Bard]]

@@ -19,4 +19,4 @@ Un cop abans de que l'encanteri acabi, pots donar-te avantatge en un tir d'atac 
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

@@ -21,4 +21,4 @@ Qualsevol magen que cre√Øs amb aquest encanteri obeeix les teves ordres sense q√
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

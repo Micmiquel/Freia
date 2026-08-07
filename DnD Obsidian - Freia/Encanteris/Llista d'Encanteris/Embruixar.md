@@ -23,4 +23,4 @@ Conjurar [[Eliminar Maledicció]] sobre l'objectiu acaba amb aquest encanteri ab
 
 
 
-Practicants:: [[Classes/Bruixot|Bruixot]], ,
+Practicants:: [[Classes/Bruixot|Bruixot]]

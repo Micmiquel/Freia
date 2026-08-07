@@ -20,4 +20,4 @@ L'encanteri de contingència té efecte només en tu, fins i tot si normalment p
 *Font: Contingency, PHB*
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

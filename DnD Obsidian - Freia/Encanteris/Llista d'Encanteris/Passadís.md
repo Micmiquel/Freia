@@ -19,4 +19,4 @@ Quan l'obertura desapareix, tota criatura o objectes encara dins del passadís c
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

@@ -29,4 +29,4 @@ Conjurar aquest encanteri en el mateix lloc un cop cada 7 dies per un any fa aqu
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

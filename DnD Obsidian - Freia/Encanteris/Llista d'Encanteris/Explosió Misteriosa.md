@@ -19,4 +19,4 @@ L'encanteri crea més d'un feix quan arribes a nivells superiors: dos feixos 
 
 
 
-Practicants:: [[Classes/Bruixot|Bruixot]], ,
+Practicants:: [[Classes/Bruixot|Bruixot]]

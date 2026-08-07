@@ -21,4 +21,4 @@ L'equipament de l'objectiu es fon en la seva nova forma. L'objectiu no pot activ
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

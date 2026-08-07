@@ -25,4 +25,4 @@ Conjurar aquest encanteri per tornar a la vida a una criatura que porti morta un
 
 
 
-Practicants:: [[Classes/Bard|Bard]], [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Bard|Bard]], [[Classes/Clergue|Clergue]],

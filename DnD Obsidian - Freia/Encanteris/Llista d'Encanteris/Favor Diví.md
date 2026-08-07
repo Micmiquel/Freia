@@ -17,4 +17,4 @@ La teva pregaria t'empodera amb resplendor divina. Fins que l'encanteri acabi, e
 
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

@@ -17,4 +17,4 @@ Llum divina sorgeix de tu i es fon en una brillantor suau en un radi de 30 u. al
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

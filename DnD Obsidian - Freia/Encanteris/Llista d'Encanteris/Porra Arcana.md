@@ -17,4 +17,4 @@ La fusta d'un garrot o bastó que estàs aguantant és imbuïda amb poders de la
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

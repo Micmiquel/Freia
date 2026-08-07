@@ -19,4 +19,4 @@ Esculls una criatura que pots veure en rang i místicament la marques com a la t
 
 
 
-Practicants:: [[Classes/Explorador|Explorador]], ,
+Practicants:: [[Classes/Explorador|Explorador]]

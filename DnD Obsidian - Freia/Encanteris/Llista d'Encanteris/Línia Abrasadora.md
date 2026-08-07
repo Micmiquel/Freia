@@ -19,4 +19,4 @@ Una línia de flames rugint de 30 u. de llarg i 5 u. d'ample emana de tu en una 
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

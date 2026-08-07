@@ -23,4 +23,4 @@ Quan conjures l'encanteri, escull un o ambdós dels següents efectes. L'efecte 
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

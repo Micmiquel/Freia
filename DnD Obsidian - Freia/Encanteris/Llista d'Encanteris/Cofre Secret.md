@@ -21,4 +21,4 @@ Després de 60 dies, hi ha un 5% acumulatiu de probabilitats per dia de que l'ef
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

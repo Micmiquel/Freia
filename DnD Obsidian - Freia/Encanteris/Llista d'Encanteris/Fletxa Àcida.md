@@ -19,4 +19,4 @@ Una fletxa verda lluent es dispara cap a un objectiu en rang i esclata en un esp
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

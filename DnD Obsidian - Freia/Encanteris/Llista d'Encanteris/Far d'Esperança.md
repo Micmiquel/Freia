@@ -17,4 +17,4 @@ Aquest encanteri atorga esperança i vitalitat. Escull un nombre de criatures en
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

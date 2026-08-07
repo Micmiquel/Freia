@@ -19,4 +19,4 @@ Un flaix de llum llampegueja cap a una criatura de la teva elecció en rang. Fes
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

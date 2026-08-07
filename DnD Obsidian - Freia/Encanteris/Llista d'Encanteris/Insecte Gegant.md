@@ -23,4 +23,4 @@ El MM pot permetre't escollir diferent objectius. Per exemple, si transformes un
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

@@ -19,4 +19,4 @@ Circells d'energia fosca erupcionen de tu i maquen tota criatura a 10 u. de tu. 
 
 
 
-Practicants:: [[Classes/Bruixot|Bruixot]], ,
+Practicants:: [[Classes/Bruixot|Bruixot]]

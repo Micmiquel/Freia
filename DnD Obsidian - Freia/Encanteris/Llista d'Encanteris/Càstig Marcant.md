@@ -18,4 +18,4 @@ El proper cop que donis a una criatura amb un atac d'arma abans que aquest encan
 *Font: Branding Smite, PHB*
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

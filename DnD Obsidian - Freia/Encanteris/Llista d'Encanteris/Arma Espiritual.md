@@ -23,4 +23,4 @@ L'arma pot prendre la forma que escullis. Clergues de deïtats associades amb un
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

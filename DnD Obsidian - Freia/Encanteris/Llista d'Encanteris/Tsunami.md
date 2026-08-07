@@ -21,4 +21,4 @@ Una criatura atrapada en el mur es pot moure nedant. Tot i això, degut a la for
 
 *Font: Tsunami, PHB*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

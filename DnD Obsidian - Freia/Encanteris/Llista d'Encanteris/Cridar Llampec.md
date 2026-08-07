@@ -23,4 +23,4 @@ Si ets a l'aire lliure en condicions tempestuoses quan conjures aquest encanteri
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

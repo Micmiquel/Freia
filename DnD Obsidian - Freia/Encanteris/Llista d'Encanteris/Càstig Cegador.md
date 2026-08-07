@@ -18,4 +18,4 @@ Una criatura encegada per aquest encanteri fa un altre salvament de Constitució
 *Font: Blinding Smite, PHB*
 
 
-Practicants:: [[Classes/Paladí|Paladí]], ,
+Practicants:: [[Classes/Paladí|Paladí]]

@@ -19,4 +19,4 @@ El buit crea una deformació en el teixit de l'espai, i l'àrea és terreny dif�
 
 
 
-Practicants:: [[Classes/Clergue|Clergue]], ,
+Practicants:: [[Classes/Clergue|Clergue]]

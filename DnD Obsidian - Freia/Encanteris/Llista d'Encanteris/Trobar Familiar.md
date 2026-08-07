@@ -29,4 +29,4 @@ Finalment, quan conjures un encanteri cos a cos, el teu familiar pot descarre
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

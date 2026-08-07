@@ -19,4 +19,4 @@ Fins que l'encanteri acabi, tens resistència al dany radiant. A més, quan una 
 
 
 
-Practicants:: [[Classes/Bruixot|Bruixot]], ,
+Practicants:: [[Classes/Bruixot|Bruixot]]

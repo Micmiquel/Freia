@@ -21,4 +21,4 @@ Una criatura es pot moure a través del mur, tot i que lentament i i dolorosa. P
 
 *Font: Wall of Thorns, PHB*
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]

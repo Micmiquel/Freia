@@ -17,4 +17,4 @@ Res pot passar físicament a través del mur. Éss immune a tot dany i no pot se
 
 *Font: Wall of Force, PHB*
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

@@ -21,4 +21,4 @@ Si et mous a més de 100 u. del disc (normalment perquè no pot sortejar un obst
 
 
 
-Practicants:: [[Classes/Mag|Mag]], ,
+Practicants:: [[Classes/Mag|Mag]]

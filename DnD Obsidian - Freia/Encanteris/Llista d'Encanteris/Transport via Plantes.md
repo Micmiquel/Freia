@@ -17,4 +17,4 @@ Aquest encanteri crea un vincle màgic entre una planta inanimada Gran o major e
 
 
 
-Practicants:: [[Classes/Druida|Druida]], ,
+Practicants:: [[Classes/Druida|Druida]]
