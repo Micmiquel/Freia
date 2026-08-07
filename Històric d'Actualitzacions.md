@@ -51,4 +51,10 @@ A continuació, es detallen les addicions realitzades en cada actualització:
 - S'han realitzat diverses correccions gramaticals i ortogràfiques
 - S'han reparat enllaços interns
 
+#### 4.2.2
+- Actualització per el correcte funcionament amb el plugin statblocks
+
+#### 4.2.3
+- S'han realitzat diverses correccions amb els formats dels practicants dels encanteris per la visualització a la taula
+
 Si voleu donar suport a aquest projecte, podeu fer un donatiu a través d'aquest enllaç: https://buymeacoffee.com/micmiquel
